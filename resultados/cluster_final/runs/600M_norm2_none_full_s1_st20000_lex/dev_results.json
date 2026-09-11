@@ -1,0 +1,22 @@
+{
+ "dev_const.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 29.88,
+  "spBLEU": 13.67,
+  "n": 233
+ },
+ "dev_const.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 34.48,
+  "spBLEU": 15.74,
+  "n": 233
+ },
+ "dev_extra.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 61.99,
+  "spBLEU": 51.78,
+  "n": 372
+ },
+ "dev_extra.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 57.32,
+  "spBLEU": 41.52,
+  "n": 372
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "dev_fala.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 49.83,
+  "spBLEU": 33.13,
+  "n": 116
+ },
+ "dev_fala.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 52.31,
+  "spBLEU": 34.34,
+  "n": 116
+ }
+}

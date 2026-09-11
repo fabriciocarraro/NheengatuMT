@@ -1,0 +1,58 @@
+tipo_registro	id	classe	pt	yrl	nota
+par_divergente	art39.caput	vivo	A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.	Kuá Muatirisá yepéwasú, asuí kuá Istadu-itá, Distritu Federau Municípiu ita tayupirú taãmurakí tamãduaisá asuí takuásá, kuá yepé upurakíwá resé, tarikutéwá tamuyã supisá, sesewára kuá kupukusá akayu upurakí, urasusá ita sũde kití payẽ supé satãbika mayé tarikúsá kirĩbasá asui kuá umuyupirũga maã payẽ reséwaára.	PT imprime a redação da EC 19/98 (aplicação suspensa pela ADI 2.135); o livro NG traduz as duas redações — o par usa a 1ª tradução; a 2ª está em art39.caput.bis (ng_only).
+par_divergente	art73.par1.inc1	vivo	mais de trinta e cinco e menos de setenta anos de idade;	urikúwaá 35 akayu iyaára kití asui kuíta isui kuá 60 akayu urikú;	NG traz '60 akayu' onde a redação (EC 122/2022) diz 'menos de setenta' — não corresponde a nenhuma redação (erro do livro).
+par_divergente	art101.caput	vivo	O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada.	Kuá Supéremu Tribunáu Federáu urikú 11 Ministru-ita, yupurawákawá sidadãu-ita pitérupí, urikúwa-ita 35 rupíwaitá até 65 akayú-ita, asuí urikúwa kuáusawá jurídiku turusú asuí urikúwa reputasãu purãgaté.	NG traz '65 akayú' (redação pré-EC 122/2022); o PT desta base traz 'menos de setenta' (EC 122). Base inconsistente do livro.
+pt_sem_par	art4.caput.inc10	ng_omite_livro	concessão de asilo político.		Livro NG omitiu o inciso X do art. 4º (concessão de asilo político); o IX foi impresso com numeração 'VIX'.
+pt_sem_par	art7.caput.inc29.a	pt_revogado_ng_omite	(Revogada);		
+pt_sem_par	art7.caput.inc29.b	pt_revogado_ng_omite	(Revogada);		
+pt_sem_par	art21.caput.inc23.d	ng_omite_livro	a responsabilidade civil por danos nucleares independe da existência de culpa;		Livro NG omitiu a alínea d do art. 21, XXIII (responsabilidade civil por danos nucleares).
+pt_sem_par	art22.caput.inc11	ng_omite_livro	trânsito e transporte;		Livro NG omitiu o inciso XI do art. 22 (trânsito e transporte); o conteúdo do XII foi impresso com o rótulo XI (pareado por conteúdo com o XII do PT).
+pt_sem_par	art36.caput.inc4	pt_revogado_ng_omite	(Revogado).		
+pt_sem_par	art68.caput	ng_omite_livro	As leis delegadas serão elaboradas pelo Presidente da República, que deverá solicitar a delegação ao Congresso Nacional.		Livro NG omitiu o caput do art. 68; seus §§ 1º-3º foram impressos sob o art. 67 e remapeados para o art. 68 nesta base.
+pt_sem_par	art72.par1	ng_omite_livro	Não prestados os esclarecimentos, ou considerados estes insuficientes, a Comissão solicitará ao Tribunal pronunciamento conclusivo sobre a matéria, no prazo de trinta dias.		Livro NG omitiu os §§ 1º e 2º do art. 72.
+pt_sem_par	art72.par2	ng_omite_livro	Entendendo o Tribunal irregular a despesa, a Comissão, se julgar que o gasto possa causar dano irreparável ou grave lesão à economia pública, proporá ao Congresso Nacional sua sustação.		Livro NG omitiu os §§ 1º e 2º do art. 72.
+pt_sem_par	art84.caput.inc27	ng_omite_livro	exercer outras atribuições previstas nesta Constituição;		Livro NG omitiu o inciso XXVII do art. 84 (exercer outras atribuições).
+pt_sem_par	art85.pu	ng_omite_livro	Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento.		Livro NG omitiu o parágrafo único do art. 85.
+pt_sem_par	art92.par1	ng_omite_livro	O Supremo Tribunal Federal, o Conselho Nacional de Justiça e os Tribunais Superiores têm sede na Capital Federal.		Livro NG omitiu o § 1º do art. 92 (sede na Capital Federal); seu '§ 1º' é o § 2º do PT (pareado por conteúdo).
+pt_sem_par	art100.par21.inc4	ng_omite_livro	nas obrigações decorrentes do descumprimento de prestação de contas ou de desvio de recursos.		Livro NG funde o conteúdo deste inciso IV no fim do inciso III do § 21 (EC 113/2021).
+pt_sem_par	art102.caput.inc1.i	ng_omite_livro	o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância;		Livro NG omitiu a alínea i do art. 102, I (habeas corpus com coator Tribunal Superior).
+pt_sem_par	art103.par4	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art111.par1	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art111.par2	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art111.par3	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art116.pu	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art139.caput.inc1	ng_omite_livro	obrigação de permanência em localidade determinada;		Livro NG omitiu o inciso I do art. 139 (obrigação de permanência em localidade); renumerou II→'I' e III→'II' (pareados por conteúdo).
+pt_sem_par	art153.par2.inc2	pt_revogado_ng_omite	(Revogado).		
+pt_sem_par	art155.par2.inc7.a	pt_revogado_ng_omite	(Revogada);		
+pt_sem_par	art155.par2.inc7.b	pt_revogado_ng_omite	(Revogada);		
+pt_sem_par	art156.caput.inc4	pt_revogado_ng_omite	(Revogado).		
+pt_sem_par	art156.par4	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art163.caput.inc8	ng_omite_livro	sustentabilidade da dívida, especificando:		EC 109/2021 — inciso VIII do art. 163 omitido pelo livro NG
+pt_sem_par	art163.caput.inc8.a	ng_omite_livro	indicadores de sua apuração;		EC 109/2021 — omitido pelo livro NG
+pt_sem_par	art163.caput.inc8.b	ng_omite_livro	níveis de compatibilidade dos resultados fiscais com a trajetória da dívida;		EC 109/2021 — omitido pelo livro NG
+pt_sem_par	art163.caput.inc8.c	ng_omite_livro	trajetória de convergência do montante da dívida com os limites definidos em legislação;		EC 109/2021 — omitido pelo livro NG
+pt_sem_par	art163.caput.inc8.d	ng_omite_livro	medidas de ajuste, suspensões e vedações;		EC 109/2021 — omitido pelo livro NG
+pt_sem_par	art163.caput.inc8.e	ng_omite_livro	planejamento de alienação de ativos com vistas à redução do montante da dívida.		EC 109/2021 — omitido pelo livro NG
+pt_sem_par	art163.pu	ng_omite_livro	A lei complementar de que trata o inciso VIII do caput deste artigo pode autorizar a aplicação das vedações previstas no art. 167-A desta Constituição.		EC 109/2021 — parágrafo único do art. 163 omitido pelo livro NG
+pt_sem_par	art164-A.caput	ng_omite_livro	A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas políticas fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei complementar referida no inciso VIII do caput do art. 163 desta Constituição.		EC 109/2021 — art. 164-A omitido pelo livro NG
+pt_sem_par	art164-A.pu	ng_omite_livro	A elaboração e a execução de planos e orçamentos devem refletir a compatibilidade dos indicadores fiscais com a sustentabilidade da dívida.		EC 109/2021 — art. 164-A omitido pelo livro NG
+pt_sem_par	art166.par14.inc1	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art166.par14.inc2	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art166.par14.inc3	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art166.par14.inc4	pt_revogado_ng_omite	(Revogado).		
+pt_sem_par	art192.caput.inc1	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art192.caput.inc2	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art192.caput.inc3	pt_revogado_ng_omite	(Revogado):		
+pt_sem_par	art192.caput.inc3.a	pt_revogado_ng_omite	(Revogada);		
+pt_sem_par	art192.caput.inc3.b	pt_revogado_ng_omite	(Revogada);		
+pt_sem_par	art192.caput.inc4	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art192.caput.inc5	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art192.caput.inc6	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art192.caput.inc7	pt_revogado_ng_omite	(Revogado);		
+pt_sem_par	art192.caput.inc8	pt_revogado_ng_omite	(Revogado).		
+pt_sem_par	art192.par1	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art192.par2	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art192.par3	pt_revogado_ng_omite	(Revogado)		
+pt_sem_par	art198.par3.inc4	pt_revogado_ng_omite	(Revogado).		
+pt_sem_par	art201.par5	ng_omite_livro	É vedada a filiação ao regime geral de previdência social, na qualidade de segurado facultativo, de pessoa participante de regime próprio de previdência.		Livro NG omitiu o § 5º do art. 201 (vedação de filiação como segurado facultativo); seu '§ 5º' é o § 6º do PT (pareado por conteúdo).
+ng_sem_par	art39.caput.bis	ng_extra_livro		Kuá Muatirisá yepéwasú, mayé kuá Istadu-itá, ísui Distritu Federau asuí Municípiu ita asuí kuá Istadu-itá, Distritu Federau Municípiu ita tayupirú taãmurakí tamãduaisá seéséwrakuá ũbusaára mayê tapurakí arã urasusá ita sũde kití asui mayé imurakí rikuyaára, upurakiwá yepé aára kupukusá mayé taputariwá yawé upitá takirĩbawasá.	2ª tradução do caput do art. 39 no livro NG (corresponde à 'redação anterior' impressa em nota na edição do Senado).

@@ -1,0 +1,152 @@
+# =====================================================================
+# NheengatuMT — política: NEGAR TUDO, liberar só o que foi analisado.
+#
+# O inverso do .gitignore usual, e de propósito: o histórico do git é
+# permanente. Um arquivo commitado por engano hoje continua exposto no dia
+# em que o repositório virar público, mesmo que seja apagado depois.
+# Errar por omissão aqui não custa nada; errar por inclusão é irreversível.
+#
+# Base de cada decisão: docs/PROVENIENCIA.md
+# =====================================================================
+
+# --- nega tudo no nível de topo ---
+/*
+
+# --- libera os diretórios analisados ---
+!/.gitignore
+!/README.md
+!/LICENSE
+!/NOTICE
+!/docs/
+!/scripts/
+!/cluster/
+!/corpus/
+!/release/
+!/resultados/
+!/work/
+
+# paper/ NÃO sobe: fonte LaTeX e PDF da submissão são artefato do artigo, não
+# do repositório de código e dados. (Se um dia quiser as figuras reprodutíveis,
+# o que interessa são paper/fig_*.py e as pastas ne/ e ibge/ de geodados.)
+
+# =====================================================================
+# docs/ — SÓ a tabela de proveniência, que foi escrita para o repositório.
+# O resto são notas de trabalho: pré-registro, auditorias, pesquisa de
+# estado da arte, o draft longo do paper, os logs de resultado. Raciocínio
+# bruto e conclusões que mudaram no caminho — não são artefato de release.
+# E dois deles têm e-mails de terceiros e credenciais do cluster.
+# =====================================================================
+docs/*
+!docs/PROVENIENCIA.md
+
+# =====================================================================
+# NADA que revele a infraestrutura de computação.
+# Decisão do autor: o repositório não publica em que cluster o trabalho rodou.
+# Some, portanto, tudo que carrega fila, módulos, contas ou caminhos do sítio.
+# =====================================================================
+cluster/*.sh
+cluster/scripts/*.sh
+cluster/README.md
+cluster/local_prepare_bundle.py
+# saída de fila: 103 dos 104 logs carregam caminho e nome do sítio,
+# e stdout de escalonador não é artefato publicável de qualquer forma
+resultados/cluster_final/logs/
+# hiperparâmetros serializados: formato zip do torch (exige torch.load, que
+# desserializa pickle — má prática em repositório público) e caminhos do sítio.
+# O que eles provam está nos JSON de métrica, que são legíveis.
+**/training_args.bin
+# curva de treino: campo best_model_checkpoint traz o caminho do sítio
+**/trainer_state.json
+# model cards gerados pelo PEFT nos runs LoRA (que falharam): base_model aponta
+# para o caminho do sítio
+resultados/cluster_final/runs/*/best/README.md
+resultados/cluster_final/runs/*/checkpoint-*/README.md
+# cópias de script trazidas do cluster: 20 idênticas às de cluster/scripts e 5 que
+# divergem. As divergências estão documentadas; as cópias não acrescentam.
+resultados/cluster_final/scripts/
+resultados/cluster_final/_scripts_v1_02-08/
+# o MANIFESTO.md5 cataloga a arvore LOCAL inteira, inclusive o que nao sobe.
+# Dentro do repositorio ele seria confuso e redundante: o git ja versiona por
+# hash. Fica so na copia de trabalho, para detectar deriva da evidencia.
+resultados/cluster_final/MANIFESTO.md5
+
+# =====================================================================
+# cluster/ — só os scripts e os relatórios de build.
+# Os dados de treino têm 49% de fontes com permissão pendente; a camada
+# publicável é gerada em release/ por scripts/build_public_release.py
+# =====================================================================
+# (o padrão precisa ser data/* e não data/ — o git não re-inclui arquivo
+#  dentro de diretório excluído, e o ! seria ignorado em silêncio)
+cluster/data/*
+!cluster/data/RELATORIO_V2.md
+!cluster/data/RELATORIO_V3.md
+cluster/bundle/
+cluster/runs/
+cluster/models
+cluster/logs/
+
+# =====================================================================
+# corpus/ — a Constituição é ato oficial (art. 8º, IV, Lei 9.610).
+# O agregado mistura Ávila, Gurgel, Melgueiro e Navarro: fora.
+# =====================================================================
+corpus/agregado_extra_pt_yrl.jsonl
+
+# =====================================================================
+# paper/ — fonte LaTeX, figuras e os geodados públicos que as reproduzem
+# =====================================================================
+paper/*.png
+paper/*.jpg
+paper/*.jfif
+
+# =====================================================================
+# resultados/ — só a evidência consolidada, e dela só o que não embute
+# referências de fonte restrita. As hipóteses sobre os conjuntos "extra"
+# carregam src+ref de Ávila/Gurgel/Melgueiro/Navarro: ficam fora.
+# =====================================================================
+resultados/*
+!resultados/cluster_final/
+resultados/cluster_final/**/hyp_*extra*
+resultados/cluster_final/data/
+resultados/cluster_final/work/
+
+# =====================================================================
+# work/ — quase tudo é fonte de terceiros ou intermediário de mineração.
+# Só entram os recursos derivados que o paper promete liberar.
+# =====================================================================
+work/*
+!work/glossario_fase2.jsonl
+!work/lemas_yrl.tsv
+!work/bitermos_auditados.jsonl
+!work/bitermos_rejeitados.jsonl
+# work/avaliacao/ NÃO sobe enquanto a avaliação estiver em campo.
+# gabarito_cego.json é a CHAVE DE CEGAMENTO: diz, item a item, qual sistema
+# produziu a saída e quais são as 9 âncoras humanas ocultas. Publicá-lo queima
+# o instrumento de forma irreversível — não se re-cega uma avaliação cuja chave
+# virou pública. Algumas entradas trazem ainda refs do conjunto restrito.
+# Liberar só DEPOIS de concluída, junto com os resultados: instrumento + chave
+# + respostas anonimizadas, que é a norma da área.
+# lexico_pt_yrl_v0.jsonl NÃO entra: 44% de suas 1.592 entradas têm 4+ palavras
+# no lado PT — são FRASES colhidas do treino, não termos, e 957 delas vêm de
+# avila2021/gurgel/melgueiro2022/rm_navarro. Redistribuí-las seria redistribuir
+# texto protegido. Regenerável por scripts/build_lexico.py a partir das fontes.
+
+# =====================================================================
+# Nunca, em nenhuma hipótese
+# =====================================================================
+# pesos: 32 GB, e o GitHub recusa arquivos > 100 MB. Vão para o HuggingFace.
+modelos/
+# PDFs de terceiros (teses, livros, NT) — fonte do corpus, não redistribuível
+*.pdf
+!paper/fig_frontier.pdf
+!paper/fig_mapa.pdf
+!paper/EMNLP___WMT_2026___NheengatuMT.pdf
+LEETRA/
+nheengatu/
+
+# --- lixo ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.tgz
+*.tar

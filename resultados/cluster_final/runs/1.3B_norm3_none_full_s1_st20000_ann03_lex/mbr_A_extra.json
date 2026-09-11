@@ -1,0 +1,7 @@
+{
+ "dev_extra.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 61.88,
+  "spBLEU": 51.52,
+  "n": 372
+ }
+}

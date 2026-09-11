@@ -1,0 +1,81 @@
+NheengatuMT
+Copyright 2026
+
+Este produto inclui software desenvolvido para o projeto NheengatuMT,
+licenciado sob a Apache License 2.0 (ver LICENSE).
+
+================================================================================
+OS DADOS NÃO SEGUEM A LICENÇA DO CÓDIGO
+================================================================================
+
+A Apache 2.0 cobre o CÓDIGO deste repositório. O corpus em release/ é uma
+composição de camadas com licenças distintas, e redistribuí-lo exige respeitar
+cada uma. Ver docs/PROVENIENCIA.md para a base legal de cada fonte.
+
+  Constituição Federal em nheengatu (2.482 pares)
+    "Mundu Sa Turusu Waá: Ubêuwa Mayé Míra Itá Uikú Arãma Purãga Iké Braziu Upé"
+    Supremo Tribunal Federal e Conselho Nacional de Justiça, Brasília, 2023.
+    ISBN 978-65-5972-113-9.
+    Ato oficial — art. 8º, IV, da Lei 9.610/1998, sem proteção autoral.
+    Traduzida por quinze tradutores indígenas do Alto Rio Negro e do Médio
+    Tapajós sob revisão editorial. O crédito a eles é obrigação ética do
+    projeto, não formalidade legal.
+
+  Dicionário nheengatu de Marcel T. Avila (2.745 pares)
+    Marcel T. Avila. Tese de doutorado, Universidade de São Paulo, 2021.
+    Publicado com AUTORIZAÇÃO ESCRITA DO AUTOR, concedida por e-mail em
+    10 de agosto de 2026, nos termos: "autorizo sim a publicação dos pares
+    utilizados, acompanhados dos devidos créditos".
+    Não há licença nomeada: é permissão do titular condicionada a CRÉDITO
+    OBRIGATÓRIO. Quem redistribuir esta camada deve manter este crédito.
+    O lado português é glosa de verbete, não texto corrido — o nheengatu é
+    o primário.
+
+  UD_Nheengatu-CompLin (2.484 pares)
+    Leonel Figueiredo de Alencar. A Universal Dependencies treebank for
+    Nheengatu. PROPOR 2024.
+    CC BY-NC-SA 4.0 — a redistribuição mantém BY-NC-SA.
+
+  Fala espontânea transcrita (1.387 pares)
+    Corpus Reich / Freie Universität Berlin.
+    DOI 10.17169/refubium-39406.
+    CC BY-NC-SA 4.0 — a redistribuição mantém BY-NC-SA.
+
+  Textos históricos (441 pares)
+    Plataforma Tycho Brahe / DACILAT, FAPESP. Uso livre declarado.
+
+  Catecismo de 1944 (23 pares)
+    Domínio público provável pela idade.
+
+================================================================================
+O QUE NÃO ESTÁ AQUI
+================================================================================
+
+Três mil seiscentos e dezenove pares de treino e os conjuntos de avaliação
+"extra" vêm de fontes cujos detentores de direitos ainda não autorizaram
+redistribuição: tese de Melgueiro (UnB, 2022), compilação de Gurgel, curso de
+Navarro (USP) e a tradução de Le Petit Prince por Trevisan (USP, 2017). Também
+os 526 pares da Revista Leetra Indígena / UFSCar, autorizados para uso mas com
+escopo de publicação a confirmar.
+
+O dicionário de Avila (USP, 2021) saiu desta lista em 10/08/2026, quando o autor
+autorizou a publicação por escrito.
+
+Para essas camadas o repositório oferece os SCRIPTS DE EXTRAÇÃO, não o texto:
+quem tiver acesso legítimo às fontes reconstrói o corpus completo.
+
+================================================================================
+MODELOS
+================================================================================
+
+Os pesos não estão neste repositório. Os derivados do NLLB-200 herdam
+CC-BY-NC-4.0 e não podem ser relicenciados.
+
+================================================================================
+GOVERNANÇA DA LÍNGUA
+================================================================================
+
+A Academia da Língua Nheengatu foi contatada e não respondeu; silêncio não é
+tratado como consentimento. O glossário e as escolhas ortográficas deste
+projeto são provisórios e derivados das fontes, não autoritativos. Qual
+ortografia o sistema deve produzir é decisão da comunidade falante, não técnica.

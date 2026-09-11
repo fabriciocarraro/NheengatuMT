@@ -1,0 +1,904 @@
+{"pt": "abraçou", "yrl": ["uyumana"], "nivel": "aprovado", "dice": 0.706, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "abriu", "yrl": ["upirari", "uyupirari"], "nivel": "aprovado", "dice": 0.435, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "acabou", "yrl": ["upaua"], "nivel": "aprovado", "dice": 0.381, "df": 17, "grupo_dominante": "gurgel"}
+{"pt": "acendeu", "yrl": ["umundeka"], "nivel": "aprovado", "dice": 0.857, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "achamos", "yrl": ["yawasemu"], "nivel": "aprovado", "dice": 0.375, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "acharam", "yrl": ["aintá uwasemu"], "nivel": "aprovado", "dice": 0.4, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "acordou", "yrl": ["upaka"], "nivel": "aprovado", "dice": 0.649, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "acutipuru", "yrl": ["akutipurú"], "nivel": "aprovado", "dice": 1.0, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "adana", "yrl": ["adana"], "nivel": "aprovado", "dice": 0.914, "df": 16, "grupo_dominante": "treebank_ud"}
+{"pt": "adolescente", "yrl": ["kurumi wasú"], "nivel": "aprovado", "dice": 0.706, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "adoçar", "yrl": ["umuseẽ"], "nivel": "corrigido", "motivo": "auditor: umuseẽ=adoçar"}
+{"pt": "advocacia", "yrl": ["adivukasia"], "nivel": "aprovado", "dice": 0.769, "df": 8, "grupo_dominante": "constituicao"}
+{"pt": "afundou", "yrl": ["umutipí"], "nivel": "corrigido", "motivo": "dice 1,0; katú era intensificador"}
+{"pt": "agarrou", "yrl": ["opɨcɨka"], "nivel": "aprovado", "dice": 0.375, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "agora eu vou", "yrl": ["kuíri asú"], "nivel": "aprovado", "dice": 0.667, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "agora sim", "yrl": ["kuíri supí"], "nivel": "aprovado", "dice": 0.857, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "agora vamos", "yrl": ["kuíri yasú"], "nivel": "aprovado", "dice": 0.842, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "agouro", "yrl": ["maraúna"], "nivel": "aprovado", "dice": 0.8, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "alguma coisa", "yrl": ["manungara"], "nivel": "aprovado", "dice": 0.35, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "aluno", "yrl": ["uyũbeu saára"], "nivel": "corrigido", "motivo": "auditor: agentivo saára necessário"}
+{"pt": "alunos", "yrl": ["yumbuesara itá", "yumbuesara"], "nivel": "aprovado", "dice": 0.571, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "alínea b", "yrl": ["alinia b"], "nivel": "corrigido", "motivo": "exemplo 1: alinia b upé"}
+{"pt": "alíneas", "yrl": ["alínea", "sakãgamiri"], "nivel": "corrigido", "motivo": "empréstimo alínea e calque sakãgamiri atestados"}
+{"pt": "alíquotas", "yrl": ["pusẽtaji"], "nivel": "aprovado", "dice": 0.6, "df": 13, "grupo_dominante": "constituicao"}
+{"pt": "amanhã eu", "yrl": ["wirandé asú"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "amarela", "yrl": ["tawá"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "amarrou", "yrl": ["upukwari"], "nivel": "aprovado", "dice": 0.471, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "anoiteceu", "yrl": ["uyumupituna"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "anos de idade", "yrl": ["akayu"], "nivel": "corrigido", "motivo": "auditor: akayu; waitá relativizador espúrio"}
+{"pt": "antigamente", "yrl": ["kuxiima", "kuxiíma"], "nivel": "aprovado", "dice": 0.548, "df": 35, "grupo_dominante": "avila2021"}
+{"pt": "anzóis", "yrl": ["pindá itá"], "nivel": "aprovado", "dice": 0.96, "df": 12, "grupo_dominante": "gurgel"}
+{"pt": "anzóis bons", "yrl": ["pindá itá puranga"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "aprovar", "yrl": ["umusúpi", "tapruvari"], "nivel": "corrigido", "motivo": "exemplos: umusúpi; auditor: tapruvari"}
+{"pt": "aquela casa", "yrl": ["nhaã uka"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "aquela mulher", "yrl": ["nhaã kunhã"], "nivel": "aprovado", "dice": 0.424, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "aquelas pessoas", "yrl": ["nhaã mira itá"], "nivel": "aprovado", "dice": 0.533, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "aquele barulho", "yrl": ["nhaã teapú", "nhaã tiapú"], "nivel": "corrigido", "motivo": "exemplos: nhaã teapú/tiapú"}
+{"pt": "aquele homem", "yrl": ["nhaã apigawa", "nhaã apigaua"], "nivel": "aprovado", "dice": 0.542, "df": 22, "grupo_dominante": "treebank_ud"}
+{"pt": "aquele moço", "yrl": ["nhaã kurumiwasú"], "nivel": "aprovado", "dice": 0.48, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "aqueles dois", "yrl": ["nhaã mukũi"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "aqui está", "yrl": ["xukúi"], "nivel": "aprovado", "dice": 0.562, "df": 15, "grupo_dominante": "treebank_ud"}
+{"pt": "araras", "yrl": ["arara", "arara itá"], "nivel": "aprovado", "dice": 0.571, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "arrancar", "yrl": ["umusaka"], "nivel": "aprovado", "dice": 0.455, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "artístico", "yrl": ["kuásá"], "nivel": "aprovado", "dice": 0.353, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "assembleia legislativa", "yrl": ["yaátirisá wasú"], "nivel": "corrigido", "motivo": "exemplos 1/2: yaátirisá wasú"}
+{"pt": "atirar", "yrl": ["ayapí"], "nivel": "aprovado", "dice": 0.533, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "atravessaram", "yrl": ["uyasá"], "nivel": "aprovado", "dice": 0.571, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "atrás dele", "yrl": ["sakwera", "sakakwera"], "nivel": "aprovado", "dice": 0.471, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "aturá", "yrl": ["waturá"], "nivel": "aprovado", "dice": 0.8, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "até amanhã", "yrl": ["té uirandé"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "aumento de despesa", "yrl": ["uyusúpisá dispesa"], "nivel": "corrigido", "motivo": "ex2-3: uyusúpi(sá) dispesa"}
+{"pt": "autarquias", "yrl": ["autarquia"], "nivel": "aprovado", "dice": 0.462, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "autonomia", "yrl": ["autunumia"], "nivel": "aprovado", "dice": 0.353, "df": 14, "grupo_dominante": "constituicao"}
+{"pt": "autoridade", "yrl": ["autoridade"], "nivel": "aprovado", "dice": 0.4, "df": 20, "grupo_dominante": "constituicao"}
+{"pt": "autorizar", "yrl": ["uwaturizai"], "nivel": "aprovado", "dice": 0.75, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "autorização para decretar", "yrl": ["dekretu papéra"], "nivel": "aprovado", "dice": 0.75, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "aí ficou", "yrl": ["ape upitá"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "aí mesmo", "yrl": ["ape ana tẽ"], "nivel": "aprovado", "dice": 0.5, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "aí vem", "yrl": ["aikwé uri"], "nivel": "aprovado", "dice": 0.857, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "baleia", "yrl": ["pirawasú"], "nivel": "corrigido", "motivo": "auditor: piráuaçú; exemplos pirawasú"}
+{"pt": "bananas", "yrl": ["pakúa"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "banco central", "yrl": ["diñeru ruka ta paya"], "nivel": "corrigido", "motivo": "auditor: termo pleno diñeru ruka ta paya"}
+{"pt": "baniwa", "yrl": ["baniwa"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "baníuas", "yrl": ["baniwa"], "nivel": "aprovado", "dice": 0.727, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "barra", "yrl": ["Barra"], "nivel": "corrigido", "motivo": "remove upé=em; topônimo"}
+{"pt": "barulho", "yrl": ["teapú"], "nivel": "aprovado", "dice": 0.632, "df": 25, "grupo_dominante": "treebank_ud"}
+{"pt": "batizar", "yrl": ["seruka", "yumuseruka"], "nivel": "corrigido", "motivo": "auditor: seruka; yumuseruka no exemplo 3"}
+{"pt": "beija flor", "yrl": ["wainambí"], "nivel": "aprovado", "dice": 1.0, "df": 11, "grupo_dominante": "treebank_ud"}
+{"pt": "beijou", "yrl": ["umuseẽ", "upitera"], "nivel": "corrigido", "motivo": "auditor e exemplos: umuseẽ/upitera"}
+{"pt": "beira do rio", "yrl": ["paraná rembiiwa", "paraná rimbiwa"], "nivel": "corrigido", "motivo": "exemplos: paraná rembiiwa/rimbiwa"}
+{"pt": "beleza", "yrl": ["purangasawa"], "nivel": "aprovado", "dice": 0.737, "df": 9, "grupo_dominante": "treebank_ud"}
+{"pt": "bem devagar", "yrl": ["merupiára"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "boa tarde", "yrl": ["puranga karuka"], "nivel": "aprovado", "dice": 0.727, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "brancos", "yrl": ["kariwa itá", "kariwa"], "nivel": "aprovado", "dice": 0.611, "df": 24, "grupo_dominante": "avila2021"}
+{"pt": "brasa", "yrl": ["tatapunha"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "brasileiro", "yrl": ["braziupúra"], "nivel": "aprovado", "dice": 0.526, "df": 11, "grupo_dominante": "constituicao"}
+{"pt": "brava", "yrl": ["puxí", "nharú"], "nivel": "corrigido", "motivo": "auditor: puxí; nharú no exemplo 1"}
+{"pt": "braços", "yrl": ["yuwá itá", "yuwá"], "nivel": "aprovado", "dice": 0.667, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "buburi", "yrl": ["buburi"], "nivel": "aprovado", "dice": 0.909, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "buliu", "yrl": ["uyuakí"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "buopé", "yrl": ["buopé"], "nivel": "aprovado", "dice": 0.982, "df": 28, "grupo_dominante": "avila2021"}
+{"pt": "buraco do pau", "yrl": ["mirá kwara"], "nivel": "aprovado", "dice": 0.833, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "buriti", "yrl": ["mirití"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "buscar", "yrl": ["piamu"], "nivel": "aprovado", "dice": 0.508, "df": 44, "grupo_dominante": "treebank_ud"}
+{"pt": "cabeceira", "yrl": ["apira"], "nivel": "corrigido", "motivo": "auditor: apira sem kití"}
+{"pt": "cadáver", "yrl": ["tiãwera"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "cahipora", "yrl": ["cahapóra"], "nivel": "aprovado", "dice": 0.9, "df": 11, "grupo_dominante": "rm_tycho"}
+{"pt": "caititu", "yrl": ["taititú"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "caiu no fogo", "yrl": ["uwari tatá pe"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "caixa", "yrl": ["patuá"], "nivel": "aprovado", "dice": 0.714, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "calango", "yrl": ["teyú"], "nivel": "aprovado", "dice": 0.846, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "calor", "yrl": ["sakusawa"], "nivel": "aprovado", "dice": 0.7, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "calças", "yrl": ["xirura itá"], "nivel": "aprovado", "dice": 0.737, "df": 12, "grupo_dominante": "gurgel"}
+{"pt": "camaradas", "yrl": ["kamarara-itá"], "nivel": "corrigido", "motivo": "remove possessivo se=meus"}
+{"pt": "cambota", "yrl": ["apara"], "nivel": "aprovado", "dice": 0.5, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "camisa nova", "yrl": ["kamixá pisasu"], "nivel": "aprovado", "dice": 1.0, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "camisas", "yrl": ["kamixá itá"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "candidato", "yrl": ["kãdidatu"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "canoa está", "yrl": ["igara uikú"], "nivel": "aprovado", "dice": 0.5, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "cansada", "yrl": ["kuere"], "nivel": "aprovado", "dice": 0.435, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "cansado", "yrl": ["maraari", "kuere"], "nivel": "aprovado", "dice": 0.615, "df": 27, "grupo_dominante": "avila2021"}
+{"pt": "cantiga", "yrl": ["nheengarisawa"], "nivel": "aprovado", "dice": 0.75, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "capoeira", "yrl": ["kukwera"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "caput deste artigo", "yrl": ["kaput kuá artigu"], "nivel": "corrigido", "motivo": "exemplo 1: kuá kaput kuá artigu upé"}
+{"pt": "carajuru", "yrl": ["karayurú"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "carne", "yrl": ["rukwera", "sukwera"], "nivel": "aprovado", "dice": 0.578, "df": 32, "grupo_dominante": "avila2021"}
+{"pt": "caroço de tucumã", "yrl": ["tukumã raínha"], "nivel": "aprovado", "dice": 0.947, "df": 9, "grupo_dominante": "treebank_ud"}
+{"pt": "carregou", "yrl": ["usupiri"], "nivel": "aprovado", "dice": 0.583, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "casa de compras", "yrl": ["piripanasaua ruka"], "nivel": "aprovado", "dice": 0.476, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "casa deles", "yrl": ["aintá ruka"], "nivel": "aprovado", "dice": 0.5, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "casa respectiva", "yrl": ["uka puraita"], "nivel": "aprovado", "dice": 0.727, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "casado", "yrl": ["mendasara"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "casamento", "yrl": ["menda sawá"], "nivel": "aprovado", "dice": 0.429, "df": 11, "grupo_dominante": "constituicao"}
+{"pt": "casar", "yrl": ["umendari"], "nivel": "aprovado", "dice": 0.45, "df": 24, "grupo_dominante": "treebank_ud"}
+{"pt": "casas do congresso", "yrl": ["uka kũgresu"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "catarina", "yrl": ["catarina"], "nivel": "aprovado", "dice": 1.0, "df": 13, "grupo_dominante": "gurgel"}
+{"pt": "cauda", "yrl": ["ruáia"], "nivel": "aprovado", "dice": 0.545, "df": 8, "grupo_dominante": "rm_tycho"}
+{"pt": "cavalo", "yrl": ["kawarú"], "nivel": "aprovado", "dice": 0.933, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "caxiri", "yrl": ["kaxirí"], "nivel": "aprovado", "dice": 0.957, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "caçar", "yrl": ["ukamundú", "ukasari"], "nivel": "corrigido", "motivo": "auditor: ukamundú; ex3: ukasari"}
+{"pt": "cento do produto", "yrl": ["pusẽtu uyumuatirisá"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "cento e vinte", "yrl": ["sentu vinti"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "cercaram", "yrl": ["umamana", "uyatimana"], "nivel": "corrigido", "motivo": "ambos visíveis nos exemplos"}
+{"pt": "cerrado", "yrl": ["iaɨtɨua", "yaitiwa"], "nivel": "aprovado", "dice": 0.632, "df": 13, "grupo_dominante": "rm_tycho"}
+{"pt": "chamado", "yrl": ["sera waá"], "nivel": "aprovado", "dice": 0.4, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "chapéu", "yrl": ["xapewa"], "nivel": "aprovado", "dice": 1.0, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "cheguei", "yrl": ["asika"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "cheio", "yrl": ["teresemu"], "nivel": "aprovado", "dice": 0.364, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "cheira", "yrl": ["sakwena"], "nivel": "aprovado", "dice": 0.353, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "cheirosa", "yrl": ["sakwena"], "nivel": "aprovado", "dice": 0.5, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "chocou", "yrl": ["uyutuká"], "nivel": "aprovado", "dice": 0.571, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "chorar", "yrl": ["uyaxiú"], "nivel": "aprovado", "dice": 0.368, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "choro", "yrl": ["ayaxiú"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "chorou", "yrl": ["uyaxiú"], "nivel": "aprovado", "dice": 0.4, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "chover", "yrl": ["amana ukiri"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "chão buraco", "yrl": ["ɨuɨ quára"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "rm_tycho"}
+{"pt": "cidade grande", "yrl": ["tauauasu"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "cima da água", "yrl": ["ií ara rupí"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "cinco anos", "yrl": ["pu akayu"], "nivel": "corrigido", "motivo": "pu=5; exemplo 2: pu akayu"}
+{"pt": "cinquenta por cento", "yrl": ["sĩkuẽta pusẽtu"], "nivel": "aprovado", "dice": 0.545, "df": 8, "grupo_dominante": "constituicao"}
+{"pt": "cinzas", "yrl": ["tanimbuka"], "nivel": "aprovado", "dice": 0.909, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "ciência", "yrl": ["siensia"], "nivel": "corrigido", "motivo": "empréstimo siensia atestado em dois exemplos"}
+{"pt": "coitada", "yrl": ["taité"], "nivel": "aprovado", "dice": 0.471, "df": 4, "grupo_dominante": "rm_tycho"}
+{"pt": "coitado", "yrl": ["taité"], "nivel": "aprovado", "dice": 0.444, "df": 14, "grupo_dominante": "treebank_ud"}
+{"pt": "colega", "yrl": ["sumuára"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "come peixe", "yrl": ["umbaú pirá"], "nivel": "aprovado", "dice": 0.857, "df": 9, "grupo_dominante": "gurgel"}
+{"pt": "comerás", "yrl": ["reú kurí"], "nivel": "aprovado", "dice": 0.909, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "começaram", "yrl": ["uyupirú"], "nivel": "corrigido", "motivo": "itá era plural do sujeito"}
+{"pt": "começou", "yrl": ["uyupirú"], "nivel": "aprovado", "dice": 0.75, "df": 29, "grupo_dominante": "avila2021"}
+{"pt": "comigo", "yrl": ["se irumu"], "nivel": "aprovado", "dice": 0.65, "df": 25, "grupo_dominante": "treebank_ud"}
+{"pt": "compadre", "yrl": ["compadre"], "nivel": "aprovado", "dice": 0.909, "df": 18, "grupo_dominante": "treebank_ud"}
+{"pt": "companheiros", "yrl": ["irumuára", "irumuára itá"], "nivel": "aprovado", "dice": 0.381, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "completamente", "yrl": ["retana", "pá"], "nivel": "corrigido", "motivo": "ex1: pá; ex2-3: retana"}
+{"pt": "compra uma camisa", "yrl": ["upiripana iepé kamixá"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "comprar", "yrl": ["upiripana", "apiripana"], "nivel": "aprovado", "dice": 0.353, "df": 19, "grupo_dominante": "treebank_ud"}
+{"pt": "comprida", "yrl": ["puku"], "nivel": "aprovado", "dice": 0.681, "df": 19, "grupo_dominante": "gurgel"}
+{"pt": "comprido", "yrl": ["puku", "pukú"], "nivel": "aprovado", "dice": 0.455, "df": 16, "grupo_dominante": "gurgel"}
+{"pt": "comunidade de maria", "yrl": ["maria rendaua"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "comunidades", "yrl": ["tendaua itá", "tendaua"], "nivel": "aprovado", "dice": 0.625, "df": 11, "grupo_dominante": "gurgel"}
+{"pt": "comuns", "yrl": ["kumũ"], "nivel": "corrigido", "motivo": "exemplo: rejimẽtu kumũ=regimento comum"}
+{"pt": "conforme o modelo", "yrl": ["sangaua rupi"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "congresso nacional", "yrl": ["kũgresu nasiunau"], "nivel": "corrigido", "motivo": "forma completa atestada"}
+{"pt": "conosco", "yrl": ["yané irumu"], "nivel": "aprovado", "dice": 0.824, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "conselho da república", "yrl": ["kũseliu da republika", "kũseliu republika"], "nivel": "corrigido", "motivo": "exemplos 1/2"}
+{"pt": "conselho de defesa", "yrl": ["kũseliu defẽderisa nasiunau"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "conselho nacional", "yrl": ["kũseliu nasiunau"], "nivel": "corrigido", "motivo": "unidade nome+adjetivo atestada nos exemplos"}
+{"pt": "constituição federal", "yrl": ["mũdusáwa turusúwa federau"], "nivel": "aprovado", "dice": 0.667, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "contas", "yrl": ["kũta"], "nivel": "aprovado", "dice": 0.645, "df": 41, "grupo_dominante": "constituicao"}
+{"pt": "contigo de tarde", "yrl": ["piri karuka ramé"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "contratos", "yrl": ["kũtratu"], "nivel": "aprovado", "dice": 0.5, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "controle interno", "yrl": ["miakũtasa ikuára upé"], "nivel": "corrigido", "motivo": "auditor: miakũtasa + interno (ikuára upé)"}
+{"pt": "contrário", "yrl": ["aãmurupí"], "nivel": "aprovado", "dice": 0.5, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "cooperação", "yrl": ["kupérasãu"], "nivel": "corrigido", "motivo": "auditor: kupérasãu; exemplo 1 confirma"}
+{"pt": "corda", "yrl": ["tupasama", "tupaçãma"], "nivel": "aprovado", "dice": 0.75, "df": 20, "grupo_dominante": "avila2021"}
+{"pt": "corpo deles", "yrl": ["aintá pira"], "nivel": "aprovado", "dice": 0.471, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "corpos de bombeiros", "yrl": ["bũberu-ita"], "nivel": "corrigido", "motivo": "exemplo 2: bũberu-ita"}
+{"pt": "cortar", "yrl": ["amunuka", "yamunuka"], "nivel": "aprovado", "dice": 0.462, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "cortou", "yrl": ["umunuka"], "nivel": "aprovado", "dice": 0.56, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "corvo", "yrl": ["urubú"], "nivel": "aprovado", "dice": 0.364, "df": 5, "grupo_dominante": "rm_tycho"}
+{"pt": "costas", "yrl": ["kupé pe", "kupé"], "nivel": "aprovado", "dice": 0.75, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "costumes", "yrl": ["rikusawa itá", "rikusawa"], "nivel": "aprovado", "dice": 0.545, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "couber", "yrl": ["mamẽ umeẽ"], "nivel": "aprovado", "dice": 0.4, "df": 12, "grupo_dominante": "constituicao"}
+{"pt": "crescendo", "yrl": ["uyumunhã usú uikú"], "nivel": "aprovado", "dice": 0.727, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "crianças", "yrl": ["taína itá"], "nivel": "aprovado", "dice": 0.553, "df": 28, "grupo_dominante": "avila2021"}
+{"pt": "criação ou", "yrl": ["mukirai"], "nivel": "aprovado", "dice": 0.545, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "criou", "yrl": ["umunhã"], "nivel": "corrigido", "motivo": "auditor: umunhã=criou, sem sujeito Tupana"}
+{"pt": "cujo nome", "yrl": ["sera waá"], "nivel": "aprovado", "dice": 0.462, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "cupim", "yrl": ["kupĩ"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "cupins", "yrl": ["cupií"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "rm_tycho"}
+{"pt": "curabi", "yrl": ["kurabí"], "nivel": "aprovado", "dice": 0.875, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "curral", "yrl": ["kaisara"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "cutia", "yrl": ["akutí"], "nivel": "aprovado", "dice": 0.889, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "câmara dos deputados", "yrl": ["kãmaára deputadu-itá", "deputadu taruka"], "nivel": "corrigido", "motivo": "exemplos 1 e 2"}
+{"pt": "câmara municipal", "yrl": ["kãmaára munipau"], "nivel": "corrigido", "motivo": "ex3; grafia municipau truncada na fonte"}
+{"pt": "dabucuri", "yrl": ["dabukurí"], "nivel": "aprovado", "dice": 0.857, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "dali a pouco", "yrl": ["kupukú xinga", "kurimirĩ xinga"], "nivel": "corrigido", "motivo": "atestados nos exemplos"}
+{"pt": "damos", "yrl": ["yameẽ"], "nivel": "corrigido", "motivo": "remove asuí=e"}
+{"pt": "daqui", "yrl": ["kwá suí", "ikewara"], "nivel": "aprovado", "dice": 0.538, "df": 37, "grupo_dominante": "treebank_ud"}
+{"pt": "decreto", "yrl": ["dekretu"], "nivel": "aprovado", "dice": 0.571, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "defensoria pública", "yrl": ["defẽsuria publika"], "nivel": "corrigido", "motivo": "forma completa atestada"}
+{"pt": "defesa nacional", "yrl": ["defẽderisa nasiunau"], "nivel": "corrigido", "motivo": "exemplos 2/3 sem kũseliu"}
+{"pt": "deixa estar", "yrl": ["tenupá"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "rm_tycho"}
+{"pt": "deixamos", "yrl": ["yaxari"], "nivel": "aprovado", "dice": 0.706, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "deixaram", "yrl": ["aintá uxari"], "nivel": "aprovado", "dice": 0.5, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "deixe estar", "yrl": ["tenupá"], "nivel": "aprovado", "dice": 0.519, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "deixem", "yrl": ["pexari"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "dentes", "yrl": ["ranha", "sanha"], "nivel": "aprovado", "dice": 0.71, "df": 18, "grupo_dominante": "avila2021"}
+{"pt": "dentro do rio", "yrl": ["paraná pupé"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "depois de amanhã", "yrl": ["amú wirandé"], "nivel": "aprovado", "dice": 0.778, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "depressa", "yrl": ["kurutẽi", "kutara"], "nivel": "aprovado", "dice": 0.4, "df": 17, "grupo_dominante": "avila2021"}
+{"pt": "deputados estaduais", "yrl": ["deputadu istaduau"], "nivel": "aprovado", "dice": 0.909, "df": 12, "grupo_dominante": "constituicao"}
+{"pt": "deputados federais", "yrl": ["deputadu federau"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "desceram", "yrl": ["uwiyé"], "nivel": "aprovado", "dice": 0.364, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "desceu", "yrl": ["uwiyé"], "nivel": "aprovado", "dice": 0.421, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "desembargadores", "yrl": ["deseũbárcador"], "nivel": "aprovado", "dice": 0.545, "df": 8, "grupo_dominante": "constituicao"}
+{"pt": "desporto", "yrl": ["yumusaáraitá"], "nivel": "aprovado", "dice": 0.462, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "deu lhe", "yrl": ["umeẽ xupé"], "nivel": "aprovado", "dice": 0.667, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "deu lhes", "yrl": ["umeẽ aintá supé"], "nivel": "aprovado", "dice": 0.667, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "deus disse", "yrl": ["tupana unheẽ"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "deus nosso senhor", "yrl": ["Tupana Yané Yara", "Yané Yara Tupana"], "nivel": "corrigido", "motivo": "termo fixo atestado"}
+{"pt": "dez anos", "yrl": ["mukũi pu akayu", "10 akayu"], "nivel": "corrigido", "motivo": "mukũipu=dez atestado; exemplo 3: 10 akayu"}
+{"pt": "dez dias", "yrl": ["mukũi pu aára"], "nivel": "corrigido", "motivo": "exemplos 1/3: mukũi pu aára"}
+{"pt": "dezoito", "yrl": ["musapiri pu musapiri", "dezuitu"], "nivel": "corrigido", "motivo": "auditor: musapiri pu musapiri; dezuitu também atestado"}
+{"pt": "dia todo", "yrl": ["ara pukusawa"], "nivel": "corrigido", "motivo": "remove verbo upurakí"}
+{"pt": "diabo", "yrl": ["yuruparí"], "nivel": "aprovado", "dice": 0.492, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "diarreia", "yrl": ["puruka"], "nivel": "aprovado", "dice": 0.857, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "diferente", "yrl": ["amurupí"], "nivel": "aprovado", "dice": 0.75, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "difusão", "yrl": ["mukamé"], "nivel": "corrigido", "motivo": "auditor: mukamé=divulgar"}
+{"pt": "difícil", "yrl": ["iwasú"], "nivel": "aprovado", "dice": 0.696, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "direitos", "yrl": ["direitu"], "nivel": "aprovado", "dice": 0.476, "df": 59, "grupo_dominante": "constituicao"}
+{"pt": "direta e indireta", "yrl": ["satãbika u aãmuramẽ"], "nivel": "corrigido", "motivo": "binômio fixo visível ex1"}
+{"pt": "direto", "yrl": ["satambika"], "nivel": "aprovado", "dice": 0.571, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "disse então", "yrl": ["unheẽ aramé"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "disseram", "yrl": ["taunheẽ"], "nivel": "aprovado", "dice": 0.364, "df": 16, "grupo_dominante": "treebank_ud"}
+{"pt": "distritais", "yrl": ["distrital"], "nivel": "corrigido", "motivo": "empréstimo distrital atestado nos exemplos"}
+{"pt": "distrital", "yrl": ["distritau"], "nivel": "aprovado", "dice": 0.429, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "distrito federal", "yrl": ["distritu federau"], "nivel": "corrigido", "motivo": "dice 0,92; forma completa"}
+{"pt": "documento", "yrl": ["papera"], "nivel": "corrigido", "motivo": "auditor: documento=papera; exemplos confirmam"}
+{"pt": "dois anos", "yrl": ["mukũi akayu"], "nivel": "aprovado", "dice": 0.645, "df": 18, "grupo_dominante": "constituicao"}
+{"pt": "dois dias", "yrl": ["mukũi ara"], "nivel": "aprovado", "dice": 0.824, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "dois juízes dentre", "yrl": ["mukũi juiz"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "dois reais", "yrl": ["mukũi real"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "dois terços", "yrl": ["mukũi tersu"], "nivel": "aprovado", "dice": 0.778, "df": 11, "grupo_dominante": "constituicao"}
+{"pt": "domingos", "yrl": ["mituú"], "nivel": "aprovado", "dice": 0.375, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "donde", "yrl": ["masuí"], "nivel": "aprovado", "dice": 0.703, "df": 13, "grupo_dominante": "treebank_ud"}
+{"pt": "donos", "yrl": ["yara itá"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "dorme", "yrl": ["ukíri"], "nivel": "aprovado", "dice": 0.522, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "dormindo", "yrl": ["ukiri uikú", "ukiri"], "nivel": "aprovado", "dice": 0.471, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "duas casas", "yrl": ["mukũi uka"], "nivel": "aprovado", "dice": 0.909, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "duas luas", "yrl": ["mukũi yasí"], "nivel": "aprovado", "dice": 0.941, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "débitos", "yrl": ["udeverisá-ita"], "nivel": "corrigido", "motivo": "auditor: débitos=udeverisá; exemplo 3 confirma"}
+{"pt": "educação infantil", "yrl": ["yunbuesá taina miri"], "nivel": "corrigido", "motivo": "exemplo 1: yunbuesá taina miri tasúpé"}
+{"pt": "elas ficaram", "yrl": ["aintá upitá"], "nivel": "aprovado", "dice": 0.8, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "eleição", "yrl": ["parawaákasá", "yuparawákawá"], "nivel": "corrigido", "motivo": "parawaáka=escolher; visível ex3"}
+{"pt": "eleições", "yrl": ["parawaákasá"], "nivel": "aprovado", "dice": 0.421, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "eles chegaram", "yrl": ["aintá usika"], "nivel": "aprovado", "dice": 0.48, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "eles já estavam", "yrl": ["aintá uikú"], "nivel": "aprovado", "dice": 0.429, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "eles perguntaram", "yrl": ["aintá upurandú"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "eletivo", "yrl": ["parawaákasá"], "nivel": "corrigido", "motivo": "ex2: mũdusá parawaákasá=mandato eletivo"}
+{"pt": "embaixo", "yrl": ["wírupi"], "nivel": "aprovado", "dice": 0.541, "df": 20, "grupo_dominante": "treebank_ud"}
+{"pt": "empresta", "yrl": ["repurú", "epurú"], "nivel": "aprovado", "dice": 0.615, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "encaminhamento", "yrl": ["yumũdu"], "nivel": "aprovado", "dice": 0.353, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "encantado", "yrl": ["maíwa"], "nivel": "aprovado", "dice": 0.615, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "encontramos", "yrl": ["yawasemu"], "nivel": "aprovado", "dice": 0.8, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "encontraram", "yrl": ["uyusuantí", "usuantí"], "nivel": "aprovado", "dice": 0.4, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "energia", "yrl": ["musẽdisá"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "enquanto isso", "yrl": ["nhaã pukusawa", "nhaã pukusá"], "nivel": "aprovado", "dice": 0.714, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "ensino fundamental", "yrl": ["ensino fundamental"], "nivel": "corrigido", "motivo": "empréstimo integral atestado"}
+{"pt": "ensinou", "yrl": ["umbué"], "nivel": "aprovado", "dice": 0.615, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "entrar", "yrl": ["awiké"], "nivel": "aprovado", "dice": 0.353, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "então a velha", "yrl": ["aramé uáimĩ"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "rm_tycho"}
+{"pt": "então eles", "yrl": ["aiwana aintá"], "nivel": "aprovado", "dice": 0.387, "df": 22, "grupo_dominante": "avila2021"}
+{"pt": "então o curupira", "yrl": ["aiwana kurupira"], "nivel": "aprovado", "dice": 0.8, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "então vá", "yrl": ["aramé resú"], "nivel": "aprovado", "dice": 0.8, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "enxada", "yrl": ["pururé"], "nivel": "aprovado", "dice": 1.0, "df": 9, "grupo_dominante": "gurgel"}
+{"pt": "escolas", "yrl": ["yumbuesara ruka"], "nivel": "aprovado", "dice": 0.462, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "esconder", "yrl": ["iumími"], "nivel": "corrigido", "motivo": "auditor: esconder=iumími; exemplos confirmam"}
+{"pt": "escondeu", "yrl": ["uyumimi"], "nivel": "aprovado", "dice": 0.583, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "escrevemos", "yrl": ["yampinima"], "nivel": "aprovado", "dice": 0.769, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "escutar", "yrl": ["uyapisaka"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "espalharam", "yrl": ["umusãi"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "espelho", "yrl": ["waruá"], "nivel": "aprovado", "dice": 0.8, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "esperamos", "yrl": ["yasarú"], "nivel": "aprovado", "dice": 0.526, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "esperar", "yrl": ["yasarú"], "nivel": "aprovado", "dice": 0.429, "df": 15, "grupo_dominante": "avila2021"}
+{"pt": "esposas", "yrl": ["rimirikú itá"], "nivel": "aprovado", "dice": 0.5, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "espuma", "yrl": ["tié", "tií"], "nivel": "corrigido", "motivo": "auditor: tié=espuma; tií no exemplo 2"}
+{"pt": "espírito", "yrl": ["espírito"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "esquecido", "yrl": ["resarái"], "nivel": "aprovado", "dice": 0.462, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "essa gente", "yrl": ["nhaã mira"], "nivel": "aprovado", "dice": 0.37, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "essa língua", "yrl": ["kwá nheenga"], "nivel": "aprovado", "dice": 0.706, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "essas mulheres", "yrl": ["nhaã kunhã itá"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "esse moço", "yrl": ["nhaã kurumiwasú"], "nivel": "aprovado", "dice": 0.571, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "esta cachoeira", "yrl": ["kwá kaxiwera"], "nivel": "aprovado", "dice": 0.857, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "esta camisa", "yrl": ["kuá kamixá"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "esta cidade", "yrl": ["kuá taua"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "esta terra", "yrl": ["kwá tetama"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "estado de defesa", "yrl": ["retama suãtisá"], "nivel": "corrigido", "motivo": "ex3: retama suãtisá; sítio=retama mirita"}
+{"pt": "estado de sítio", "yrl": ["istadu tẽdá"], "nivel": "aprovado", "dice": 0.72, "df": 16, "grupo_dominante": "constituicao"}
+{"pt": "estamos", "yrl": ["yaikú"], "nivel": "aprovado", "dice": 0.722, "df": 18, "grupo_dominante": "treebank_ud"}
+{"pt": "estava ainda", "yrl": ["uikú rẽ"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "estava olhando", "yrl": ["umaã uikú"], "nivel": "aprovado", "dice": 0.5, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "estava prestes", "yrl": ["putari ramé"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "estava vindo", "yrl": ["uri uikú"], "nivel": "aprovado", "dice": 0.526, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "este homem", "yrl": ["kwaá apigawa", "kwá apigawa"], "nivel": "aprovado", "dice": 0.583, "df": 16, "grupo_dominante": "treebank_ud"}
+{"pt": "este menino", "yrl": ["kuá kurumĩ"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "este meu", "yrl": ["kwá se"], "nivel": "aprovado", "dice": 0.571, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "este pau", "yrl": ["kwaá imirá"], "nivel": "aprovado", "dice": 0.5, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "estou alegre", "yrl": ["se rurí"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "estou cansado", "yrl": ["se maraari"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "estragou", "yrl": ["uyumuaíwa"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "estrangeiros", "yrl": ["aãmu tetãma suiwaára-ita"], "nivel": "corrigido", "motivo": "visível ex1 e ex3"}
+{"pt": "estrelas", "yrl": ["yasitatá", "yasitatá itá"], "nivel": "aprovado", "dice": 0.727, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "está avisando", "yrl": ["umbeú uikú"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "está chegando", "yrl": ["usika uiku"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "está doente", "yrl": ["maasí uikú"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "está fazendo", "yrl": ["umunhã uikú", "remunhã reikú"], "nivel": "aprovado", "dice": 0.421, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "está longe", "yrl": ["apekatú uikú"], "nivel": "aprovado", "dice": 0.833, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "está no rio", "yrl": ["uikú paranã upé"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "está vendo", "yrl": ["umaã uiku"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "está vivo", "yrl": ["sikwé"], "nivel": "aprovado", "dice": 0.375, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "estás", "yrl": ["reikú"], "nivel": "aprovado", "dice": 0.549, "df": 23, "grupo_dominante": "avila2021"}
+{"pt": "eu acho", "yrl": ["akwá"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "eu comer", "yrl": ["aú arama"], "nivel": "aprovado", "dice": 0.375, "df": 11, "grupo_dominante": "rm_tycho"}
+{"pt": "eu disse", "yrl": ["xa nhehẽ"], "nivel": "aprovado", "dice": 0.667, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "eu fico", "yrl": ["ixé apitá", "apitá"], "nivel": "aprovado", "dice": 0.667, "df": 11, "grupo_dominante": "gurgel"}
+{"pt": "eu irei", "yrl": ["asú kurí"], "nivel": "aprovado", "dice": 0.429, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "eu mando", "yrl": ["amundú"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "eu mesmo", "yrl": ["ixé tẽ"], "nivel": "aprovado", "dice": 0.714, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "eu não quero", "yrl": ["ixé niti aputári"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "eu não sei", "yrl": ["ixé ti akwáu"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "eu queria", "yrl": ["aputari maã"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "eu quero comer", "yrl": ["ambaú putari"], "nivel": "aprovado", "dice": 0.6, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "eu te espero", "yrl": ["asarú indé"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "eu trabalho", "yrl": ["ixé apuraki"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "eu trouxe", "yrl": ["aruri"], "nivel": "aprovado", "dice": 0.833, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "eu venho", "yrl": ["ayuri"], "nivel": "aprovado", "dice": 0.519, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "eu vou vingar", "yrl": ["asú ayupika"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "exercício financeiro", "yrl": ["muraákí financeiro"], "nivel": "aprovado", "dice": 0.571, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "expedição do diploma", "yrl": ["tayukasa tadipluma"], "nivel": "corrigido", "motivo": "auditor: expedição=tayukasa; diploma=tadipluma"}
+{"pt": "exportação", "yrl": ["umũdú ukaára kití"], "nivel": "corrigido", "motivo": "auditor: enviar para fora; ex3"}
+{"pt": "exterior", "yrl": ["ukaára"], "nivel": "aprovado", "dice": 0.485, "df": 11, "grupo_dominante": "constituicao"}
+{"pt": "facho", "yrl": ["turí"], "nivel": "aprovado", "dice": 0.571, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "falta", "yrl": ["uwatari"], "nivel": "aprovado", "dice": 0.621, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "familiares de maria", "yrl": ["maria anama itá"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "faminta", "yrl": ["iumasi"], "nivel": "aprovado", "dice": 0.471, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "faminto", "yrl": ["iumasi"], "nivel": "aprovado", "dice": 0.588, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "família de antônio", "yrl": ["antônio anama"], "nivel": "aprovado", "dice": 1.0, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "faremos", "yrl": ["kurí yamunhã"], "nivel": "aprovado", "dice": 0.545, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "faz bem", "yrl": ["omunhã catú"], "nivel": "corrigido", "motivo": "auditor: núcleo omunhã catú"}
+{"pt": "fazemos", "yrl": ["yamunhã"], "nivel": "corrigido", "motivo": "remove irumu=com"}
+{"pt": "fazermos", "yrl": ["yamunhã arama", "yamunhã"], "nivel": "aprovado", "dice": 0.5, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "faziam", "yrl": ["umunhã"], "nivel": "corrigido", "motivo": "auditor: umunhã=fazia(m), sem xupé"}
+{"pt": "feita", "yrl": ["suiuara"], "nivel": "aprovado", "dice": 0.4, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "felizes", "yrl": ["surí", "rurí"], "nivel": "corrigido", "motivo": "remove pronome aintá"}
+{"pt": "ferida", "yrl": ["perewa"], "nivel": "aprovado", "dice": 0.833, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "ferver", "yrl": ["upupuri"], "nivel": "aprovado", "dice": 0.429, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "fez força", "yrl": ["uyumukirimbawa", "oiumukirimáu"], "nivel": "corrigido", "motivo": "auditor: oiumukirimáu; forma moderna uyumukirimbawa"}
+{"pt": "fica no rio", "yrl": ["upitá paranã upé"], "nivel": "aprovado", "dice": 0.875, "df": 9, "grupo_dominante": "gurgel"}
+{"pt": "ficamos", "yrl": ["yapitá"], "nivel": "aprovado", "dice": 0.5, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "ficaram logo", "yrl": ["upitá yeperesé"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "ficarei", "yrl": ["apitá kurí"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "ficou escuro", "yrl": ["upitá pitunawasú"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "ficou triste", "yrl": ["upitá sasiára"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "figura", "yrl": ["rangawa"], "nivel": "aprovado", "dice": 0.414, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "filhas", "yrl": ["tayera itá", "tayera"], "nivel": "aprovado", "dice": 0.6, "df": 14, "grupo_dominante": "treebank_ud"}
+{"pt": "filho de deus", "yrl": ["tupana raíra"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "filho de maria", "yrl": ["maria mimbira"], "nivel": "aprovado", "dice": 0.914, "df": 16, "grupo_dominante": "gurgel"}
+{"pt": "finada", "yrl": ["ambira"], "nivel": "aprovado", "dice": 0.471, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "fiscalização contábil", "yrl": ["yumiakũtasá kũtabiu"], "nivel": "corrigido", "motivo": "exemplo direto: Yumiakũtasá kũtabiu"}
+{"pt": "flautas", "yrl": ["membí itá"], "nivel": "aprovado", "dice": 0.737, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "flechas", "yrl": ["uíwa itá", "ruíwa"], "nivel": "aprovado", "dice": 0.533, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "flechou", "yrl": ["uyumú"], "nivel": "aprovado", "dice": 0.72, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "flores", "yrl": ["putira itá"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "fogueira", "yrl": ["tatawasú"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "folha", "yrl": ["rawa"], "nivel": "aprovado", "dice": 0.526, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "formação do patrimônio", "yrl": ["formação do patrimônio"], "nivel": "aprovado", "dice": 1.0, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "formiga", "yrl": ["tasiwa"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "formosa", "yrl": ["puranga", "purãnga"], "nivel": "corrigido", "motivo": "remove reté=muito"}
+{"pt": "forças armadas", "yrl": ["mukawá kirĩbasá", "suraára-ita"], "nivel": "corrigido", "motivo": "mukawá kirĩbasá atestado; suraára-ita também"}
+{"pt": "frutas", "yrl": ["iwá itá"], "nivel": "aprovado", "dice": 0.571, "df": 15, "grupo_dominante": "avila2021"}
+{"pt": "fugiu", "yrl": ["uyawáu"], "nivel": "aprovado", "dice": 0.542, "df": 23, "grupo_dominante": "avila2021"}
+{"pt": "fumaça", "yrl": ["tatatinga"], "nivel": "aprovado", "dice": 0.846, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "gafanhoto", "yrl": ["tukura"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "gavião disse", "yrl": ["wirawasú unheẽ"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "gente boa", "yrl": ["mira katú"], "nivel": "aprovado", "dice": 1.0, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "geral da república", "yrl": ["gerau da republika"], "nivel": "aprovado", "dice": 0.471, "df": 13, "grupo_dominante": "constituicao"}
+{"pt": "gosta", "yrl": ["ugustari", "uyumutari"], "nivel": "aprovado", "dice": 0.526, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "grave", "yrl": ["kaátu"], "nivel": "aprovado", "dice": 0.353, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "grelo", "yrl": ["suã"], "nivel": "corrigido", "motivo": "auditor: grelo=suã; exemplos confirmam"}
+{"pt": "gruta", "yrl": ["itakwara"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "guariba", "yrl": ["wariwa"], "nivel": "aprovado", "dice": 0.933, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "gulosa", "yrl": ["tiára"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "rm_tycho"}
+{"pt": "gás natural", "yrl": ["gás natural"], "nivel": "aprovado", "dice": 0.667, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "habeas corpus", "yrl": ["habeas corpus"], "nivel": "corrigido", "motivo": "empréstimo integral atestado"}
+{"pt": "habitantes", "yrl": ["miíra-itá"], "nivel": "corrigido", "motivo": "auditor: habitantes=miíra-itá"}
+{"pt": "havemos", "yrl": ["kurí yandé"], "nivel": "aprovado", "dice": 0.444, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "havia", "yrl": ["aikwé"], "nivel": "aprovado", "dice": 0.387, "df": 47, "grupo_dominante": "avila2021"}
+{"pt": "histórico", "yrl": ["kuximawára"], "nivel": "corrigido", "motivo": "auditor: kuximawára; exemplos confirmam"}
+{"pt": "homem disse", "yrl": ["apgáua onhehẽ"], "nivel": "aprovado", "dice": 0.833, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "homem pobre", "yrl": ["apigaua pirasua"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "há duas", "yrl": ["aikwé mukũi"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "iauhixa", "yrl": ["iauhixa"], "nivel": "aprovado", "dice": 0.857, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "igarapé", "yrl": ["igarapé"], "nivel": "aprovado", "dice": 0.844, "df": 35, "grupo_dominante": "gurgel"}
+{"pt": "igreja", "yrl": ["tupauku", "tupáuku"], "nivel": "aprovado", "dice": 0.471, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "ilhas", "yrl": ["kapuã"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "impedimentos", "yrl": ["yumapatukasawá"], "nivel": "corrigido", "motivo": "exemplos 2-3: yumapatukasawá na lista"}
+{"pt": "imposto previsto", "yrl": ["kubrarisá ũbeuwa"], "nivel": "corrigido", "motivo": "visível: kubrarisá ũbeuwa no exemplo 2"}
+{"pt": "impostos", "yrl": ["kubrarisá"], "nivel": "aprovado", "dice": 0.381, "df": 29, "grupo_dominante": "constituicao"}
+{"pt": "inajá", "yrl": ["inayá"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "inajé", "yrl": ["inaié"], "nivel": "aprovado", "dice": 0.909, "df": 11, "grupo_dominante": "rm_tycho"}
+{"pt": "inambu", "yrl": ["inambú"], "nivel": "aprovado", "dice": 0.75, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "indicado", "yrl": ["mukameẽ"], "nivel": "aprovado", "dice": 0.824, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "informações", "yrl": ["marãduwa"], "nivel": "aprovado", "dice": 0.375, "df": 13, "grupo_dominante": "constituicao"}
+{"pt": "infrações penais", "yrl": ["ĩfrasãu ita penáu"], "nivel": "corrigido", "motivo": "alternativas: ĩfrasãu ita + penáu"}
+{"pt": "instituições financeiras", "yrl": ["purákiwa-itá finãseira", "diñeru ruka-ita"], "nivel": "corrigido", "motivo": "ex1 e ex2"}
+{"pt": "integrantes", "yrl": ["urikú waitá", "upuraki waitá"], "nivel": "corrigido", "motivo": "auditor: urikú waitá; exemplo 3 upuraki waitá"}
+{"pt": "inteiro", "yrl": ["yepewasú", "ĩteiru"], "nivel": "corrigido", "motivo": "auditor: yepewasú; ĩteiru em contexto numérico"}
+{"pt": "interestaduais", "yrl": ["istadu ita rupí"], "nivel": "aprovado", "dice": 0.545, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "intervenção federal", "yrl": ["ĩtervẽsãu federau"], "nivel": "corrigido", "motivo": "visível no exemplo 3"}
+{"pt": "içana", "yrl": ["isana"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "jabuti assim", "yrl": ["iáutí quaí"], "nivel": "aprovado", "dice": 0.727, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "jabuti disse", "yrl": ["yautí unheẽ"], "nivel": "aprovado", "dice": 0.727, "df": 18, "grupo_dominante": "avila2021"}
+{"pt": "jabuti falou", "yrl": ["iáutí onhehẽ"], "nivel": "aprovado", "dice": 0.5, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "jabuti respondeu", "yrl": ["yautí usuaxara", "iáutí oçuaxára"], "nivel": "aprovado", "dice": 0.611, "df": 24, "grupo_dominante": "rm_tycho"}
+{"pt": "jabuti riu", "yrl": ["yautí upuká"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "jabuti saiu", "yrl": ["yautí usemu"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "jabuti voltou", "yrl": ["yautí uyuíri"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "rm_tycho"}
+{"pt": "jacamim", "yrl": ["yakamĩ"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "janeiro", "yrl": ["janeiro"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "japurutus", "yrl": ["yapurutú"], "nivel": "corrigido", "motivo": "auditor: yapurutú correto, sem possessivo ta"}
+{"pt": "jesus cristo", "yrl": ["jesus cristo"], "nivel": "aprovado", "dice": 0.8, "df": 12, "grupo_dominante": "catecismo1944"}
+{"pt": "jesus disse lhes", "yrl": ["jesus unheẽ aintá"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "jirau", "yrl": ["yurá"], "nivel": "aprovado", "dice": 0.857, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "jovem", "yrl": ["kurumi wasú"], "nivel": "aprovado", "dice": 0.5, "df": 12, "grupo_dominante": "constituicao"}
+{"pt": "juiz federal", "yrl": ["juiz federau"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "julgamento", "yrl": ["jugamẽtu"], "nivel": "aprovado", "dice": 0.727, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "juntas eleitorais", "yrl": ["junta eleyturau"], "nivel": "aprovado", "dice": 1.0, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "juntos", "yrl": ["yepewasú"], "nivel": "aprovado", "dice": 0.4, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "jurupari", "yrl": ["yuruparí"], "nivel": "aprovado", "dice": 0.647, "df": 23, "grupo_dominante": "avila2021"}
+{"pt": "justiça do trabalho", "yrl": ["justisa do murakí"], "nivel": "aprovado", "dice": 0.8, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "justiça eleitoral", "yrl": ["justisa eleyturau"], "nivel": "aprovado", "dice": 0.8, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "justiça federal", "yrl": ["justisa federau"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "justiça militar", "yrl": ["justisa suraára", "justisa militarir"], "nivel": "corrigido", "motivo": "exemplo 1 Justisa Suraára; alternativa justisa militarir"}
+{"pt": "juízes de direito", "yrl": ["juiz de direito"], "nivel": "corrigido", "motivo": "empréstimo integral atestado (exemplos 2/3)"}
+{"pt": "juízes federais", "yrl": ["juiz federau ta", "juiz federau"], "nivel": "aprovado", "dice": 0.75, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "kukuhy", "yrl": ["kukuí", "kukuhi"], "nivel": "aprovado", "dice": 0.75, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "kurukuí", "yrl": ["kurukuí"], "nivel": "aprovado", "dice": 0.857, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "ladrão", "yrl": ["mundawasú"], "nivel": "aprovado", "dice": 0.588, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "lançou", "yrl": ["uyapí"], "nivel": "corrigido", "motivo": "auditor: lançou=uyapí; exemplos confirmam"}
+{"pt": "leite", "yrl": ["kambí"], "nivel": "aprovado", "dice": 0.667, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "letras", "yrl": ["pinimasá rupiára itá"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "levantou", "yrl": ["upuãmu"], "nivel": "aprovado", "dice": 0.4, "df": 9, "grupo_dominante": "treebank_ud"}
+{"pt": "levou", "yrl": ["urasú"], "nivel": "aprovado", "dice": 0.691, "df": 22, "grupo_dominante": "avila2021"}
+{"pt": "livro", "yrl": ["papera"], "nivel": "aprovado", "dice": 0.583, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "longe daqui", "yrl": ["apekatú kwá suí"], "nivel": "corrigido", "motivo": "visível nos 3 exemplos"}
+{"pt": "loucura", "yrl": ["akangaiwasawa"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "lua nova", "yrl": ["yasí pisasú"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "lubrificantes", "yrl": ["umusĩmasá", "umusiĩmasá"], "nivel": "corrigido", "motivo": "auditor: lubrificantes=(u)musĩmasá; atestado nos exemplos"}
+{"pt": "lá está", "yrl": ["mixukúi"], "nivel": "aprovado", "dice": 0.615, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "lágrimas", "yrl": ["resá yukisé"], "nivel": "aprovado", "dice": 0.923, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "língua geral", "yrl": ["tapuya nheenga"], "nivel": "aprovado", "dice": 0.615, "df": 9, "grupo_dominante": "treebank_ud"}
+{"pt": "lúcia", "yrl": ["lúcia"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "macaco", "yrl": ["makaka", "macáca"], "nivel": "aprovado", "dice": 0.6, "df": 17, "grupo_dominante": "avila2021"}
+{"pt": "madalena", "yrl": ["madalena"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "madeiras", "yrl": ["mirá-itá"], "nivel": "corrigido", "motivo": "auditor: falta mirá; exemplos mirá-itá"}
+{"pt": "madrugada", "yrl": ["kuẽma piranga"], "nivel": "aprovado", "dice": 0.6, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "maguari", "yrl": ["manguarí"], "nivel": "aprovado", "dice": 0.857, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "maldade", "yrl": ["puxiwerasawa"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "manaus", "yrl": ["barra", "manaus"], "nivel": "aprovado", "dice": 0.5, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "mandato de dois", "yrl": ["mukũi akayu pura"], "nivel": "aprovado", "dice": 1.0, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "mandei", "yrl": ["kari"], "nivel": "aprovado", "dice": 0.462, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "mandioca", "yrl": ["maniáka", "maniaka"], "nivel": "aprovado", "dice": 0.735, "df": 29, "grupo_dominante": "avila2021"}
+{"pt": "mandou a fazer", "yrl": ["umundú aé umunhã"], "nivel": "aprovado", "dice": 1.0, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "mandou imediatamente", "yrl": ["umundú yeperesé"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "maniuara", "yrl": ["maniwara"], "nivel": "aprovado", "dice": 0.909, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "maniva", "yrl": ["maniwa", "maniiwa"], "nivel": "aprovado", "dice": 0.696, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "mantido pela união", "yrl": ["mukaáturuwa uniãũ rupí"], "nivel": "corrigido", "motivo": "fórmula recorrente visível nos 3 exemplos"}
+{"pt": "margem do rio", "yrl": ["paranã rembiua", "paraná rembií"], "nivel": "corrigido", "motivo": "exemplos: paraná rembií-pe, Paranãuasu rembiua"}
+{"pt": "maria caminha", "yrl": ["maria uuatá"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "maria comerá", "yrl": ["maria umbaú kuri"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "maria compra", "yrl": ["maria upiripana"], "nivel": "aprovado", "dice": 0.933, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "maria diz", "yrl": ["maria unheẽ"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "maria fica", "yrl": ["maria upitá"], "nivel": "aprovado", "dice": 0.933, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "maria sai", "yrl": ["maria usému"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "maria tem", "yrl": ["maria uriku"], "nivel": "aprovado", "dice": 0.833, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "maria vai", "yrl": ["maria usu", "maria usú"], "nivel": "aprovado", "dice": 0.727, "df": 14, "grupo_dominante": "gurgel"}
+{"pt": "maria vê", "yrl": ["maria umaã"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "marido de maria", "yrl": ["maria mena"], "nivel": "aprovado", "dice": 0.974, "df": 19, "grupo_dominante": "gurgel"}
+{"pt": "maridos", "yrl": ["mena itá"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "marinha", "yrl": ["mariyã"], "nivel": "aprovado", "dice": 0.909, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "massaricado", "yrl": ["masarikado"], "nivel": "aprovado", "dice": 0.923, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "matamos", "yrl": ["yayuká"], "nivel": "aprovado", "dice": 0.5, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "matapi", "yrl": ["matapí"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "rm_tycho"}
+{"pt": "mataram", "yrl": ["uyuká"], "nivel": "corrigido", "motivo": "yepé era objeto=um"}
+{"pt": "matá lo", "yrl": ["uyuká arama aé"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "me ir", "yrl": ["xasú ranhẽ"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "me lembro", "yrl": ["se manduári"], "nivel": "aprovado", "dice": 0.615, "df": 9, "grupo_dominante": "treebank_ud"}
+{"pt": "meia noite", "yrl": ["pisayé"], "nivel": "aprovado", "dice": 0.6, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "meio ambiente", "yrl": ["mamẽ yaiku"], "nivel": "corrigido", "motivo": "ex1: suãti mamẽ yaiku"}
+{"pt": "meio dia", "yrl": ["yandara"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "meio do rio", "yrl": ["paraná pitérupi"], "nivel": "aprovado", "dice": 0.857, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "melhor", "yrl": ["katú piri", "puranga piri"], "nivel": "aprovado", "dice": 0.353, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "membros do ministério", "yrl": ["ministeriu publiku pura"], "nivel": "aprovado", "dice": 0.417, "df": 18, "grupo_dominante": "constituicao"}
+{"pt": "menina", "yrl": ["kunhatai", "kunhataĩ"], "nivel": "aprovado", "dice": 0.375, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "menininho", "yrl": ["kurumĩ mirĩ"], "nivel": "aprovado", "dice": 0.615, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "menino pesca", "yrl": ["kurumĩ upinaitika"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "meninos", "yrl": ["kurumĩ itá"], "nivel": "aprovado", "dice": 0.519, "df": 20, "grupo_dominante": "avila2021"}
+{"pt": "mesas", "yrl": ["meza"], "nivel": "aprovado", "dice": 0.471, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "metade", "yrl": ["pitera"], "nivel": "corrigido", "motivo": "auditor: metade=pitera"}
+{"pt": "meu algodão", "yrl": ["se amaniú"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "meu avô", "yrl": ["se ramunha"], "nivel": "aprovado", "dice": 0.895, "df": 19, "grupo_dominante": "treebank_ud"}
+{"pt": "meu caminho", "yrl": ["se rapé"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "meu chapéu", "yrl": ["se xapewa"], "nivel": "corrigido", "motivo": "alternativa dice 0,889; exemplos confirmam"}
+{"pt": "meu corpo", "yrl": ["se pira"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "meu cunhado", "yrl": ["se ruayara", "se ruái"], "nivel": "corrigido", "motivo": "parentesco com forma dependente r-"}
+{"pt": "meu filho", "yrl": ["se mimbira", "se raíra"], "nivel": "aprovado", "dice": 0.462, "df": 39, "grupo_dominante": "treebank_ud"}
+{"pt": "meu fogo", "yrl": ["se ratá"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "meu marido", "yrl": ["se mena"], "nivel": "aprovado", "dice": 0.971, "df": 17, "grupo_dominante": "avila2021"}
+{"pt": "meu menino", "yrl": ["se kurumĩ"], "nivel": "corrigido", "motivo": "dice 1,0; remove demonstrativo nhaã"}
+{"pt": "meu neto", "yrl": ["se rimiarirú"], "nivel": "aprovado", "dice": 0.444, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "meu nome", "yrl": ["se rera"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "meu pai", "yrl": ["se paya"], "nivel": "aprovado", "dice": 0.75, "df": 39, "grupo_dominante": "avila2021"}
+{"pt": "meu rosto", "yrl": ["se ruá"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "meu senhor", "yrl": ["se ruixawa"], "nivel": "aprovado", "dice": 0.8, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "meus cabelos", "yrl": ["se awa"], "nivel": "aprovado", "dice": 0.769, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "meus camaradas", "yrl": ["se kamarara itá"], "nivel": "aprovado", "dice": 0.833, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "meus filhos", "yrl": ["se raíra itá"], "nivel": "aprovado", "dice": 0.769, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "meus irmãos", "yrl": ["se mú itá"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "meus olhos", "yrl": ["se resá"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "meus parentes", "yrl": ["cẹ anãma"], "nivel": "aprovado", "dice": 0.615, "df": 9, "grupo_dominante": "rm_tycho"}
+{"pt": "milho", "yrl": ["awatí"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "milhão", "yrl": ["milhãu"], "nivel": "corrigido", "motivo": "remove yepé=um"}
+{"pt": "minha alma", "yrl": ["se anga"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "minha avó", "yrl": ["se aría"], "nivel": "aprovado", "dice": 0.818, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "minha cabeça", "yrl": ["se akanga"], "nivel": "aprovado", "dice": 0.737, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "minha canoa", "yrl": ["se igara"], "nivel": "aprovado", "dice": 0.903, "df": 15, "grupo_dominante": "treebank_ud"}
+{"pt": "minha espingarda", "yrl": ["se mukawa"], "nivel": "aprovado", "dice": 0.941, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "minha esposa", "yrl": ["se rimirikú"], "nivel": "aprovado", "dice": 0.476, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "minha faca", "yrl": ["se kisé"], "nivel": "aprovado", "dice": 1.0, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "minha flauta", "yrl": ["cẹrẹmemɨ"], "nivel": "aprovado", "dice": 0.545, "df": 8, "grupo_dominante": "rm_tycho"}
+{"pt": "minha mulher", "yrl": ["se rimirikú"], "nivel": "aprovado", "dice": 0.667, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "minha mãe", "yrl": ["se manha"], "nivel": "aprovado", "dice": 0.911, "df": 47, "grupo_dominante": "treebank_ud"}
+{"pt": "minha perna", "yrl": ["se retimã"], "nivel": "aprovado", "dice": 0.545, "df": 5, "grupo_dominante": "rm_tycho"}
+{"pt": "minha roupa", "yrl": ["se maã itá"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "minha roça", "yrl": ["se kupixawa"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "minha terra", "yrl": ["se retama"], "nivel": "aprovado", "dice": 0.971, "df": 18, "grupo_dominante": "treebank_ud"}
+{"pt": "ministros", "yrl": ["ministru"], "nivel": "aprovado", "dice": 0.754, "df": 29, "grupo_dominante": "constituicao"}
+{"pt": "ministros de estado", "yrl": ["ministru de istadu"], "nivel": "aprovado", "dice": 0.588, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "ministros do supremo", "yrl": ["ministru turusú piri"], "nivel": "aprovado", "dice": 0.667, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "ministério público", "yrl": ["ministeriu publiku", "ministeriu payẽ"], "nivel": "corrigido", "motivo": "formas completas atestadas"}
+{"pt": "moles", "yrl": ["membeka"], "nivel": "corrigido", "motivo": "itá era plural do substantivo anterior"}
+{"pt": "moqueado", "yrl": ["mukaẽ"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "moquém", "yrl": ["mukaẽtawa"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "morcego", "yrl": ["andirá", "anirá"], "nivel": "aprovado", "dice": 0.667, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "morreram", "yrl": ["umanũ"], "nivel": "aprovado", "dice": 0.421, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "morrerá", "yrl": ["umanú kurí"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "morro", "yrl": ["amanú"], "nivel": "aprovado", "dice": 0.353, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "morte", "yrl": ["manusawa"], "nivel": "aprovado", "dice": 0.6, "df": 20, "grupo_dominante": "treebank_ud"}
+{"pt": "mostrar", "yrl": ["amukameẽ"], "nivel": "aprovado", "dice": 0.421, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "moça disse", "yrl": ["cunhã mucú onhehẽ"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "rm_tycho"}
+{"pt": "moças", "yrl": ["kunhamukú itá"], "nivel": "aprovado", "dice": 0.818, "df": 26, "grupo_dominante": "avila2021"}
+{"pt": "moço bonito", "yrl": ["kurumiwasú puranga"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "moços", "yrl": ["kurumiwasú itá"], "nivel": "aprovado", "dice": 0.609, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "muitas canoas", "yrl": ["siía igara"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "muitas coisas", "yrl": ["siía maã"], "nivel": "aprovado", "dice": 0.727, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "muitas mulheres", "yrl": ["siía kunhã"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "muitos peixes", "yrl": ["siía pirá"], "nivel": "aprovado", "dice": 0.824, "df": 8, "grupo_dominante": "gurgel"}
+{"pt": "mulher vai", "yrl": ["kunhã usu"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "mulher vem", "yrl": ["kunhã úri"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "mãe de maria", "yrl": ["maria manha"], "nivel": "aprovado", "dice": 1.0, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "mãe do peixe", "yrl": ["pirá manha"], "nivel": "aprovado", "dice": 0.952, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "mãe do quente", "yrl": ["sakú manha"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "mãe ia", "yrl": ["manha usú"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "nariz", "yrl": ["tĩ"], "nivel": "corrigido", "motivo": "remove resé=em"}
+{"pt": "nascidos", "yrl": ["unaseriwa ita"], "nivel": "aprovado", "dice": 1.0, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "navio", "yrl": ["marakatĩ", "navio"], "nivel": "aprovado", "dice": 0.636, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "nesse dia", "yrl": ["nhaã ara"], "nivel": "aprovado", "dice": 0.571, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "nesse momento", "yrl": ["ape ana"], "nivel": "aprovado", "dice": 0.389, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "nesta constituição", "yrl": ["mũdusáwa turusúwa upé"], "nivel": "aprovado", "dice": 0.5, "df": 21, "grupo_dominante": "constituicao"}
+{"pt": "nesta seção", "yrl": ["kuá sesãu"], "nivel": "aprovado", "dice": 0.667, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "netos", "yrl": ["rimiarirú"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "nhampirikuli", "yrl": ["nhampirikuli"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "nheengatu", "yrl": ["nheengatú", "nheengatu"], "nivel": "aprovado", "dice": 0.704, "df": 44, "grupo_dominante": "gurgel"}
+{"pt": "ninguém sabe", "yrl": ["ti awá ukwáu"], "nivel": "corrigido", "motivo": "negação ti indispensável"}
+{"pt": "nossa casa", "yrl": ["yané ruka"], "nivel": "aprovado", "dice": 0.842, "df": 11, "grupo_dominante": "treebank_ud"}
+{"pt": "nossa cidade", "yrl": ["yané tawa"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "nossa língua", "yrl": ["yané nheenga"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "nossa mãe", "yrl": ["yané manha"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "nossa roça", "yrl": ["yané kupixawa"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "nossa terra", "yrl": ["yané retama"], "nivel": "corrigido", "motivo": "exemplo 2: yané retama"}
+{"pt": "nosso coração", "yrl": ["yané piá"], "nivel": "aprovado", "dice": 0.615, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "nosso corpo", "yrl": ["yané pira"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "nosso criador", "yrl": ["yané munhangara"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "nosso princípio", "yrl": ["yané yupirungawa"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "nosso senhor deus", "yrl": ["yané yara tupana"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "notícia", "yrl": ["marandúa"], "nivel": "aprovado", "dice": 0.714, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "noventa", "yrl": ["nuvẽta"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "nós estamos", "yrl": ["yaikú", "yandé yaikú"], "nivel": "aprovado", "dice": 0.462, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "nós temos", "yrl": ["yarikú", "yandé yarikú"], "nivel": "aprovado", "dice": 0.583, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "observância", "yrl": ["maãsa"], "nivel": "corrigido", "motivo": "ex1: yupitásúka maãsa resé=assegurar observância"}
+{"pt": "oito milhões", "yrl": ["pú musapiri milhãu"], "nivel": "corrigido", "motivo": "auditor: oito=pu musapiri; atestado"}
+{"pt": "onde maria", "yrl": ["makiti taá maria"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "ontem", "yrl": ["kwesé"], "nivel": "aprovado", "dice": 0.867, "df": 15, "grupo_dominante": "treebank_ud"}
+{"pt": "onça disse", "yrl": ["iauaraté onhehẽ"], "nivel": "aprovado", "dice": 0.522, "df": 17, "grupo_dominante": "rm_tycho"}
+{"pt": "onça morreu", "yrl": ["yawareté umanú ana"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "operações de crédito", "yrl": ["muyãsa creditu"], "nivel": "corrigido", "motivo": "ex3: muyãsa creditu externu"}
+{"pt": "ordem econômica", "yrl": ["mayê usúrã economia"], "nivel": "corrigido", "motivo": "dice 0,8; visível ex3"}
+{"pt": "original", "yrl": ["iupirungaua uahá"], "nivel": "corrigido", "motivo": "catecismo: peccado original=iupirungaua uahá"}
+{"pt": "outras línguas", "yrl": ["amú nheenga"], "nivel": "aprovado", "dice": 0.462, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "outrora", "yrl": ["kuxiima"], "nivel": "aprovado", "dice": 0.367, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "outros", "yrl": ["amú itá"], "nivel": "aprovado", "dice": 0.396, "df": 72, "grupo_dominante": "constituicao"}
+{"pt": "ouvido", "yrl": ["apisá"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "ouviu", "yrl": ["usendú"], "nivel": "aprovado", "dice": 0.525, "df": 36, "grupo_dominante": "avila2021"}
+{"pt": "pajelança", "yrl": ["payesawa"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "panacu", "yrl": ["panakú"], "nivel": "aprovado", "dice": 0.941, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "panela", "yrl": ["panera", "itanhaẽ"], "nivel": "aprovado", "dice": 0.667, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "papai", "yrl": ["paíka"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "paraman", "yrl": ["paramã"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "parceiro", "yrl": ["sumuára"], "nivel": "aprovado", "dice": 0.4, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "parecer", "yrl": ["papéra sesewára"], "nivel": "corrigido", "motivo": "ex1: parecer prévio=papéra sesewára"}
+{"pt": "parlamentares", "yrl": ["parlamẽtaita"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "partido político", "yrl": ["partidu pulitiku"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "partidos", "yrl": ["partidu"], "nivel": "aprovado", "dice": 0.667, "df": 11, "grupo_dominante": "constituicao"}
+{"pt": "partidos políticos", "yrl": ["partidu pulitiku itá"], "nivel": "aprovado", "dice": 0.615, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "parágrafo único", "yrl": ["ũbeusa yepéyũtu"], "nivel": "corrigido", "motivo": "exemplo 3: ũbeusa yepéyũtu"}
+{"pt": "passarinhos", "yrl": ["wirá-mirĩ-itá"], "nivel": "corrigido", "motivo": "remove demonstrativo kwá"}
+{"pt": "patrão", "yrl": ["patrãu", "kariwa"], "nivel": "corrigido", "motivo": "patrãu sem se; kariwa no exemplo 1"}
+{"pt": "paulo", "yrl": ["paulo"], "nivel": "aprovado", "dice": 0.889, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "paxiúba", "yrl": ["paxiiwa"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "peccado", "yrl": ["peccado"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "catecismo1944"}
+{"pt": "pedaço", "yrl": ["pisãwera"], "nivel": "aprovado", "dice": 0.522, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "pedir", "yrl": ["upurandú", "ayururéu"], "nivel": "corrigido", "motivo": "auditor: upurandú; ex1: ayururéu"}
+{"pt": "pediu", "yrl": ["uyururé"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "pedro está", "yrl": ["pedro uiku"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "pedro fica", "yrl": ["pedro upitá"], "nivel": "aprovado", "dice": 0.923, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "pedro quer", "yrl": ["pedro uputári"], "nivel": "aprovado", "dice": 0.9, "df": 10, "grupo_dominante": "gurgel"}
+{"pt": "pedro vai", "yrl": ["pedro usu"], "nivel": "aprovado", "dice": 0.818, "df": 12, "grupo_dominante": "gurgel"}
+{"pt": "pegou", "yrl": ["upisika"], "nivel": "aprovado", "dice": 0.488, "df": 48, "grupo_dominante": "avila2021"}
+{"pt": "pegue", "yrl": ["repisika"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "peidou", "yrl": ["upinú"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "peixe com farinha", "yrl": ["pirá uí"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "peixes fugiram", "yrl": ["pirá itá uiauau"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "pele de tupana", "yrl": ["tupana pirera"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "pensa em voltar", "yrl": ["uieuíri-manduári"], "nivel": "corrigido", "motivo": "composto V+manduári atestado"}
+{"pt": "pensar", "yrl": ["amaité"], "nivel": "aprovado", "dice": 0.6, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "pensava", "yrl": ["umaité"], "nivel": "corrigido", "motivo": "auditor: umaité; exemplos confirmam"}
+{"pt": "penso em voltar", "yrl": ["amanduári aieuíri"], "nivel": "corrigido", "motivo": "atestado nos exemplos"}
+{"pt": "pensões", "yrl": ["pẽsãu", "pensão"], "nivel": "aprovado", "dice": 0.353, "df": 10, "grupo_dominante": "constituicao"}
+{"pt": "pequenas", "yrl": ["mirĩ"], "nivel": "corrigido", "motivo": "auditor: mirĩ; itá é plural alheio"}
+{"pt": "pergunta", "yrl": ["upurandu"], "nivel": "aprovado", "dice": 0.714, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "perigoso", "yrl": ["yawaité"], "nivel": "aprovado", "dice": 0.417, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "pernas", "yrl": ["setimã"], "nivel": "aprovado", "dice": 0.364, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "perto dela", "yrl": ["suakí"], "nivel": "aprovado", "dice": 0.364, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "perto dele", "yrl": ["suakí"], "nivel": "aprovado", "dice": 0.5, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "pesado", "yrl": ["pusé"], "nivel": "aprovado", "dice": 0.565, "df": 16, "grupo_dominante": "gurgel"}
+{"pt": "pescadores", "yrl": ["pinaitikasara"], "nivel": "corrigido", "motivo": "auditor: núcleo pinaitikasara sem supé"}
+{"pt": "pescamos", "yrl": ["iapinaitika"], "nivel": "aprovado", "dice": 0.933, "df": 8, "grupo_dominante": "gurgel"}
+{"pt": "pescoço", "yrl": ["ayura"], "nivel": "aprovado", "dice": 0.833, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "pessoas que falam", "yrl": ["mira itá upurungitá"], "nivel": "aprovado", "dice": 0.545, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "petróleo", "yrl": ["pretruleu", "petróleo"], "nivel": "corrigido", "motivo": "empréstimo pretruleu/petróleo atestado"}
+{"pt": "pimenta", "yrl": ["kiinha"], "nivel": "aprovado", "dice": 0.9, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "piraíba", "yrl": ["piraíwa"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "piripiri", "yrl": ["piripiri", "piripirí"], "nivel": "aprovado", "dice": 0.741, "df": 17, "grupo_dominante": "avila2021"}
+{"pt": "piripirioca", "yrl": ["piripiriáka"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "pisou", "yrl": ["upirú"], "nivel": "aprovado", "dice": 0.857, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "plano plurianual", "yrl": ["muyã mãduarisá musaápiri akayu rupiáára"], "nivel": "corrigido", "motivo": "ex3 traduz o termo"}
+{"pt": "plantar", "yrl": ["uyutima"], "nivel": "aprovado", "dice": 0.4, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "plantas", "yrl": ["yutima"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "pleito", "yrl": ["parawaákasá"], "nivel": "corrigido", "motivo": "exemplo 3: pleito direto=parawaákasá (eleição)"}
+{"pt": "pobre", "yrl": ["pirasua"], "nivel": "aprovado", "dice": 0.812, "df": 34, "grupo_dominante": "gurgel"}
+{"pt": "podemos fazer", "yrl": ["yapuderi yamunhã"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "poder judiciário", "yrl": ["kirĩbasá judisiariu", "judisiariu kirĩbásá"], "nivel": "corrigido", "motivo": "exemplo 2 e alternativa dice 0,5"}
+{"pt": "podres", "yrl": ["yuka"], "nivel": "aprovado", "dice": 0.609, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "políticos", "yrl": ["pulitiku"], "nivel": "aprovado", "dice": 0.667, "df": 19, "grupo_dominante": "constituicao"}
+{"pt": "pontos percentuais", "yrl": ["pontos percentuais"], "nivel": "corrigido", "motivo": "corpus mantém empréstimo integral (exemplo 2)"}
+{"pt": "porco", "yrl": ["tayasú"], "nivel": "aprovado", "dice": 0.583, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "porominare", "yrl": ["porominare"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "português", "yrl": ["kariwa nheenga", "português"], "nivel": "corrigido", "motivo": "núcleo kariwa nheenga; empréstimo também atestado"}
+{"pt": "porção", "yrl": ["riiya"], "nivel": "aprovado", "dice": 0.381, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "praia", "yrl": ["iwikuí"], "nivel": "aprovado", "dice": 0.8, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "precatórios", "yrl": ["sekuyaára"], "nivel": "aprovado", "dice": 0.533, "df": 14, "grupo_dominante": "constituicao"}
+{"pt": "pregas", "yrl": ["pixaĩ"], "nivel": "corrigido", "motivo": "auditor: pixaĩ; wã espúrio"}
+{"pt": "preguiça", "yrl": ["aí"], "nivel": "corrigido", "motivo": "auditor: aí=preguiça, sem nhaã"}
+{"pt": "presa", "yrl": ["ximiára"], "nivel": "aprovado", "dice": 0.571, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "presidente", "yrl": ["prezidẽti"], "nivel": "aprovado", "dice": 0.767, "df": 110, "grupo_dominante": "constituicao"}
+{"pt": "presidente da república", "yrl": ["prezidẽti da republika", "prezidẽti braziu yaára"], "nivel": "corrigido", "motivo": "formas completas atestadas"}
+{"pt": "prestes", "yrl": ["putari ramé"], "nivel": "aprovado", "dice": 0.5, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "preta", "yrl": ["pixuna"], "nivel": "aprovado", "dice": 0.48, "df": 12, "grupo_dominante": "gurgel"}
+{"pt": "preto", "yrl": ["pixuna"], "nivel": "aprovado", "dice": 0.517, "df": 20, "grupo_dominante": "gurgel"}
+{"pt": "previsto no inciso", "yrl": ["ũbeuwa ũbeusamiri … upé"], "nivel": "corrigido", "motivo": "fórmula atestada: ũbeuwa (iké) ũbeusamiri N upé"}
+{"pt": "procurador geral", "yrl": ["prukuradur gerau", "prukuradu gerau"], "nivel": "corrigido", "motivo": "exemplos 2/3"}
+{"pt": "procurar", "yrl": ["usikari"], "nivel": "corrigido", "motivo": "núcleo sikari; usú=foi espúrio"}
+{"pt": "procurá", "yrl": ["usikari arama aintá"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "produzir", "yrl": ["umusemu"], "nivel": "corrigido", "motivo": "auditor: núcleo umusemu"}
+{"pt": "proibição", "yrl": ["saisú"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "projeto", "yrl": ["prujetu"], "nivel": "aprovado", "dice": 0.579, "df": 19, "grupo_dominante": "constituicao"}
+{"pt": "projetos", "yrl": ["prujetu", "prujetu ita"], "nivel": "aprovado", "dice": 0.4, "df": 21, "grupo_dominante": "constituicao"}
+{"pt": "propostas orçamentárias", "yrl": ["prupusta ursamẽtária", "prupusta-ita ursamẽtária"], "nivel": "corrigido", "motivo": "exemplo 2: prupusta ursamẽtária"}
+{"pt": "provas e títulos", "yrl": ["prova-ita asui títulu-ita"], "nivel": "corrigido", "motivo": "fórmula fixa visível no exemplo 3"}
+{"pt": "purae", "yrl": ["puráe"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "puxaram", "yrl": ["aintá usikí"], "nivel": "aprovado", "dice": 0.5, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "puxou", "yrl": ["usikí"], "nivel": "aprovado", "dice": 0.524, "df": 14, "grupo_dominante": "avila2021"}
+{"pt": "puçanga", "yrl": ["pusanga"], "nivel": "aprovado", "dice": 0.536, "df": 15, "grupo_dominante": "avila2021"}
+{"pt": "pássaro", "yrl": ["uirá", "wirá"], "nivel": "aprovado", "dice": 0.435, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "pássaros", "yrl": ["wirá itá", "wirá"], "nivel": "aprovado", "dice": 0.429, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "pátria", "yrl": ["tetãma"], "nivel": "corrigido", "motivo": "auditor e exemplos: pátria=tetãma"}
+{"pt": "público federal", "yrl": ["publiku federau"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "quantos anos", "yrl": ["muíri akayú"], "nivel": "aprovado", "dice": 0.556, "df": 8, "grupo_dominante": "gurgel"}
+{"pt": "quarenta", "yrl": ["irũdí papaisá"], "nivel": "aprovado", "dice": 0.526, "df": 13, "grupo_dominante": "constituicao"}
+{"pt": "quarto", "yrl": ["ukapi"], "nivel": "aprovado", "dice": 0.429, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "quatrocentos", "yrl": ["kuátrusentu", "kuátrusetu"], "nivel": "corrigido", "motivo": "empréstimo atestado nos exemplos"}
+{"pt": "quebrou", "yrl": ["umpena", "umupena"], "nivel": "aprovado", "dice": 0.421, "df": 13, "grupo_dominante": "treebank_ud"}
+{"pt": "queimamos", "yrl": ["yasapí"], "nivel": "aprovado", "dice": 0.615, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "queres bem", "yrl": ["resaisú"], "nivel": "aprovado", "dice": 0.6, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "quinhentos", "yrl": ["kinhetu"], "nivel": "aprovado", "dice": 0.714, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "quinze", "yrl": ["kinze"], "nivel": "aprovado", "dice": 0.381, "df": 17, "grupo_dominante": "constituicao"}
+{"pt": "rairu", "yrl": ["rairú"], "nivel": "aprovado", "dice": 0.6, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "raiva", "yrl": ["piaiwasawa"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "raposa disse", "yrl": ["mɨcúra onhehẽ"], "nivel": "aprovado", "dice": 0.941, "df": 8, "grupo_dominante": "rm_tycho"}
+{"pt": "rasgadas", "yrl": ["suruka"], "nivel": "corrigido", "motivo": "auditor: núcleo suruka"}
+{"pt": "rastro", "yrl": ["pipura", "pɨpóra"], "nivel": "aprovado", "dice": 0.667, "df": 12, "grupo_dominante": "treebank_ud"}
+{"pt": "recado", "yrl": ["kwekatú"], "nivel": "aprovado", "dice": 0.471, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "redonda", "yrl": ["apuã"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "referido no inciso", "yrl": ["ũbeu waá … pedasu upé"], "nivel": "corrigido", "motivo": "fórmula atestada: ũbeu waá N pedasu upé"}
+{"pt": "regime de previdência", "yrl": ["satãbikasá presidẽsia"], "nivel": "corrigido", "motivo": "ex2 contíguo"}
+{"pt": "relativo", "yrl": ["sesewara", "seseuara"], "nivel": "corrigido", "motivo": "auditor: relativo=sesewara; exemplos confirmam"}
+{"pt": "remai", "yrl": ["peyapukúi"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "remando", "yrl": ["uyapukúi"], "nivel": "aprovado", "dice": 0.889, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "representado", "yrl": ["yumukamẽwa"], "nivel": "corrigido", "motivo": "alternativa dice 0,8: yumukamẽwa kũgresu"}
+{"pt": "reserva", "yrl": ["reséva"], "nivel": "corrigido", "motivo": "empréstimo reséva nas alternativas (reséva kití)"}
+{"pt": "resina", "yrl": ["isika"], "nivel": "aprovado", "dice": 0.545, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "responda", "yrl": ["resuaxara"], "nivel": "aprovado", "dice": 0.533, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "resto", "yrl": ["rimirera"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "rio abaixo", "yrl": ["tumasawa kití"], "nivel": "aprovado", "dice": 0.714, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "rio com maria", "yrl": ["paranã upé maria"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "rio negro", "yrl": ["paranãuasu"], "nivel": "aprovado", "dice": 0.615, "df": 9, "grupo_dominante": "gurgel"}
+{"pt": "rio pequeno", "yrl": ["paraná mirĩ"], "nivel": "aprovado", "dice": 0.857, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "rolaram", "yrl": ["aintá uyeréu"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "roubar", "yrl": ["umundá"], "nivel": "aprovado", "dice": 0.5, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "sabemos", "yrl": ["yakwáu"], "nivel": "corrigido", "motivo": "auditor: yakwáu sem será interrogativo"}
+{"pt": "sabes", "yrl": ["rekwáu"], "nivel": "aprovado", "dice": 0.588, "df": 9, "grupo_dominante": "treebank_ud"}
+{"pt": "saltou", "yrl": ["opúri"], "nivel": "aprovado", "dice": 0.571, "df": 5, "grupo_dominante": "rm_tycho"}
+{"pt": "salário mínimo", "yrl": ["salário mínimo"], "nivel": "corrigido", "motivo": "empréstimo atestado nas alternativas"}
+{"pt": "salários", "yrl": ["salário"], "nivel": "aprovado", "dice": 0.4, "df": 6, "grupo_dominante": "constituicao"}
+{"pt": "sangue de cristo", "yrl": ["kristu ruwí"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "santa", "yrl": ["santa"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "santarém", "yrl": ["Tupayú"], "nivel": "corrigido", "motivo": "remove locativo -pe=em"}
+{"pt": "secou", "yrl": ["utikanga"], "nivel": "aprovado", "dice": 0.5, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "segredo", "yrl": ["yumimisawa"], "nivel": "corrigido", "motivo": "auditor: yumimisawa; exemplo yumimisá-pe"}
+{"pt": "segunda vez", "yrl": ["mukũisawa", "mukũi wé"], "nivel": "corrigido", "motivo": "ambos atestados nos exemplos"}
+{"pt": "segurou", "yrl": ["upitasuka"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "senado federal", "yrl": ["senadu federau"], "nivel": "corrigido", "motivo": "dice 0,86; exemplos diretos"}
+{"pt": "senta olhando", "yrl": ["uwapika umaã"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "sentiram", "yrl": ["aintá usaã"], "nivel": "aprovado", "dice": 0.5, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "sentiu", "yrl": ["usaã"], "nivel": "aprovado", "dice": 0.429, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "senão", "yrl": ["kurũ", "kurumú"], "nivel": "aprovado", "dice": 0.417, "df": 19, "grupo_dominante": "treebank_ud"}
+{"pt": "seringa", "yrl": ["siringa"], "nivel": "aprovado", "dice": 0.533, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "serra", "yrl": ["iwitera"], "nivel": "aprovado", "dice": 0.75, "df": 17, "grupo_dominante": "avila2021"}
+{"pt": "serve", "yrl": ["uvaleri"], "nivel": "corrigido", "motivo": "ex2: uvaleri=serve/vale"}
+{"pt": "sessenta", "yrl": ["sesẽta"], "nivel": "aprovado", "dice": 0.5, "df": 15, "grupo_dominante": "constituicao"}
+{"pt": "sessão legislativa", "yrl": ["sesãu legislativa", "yaátirisá legislativa"], "nivel": "corrigido", "motivo": "ambas atestadas"}
+{"pt": "simão", "yrl": ["simão"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "sinal", "yrl": ["rangawa", "sangawa"], "nivel": "corrigido", "motivo": "kurusá rangawa, umusangawa atestados"}
+{"pt": "sinimbú", "yrl": ["cinimũ"], "nivel": "aprovado", "dice": 0.833, "df": 7, "grupo_dominante": "rm_tycho"}
+{"pt": "sinto", "yrl": ["asaã"], "nivel": "aprovado", "dice": 0.667, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "sol nasce", "yrl": ["kurasí usemu waá"], "nivel": "aprovado", "dice": 0.8, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "sol se põe", "yrl": ["kurasí uwapika", "kurasí uwiké"], "nivel": "corrigido", "motivo": "exemplos: uwapika/uwiké=pôr-se"}
+{"pt": "soldados", "yrl": ["surara itá"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "sombra", "yrl": ["anga"], "nivel": "aprovado", "dice": 0.4, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "sonhei", "yrl": ["se kiriaíwa"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "soprou", "yrl": ["upeyú"], "nivel": "corrigido", "motivo": "auditor: upeyú=soprou"}
+{"pt": "soube", "yrl": ["ukwáu"], "nivel": "corrigido", "motivo": "remove pronome aé=ele"}
+{"pt": "sozinho", "yrl": ["nhũ", "anhuíra"], "nivel": "corrigido", "motivo": "auditor: nhũ; ex3: anhuíra"}
+{"pt": "subiram", "yrl": ["aintá uyupiri"], "nivel": "aprovado", "dice": 0.5, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "sucuriju", "yrl": ["sukuriú"], "nivel": "aprovado", "dice": 0.667, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "suficiente", "yrl": ["usika"], "nivel": "corrigido", "motivo": "usika=bastar; ti usika atestado é negação"}
+{"pt": "sujeira", "yrl": ["kiasawa"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "superior tribunal", "yrl": ["superiú tribunau"], "nivel": "corrigido", "motivo": "exemplo 3: Superiú Tribunau de Justisa"}
+{"pt": "supremo tribunal federal", "yrl": ["turusú piri waá tribunau federau"], "nivel": "corrigido", "motivo": "auditor e exemplo 1 dão forma completa"}
+{"pt": "taiaçu", "yrl": ["tayasú"], "nivel": "aprovado", "dice": 0.381, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "tamanduaí", "yrl": ["warirí"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "tamanduá", "yrl": ["tamanduá"], "nivel": "aprovado", "dice": 1.0, "df": 15, "grupo_dominante": "avila2021"}
+{"pt": "tapuias", "yrl": ["tapuya itá"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "tapurus", "yrl": ["tapurú", "tapurú itá"], "nivel": "aprovado", "dice": 0.824, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "tarianas", "yrl": ["taria itá", "taria"], "nivel": "aprovado", "dice": 0.643, "df": 18, "grupo_dominante": "avila2021"}
+{"pt": "tarrafa", "yrl": ["pɨçá"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "rm_tycho"}
+{"pt": "temos", "yrl": ["yarikú"], "nivel": "aprovado", "dice": 0.667, "df": 26, "grupo_dominante": "avila2021"}
+{"pt": "templo", "yrl": ["templo"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "terceira vez", "yrl": ["musapirisawa"], "nivel": "aprovado", "dice": 1.0, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "terreiro", "yrl": ["ukara"], "nivel": "corrigido", "motivo": "auditor: núcleo ukara"}
+{"pt": "terçado", "yrl": ["tesadu"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "teu coração", "yrl": ["ne piá"], "nivel": "aprovado", "dice": 0.8, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "teu irmão", "yrl": ["ne kiwira"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "teu nome", "yrl": ["ne rera"], "nivel": "aprovado", "dice": 0.923, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "teu pai", "yrl": ["ne paya"], "nivel": "aprovado", "dice": 0.8, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "teu senhor", "yrl": ["nẹ iára"], "nivel": "aprovado", "dice": 0.6, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "tinguijar", "yrl": ["yatimiári"], "nivel": "aprovado", "dice": 0.727, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "tinha feito", "yrl": ["umunhã waá"], "nivel": "aprovado", "dice": 0.444, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "tirou", "yrl": ["uyuuka"], "nivel": "aprovado", "dice": 0.516, "df": 19, "grupo_dominante": "avila2021"}
+{"pt": "tocandiras", "yrl": ["tukandira"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "rm_tycho"}
+{"pt": "tocando", "yrl": ["opeiú"], "nivel": "aprovado", "dice": 0.545, "df": 4, "grupo_dominante": "rm_tycho"}
+{"pt": "toda a gente", "yrl": ["panhẽ mira", "upanhẽ mira"], "nivel": "aprovado", "dice": 0.41, "df": 13, "grupo_dominante": "treebank_ud"}
+{"pt": "toda gente", "yrl": ["panhẽ mira"], "nivel": "corrigido", "motivo": "auditor: núcleo panhẽ mira sem umaã"}
+{"pt": "toda parte", "yrl": ["panhẽ rupí"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "todas as coisas", "yrl": ["panhẽ maã"], "nivel": "aprovado", "dice": 0.6, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "todas as mulheres", "yrl": ["panhẽ kunhã"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "todo dia", "yrl": ["panhẽ ara"], "nivel": "aprovado", "dice": 0.5, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "todo tipo", "yrl": ["panhẽ mayé waá"], "nivel": "aprovado", "dice": 0.6, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "todos eles", "yrl": ["panhẽ aintá"], "nivel": "aprovado", "dice": 0.429, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "todos nós", "yrl": ["panhẽ yandé"], "nivel": "aprovado", "dice": 0.462, "df": 7, "grupo_dominante": "gurgel"}
+{"pt": "todos os animais", "yrl": ["panhẽ suú"], "nivel": "aprovado", "dice": 0.75, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "todos os dias", "yrl": ["muíri ara", "ara yawé"], "nivel": "aprovado", "dice": 0.5, "df": 18, "grupo_dominante": "avila2021"}
+{"pt": "todos os homens", "yrl": ["panhẽ apigawa"], "nivel": "aprovado", "dice": 0.667, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "tradicionalmente", "yrl": ["kuxima suiwaára"], "nivel": "corrigido", "motivo": "exemplo: terras tradicionalmente ocupadas=kuxima suiwaára"}
+{"pt": "transformou", "yrl": ["umuyeréu", "uyeréu"], "nivel": "corrigido", "motivo": "auditor: umuyeréu; uyeréu reflexivo no exemplo 3"}
+{"pt": "trata o art", "yrl": ["uikú kuá art"], "nivel": "aprovado", "dice": 0.462, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "trezentos", "yrl": ["trezentu"], "nivel": "corrigido", "motivo": "remove miu=mil"}
+{"pt": "tribunais de contas", "yrl": ["tribunau de kũta", "tribunau kũta yaára"], "nivel": "corrigido", "motivo": "atestado nos exemplos"}
+{"pt": "tribunais e juízes", "yrl": ["tribunau asui juiz"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "tribunais regionais federais", "yrl": ["tribunau rejiunau federau"], "nivel": "corrigido", "motivo": "exemplo 3 exato"}
+{"pt": "tribunais superiores", "yrl": ["tribunáu-ita turusúpíriwa-ita"], "nivel": "corrigido", "motivo": "exemplo 3 exato"}
+{"pt": "tribunal de justiça", "yrl": ["tribunau justisa"], "nivel": "aprovado", "dice": 0.722, "df": 22, "grupo_dominante": "constituicao"}
+{"pt": "tribunal regional federal", "yrl": ["tribunau rejiunau federau"], "nivel": "corrigido", "motivo": "exemplos 2/3 exatos"}
+{"pt": "tribunal superior", "yrl": ["tribunau superiú"], "nivel": "aprovado", "dice": 0.966, "df": 15, "grupo_dominante": "constituicao"}
+{"pt": "tribunal superior eleitoral", "yrl": ["tribunau superiú eleyturau"], "nivel": "corrigido", "motivo": "exemplo 2 exato"}
+{"pt": "trinta e cinco", "yrl": ["trĩta i sĩku"], "nivel": "corrigido", "motivo": "exemplo 1: trĩta i sĩku akayu"}
+{"pt": "trinta por cento", "yrl": ["trinta pursẽtu"], "nivel": "corrigido", "motivo": "exemplo 2: trinta pursẽtu"}
+{"pt": "tristes", "yrl": ["sasiára"], "nivel": "aprovado", "dice": 0.375, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "tronco", "yrl": ["rupitá"], "nivel": "aprovado", "dice": 0.578, "df": 21, "grupo_dominante": "treebank_ud"}
+{"pt": "trouxeram", "yrl": ["aintá ururi"], "nivel": "aprovado", "dice": 0.545, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "trovão", "yrl": ["tupá"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "três anos", "yrl": ["musapiri akayú"], "nivel": "aprovado", "dice": 0.571, "df": 9, "grupo_dominante": "constituicao"}
+{"pt": "três milhões", "yrl": ["musapiri milhãu"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "constituicao"}
+{"pt": "três vassalos", "yrl": ["musapiri miasúa"], "nivel": "aprovado", "dice": 0.727, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "três vezes", "yrl": ["musapiri viáji", "musapiri í"], "nivel": "aprovado", "dice": 0.533, "df": 11, "grupo_dominante": "treebank_ud"}
+{"pt": "tu estás", "yrl": ["reikú"], "nivel": "aprovado", "dice": 0.421, "df": 10, "grupo_dominante": "treebank_ud"}
+{"pt": "tua cabeça", "yrl": ["ne akanga"], "nivel": "aprovado", "dice": 0.667, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "tua canoa", "yrl": ["ne igara"], "nivel": "aprovado", "dice": 0.833, "df": 6, "grupo_dominante": "gurgel"}
+{"pt": "tua casa", "yrl": ["ne ruka"], "nivel": "aprovado", "dice": 0.727, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "tua cidade", "yrl": ["ne tawa"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "rm_navarro"}
+{"pt": "tua gente", "yrl": ["ne mira"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "tua mãe", "yrl": ["ne manha"], "nivel": "aprovado", "dice": 0.917, "df": 11, "grupo_dominante": "gurgel"}
+{"pt": "tua terra", "yrl": ["ne retama"], "nivel": "aprovado", "dice": 0.818, "df": 11, "grupo_dominante": "gurgel"}
+{"pt": "tua vida", "yrl": ["ne ara"], "nivel": "aprovado", "dice": 0.8, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "tucano", "yrl": ["tukano"], "nivel": "aprovado", "dice": 0.667, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "tucum", "yrl": ["tukũ"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "tucunaré", "yrl": ["tukunaré"], "nivel": "aprovado", "dice": 0.875, "df": 8, "grupo_dominante": "treebank_ud"}
+{"pt": "tuxaua", "yrl": ["tuixawa"], "nivel": "aprovado", "dice": 0.667, "df": 28, "grupo_dominante": "avila2021"}
+{"pt": "uananas", "yrl": ["wanana", "wanana itá"], "nivel": "aprovado", "dice": 0.909, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "uatarampuá", "yrl": ["uatarampuá"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "umari", "yrl": ["umarí", "umari"], "nivel": "aprovado", "dice": 0.727, "df": 13, "grupo_dominante": "avila2021"}
+{"pt": "unidades da federação", "yrl": ["uka-ita federasãu"], "nivel": "corrigido", "motivo": "uka=unidade nos 3 exemplos"}
+{"pt": "universidades", "yrl": ["universidade ta"], "nivel": "aprovado", "dice": 1.0, "df": 3, "grupo_dominante": "constituicao"}
+{"pt": "urbano", "yrl": ["tẽda wasú"], "nivel": "aprovado", "dice": 0.545, "df": 5, "grupo_dominante": "constituicao"}
+{"pt": "urubu", "yrl": ["urubu", "urubú"], "nivel": "aprovado", "dice": 0.581, "df": 21, "grupo_dominante": "gurgel"}
+{"pt": "valente", "yrl": ["auaeté"], "nivel": "aprovado", "dice": 0.571, "df": 27, "grupo_dominante": "gurgel"}
+{"pt": "valor anual", "yrl": ["valor akayu rupí"], "nivel": "corrigido", "motivo": "auditor: valor anual=valor akayu rupí"}
+{"pt": "vamos apanhar", "yrl": ["yasú yapuú"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "vamos fazer", "yrl": ["yasú yamunhã"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "vamos passear", "yrl": ["yasú yawatá"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "vamos tirar", "yrl": ["yasú yayuuka"], "nivel": "aprovado", "dice": 0.8, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "vamos ver", "yrl": ["yasú yamaã", "iaçộ iamahã"], "nivel": "aprovado", "dice": 0.824, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "vara de pescar", "yrl": ["pindaíua"], "nivel": "aprovado", "dice": 1.0, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "veada", "yrl": ["suasú kunhã"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "veados", "yrl": ["suasú itá"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "avila2021"}
+{"pt": "vedações", "yrl": ["musikĩdásá-ita", "yumusúkĩdásá-ita"], "nivel": "corrigido", "motivo": "auditor: musikĩdasawá; exemplo 2 confirma"}
+{"pt": "vejam", "yrl": ["pemaã"], "nivel": "aprovado", "dice": 0.353, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "velha disse", "yrl": ["uáimĩ onhehẽ"], "nivel": "aprovado", "dice": 0.8, "df": 6, "grupo_dominante": "rm_tycho"}
+{"pt": "velha gulosa", "yrl": ["waimĩ tiára"], "nivel": "corrigido", "motivo": "exemplo 1: waimĩ tiára (Ceiuci)"}
+{"pt": "velha saiu", "yrl": ["waimĩ usemu"], "nivel": "aprovado", "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "velhos", "yrl": ["tuyué itá", "tuyu itá"], "nivel": "aprovado", "dice": 0.571, "df": 10, "grupo_dominante": "avila2021"}
+{"pt": "vem cá", "yrl": ["eyuri"], "nivel": "aprovado", "dice": 0.75, "df": 4, "grupo_dominante": "treebank_ud"}
+{"pt": "vendedor", "yrl": ["meẽsara"], "nivel": "aprovado", "dice": 1.0, "df": 9, "grupo_dominante": "gurgel"}
+{"pt": "venha", "yrl": ["reyuri"], "nivel": "aprovado", "dice": 0.41, "df": 16, "grupo_dominante": "treebank_ud"}
+{"pt": "vento", "yrl": ["iwitú"], "nivel": "aprovado", "dice": 0.906, "df": 24, "grupo_dominante": "avila2021"}
+{"pt": "verdadeiro", "yrl": ["reté"], "nivel": "corrigido", "motivo": "auditor: reté=verdadeiro"}
+{"pt": "verde", "yrl": ["suikiri", "yakira"], "nivel": "aprovado", "dice": 0.526, "df": 8, "grupo_dominante": "avila2021"}
+{"pt": "verdes", "yrl": ["yakira"], "nivel": "aprovado", "dice": 0.462, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "veres", "yrl": ["remaã arama"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "avila2021"}
+{"pt": "vermelha", "yrl": ["piranga"], "nivel": "aprovado", "dice": 0.536, "df": 15, "grupo_dominante": "gurgel"}
+{"pt": "vermelho", "yrl": ["piranga"], "nivel": "aprovado", "dice": 0.456, "df": 16, "grupo_dominante": "avila2021"}
+{"pt": "verão", "yrl": ["kurasí ara"], "nivel": "aprovado", "dice": 0.889, "df": 9, "grupo_dominante": "avila2021"}
+{"pt": "vice governador", "yrl": ["vise guvernadur", "vise guvernadu"], "nivel": "corrigido", "motivo": "exemplos 1/2"}
+{"pt": "vice prefeito", "yrl": ["vise prefetu", "vise prefeito"], "nivel": "corrigido", "motivo": "remove conjunção asui"}
+{"pt": "vice presidente", "yrl": ["vice prezidẽti", "sumuaára prezidẽti"], "nivel": "corrigido", "motivo": "auditor: sumuaára=vice; ex1/ex3"}
+{"pt": "vieram", "yrl": ["aintá uri"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "avila2021"}
+{"pt": "vieste", "yrl": ["indé reyuri"], "nivel": "aprovado", "dice": 0.727, "df": 6, "grupo_dominante": "avila2021"}
+{"pt": "vindo", "yrl": ["uri uikú"], "nivel": "aprovado", "dice": 0.615, "df": 12, "grupo_dominante": "avila2021"}
+{"pt": "vinho", "yrl": ["yukisé"], "nivel": "aprovado", "dice": 0.4, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "violão", "yrl": ["ararapeua"], "nivel": "corrigido", "motivo": "remove kuara upé=dentro"}
+{"pt": "virgem", "yrl": ["virgem"], "nivel": "aprovado", "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud"}
+{"pt": "virou", "yrl": ["uyeréu"], "nivel": "aprovado", "dice": 0.456, "df": 17, "grupo_dominante": "treebank_ud"}
+{"pt": "você chegou", "yrl": ["resika"], "nivel": "aprovado", "dice": 0.429, "df": 4, "grupo_dominante": "gurgel"}
+{"pt": "você quer ir", "yrl": ["resú putari"], "nivel": "aprovado", "dice": 0.462, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "você vê", "yrl": ["indé remaã"], "nivel": "aprovado", "dice": 0.727, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "voltarei", "yrl": ["ayuíri kurí"], "nivel": "aprovado", "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud"}
+{"pt": "vontade", "yrl": ["rimutara"], "nivel": "aprovado", "dice": 0.444, "df": 11, "grupo_dominante": "avila2021"}
+{"pt": "votação", "yrl": ["vutasãu"], "nivel": "aprovado", "dice": 0.4, "df": 12, "grupo_dominante": "constituicao"}
+{"pt": "voto secreto", "yrl": ["yumimisa vutarisa", "vutu yumimisa"], "nivel": "corrigido", "motivo": "auditor deu yumimisa vutarisa; exemplos confirmam"}
+{"pt": "votos", "yrl": ["vutu"], "nivel": "aprovado", "dice": 0.444, "df": 7, "grupo_dominante": "constituicao"}
+{"pt": "vou contar", "yrl": ["asú ambeú"], "nivel": "aprovado", "dice": 0.889, "df": 5, "grupo_dominante": "treebank_ud"}
+{"pt": "vá ao rio", "yrl": ["resú wana paraná"], "nivel": "aprovado", "dice": 0.75, "df": 5, "grupo_dominante": "gurgel"}
+{"pt": "âmago", "yrl": ["rumitera"], "nivel": "corrigido", "motivo": "remove mirá=pau"}
+{"pt": "índios", "yrl": ["makú itá"], "nivel": "aprovado", "dice": 0.4, "df": 11, "grupo_dominante": "constituicao"}

@@ -1,0 +1,920 @@
+{"pt": "domingo de outubro", "yrl": ["utubru yasi resé"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'de outubro (mês)'; falta 'domingo'"}
+{"pt": "expedição do diploma", "yrl": ["tadipluma"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'diploma'; falta 'expedição' (tayukasa)"}
+{"pt": "casas do congresso", "yrl": ["uka kũgresu"], "dice": 1.0, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uka=casa + empréstimo kũgresu; espelha o termo"}
+{"pt": "estatuto da magistratura", "yrl": ["estatuto"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado: falta 'da magistratura'"}
+{"pt": "mandato de dois", "yrl": ["mukũi akayu pura"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'de dois anos', tradução consistente do mandato"}
+{"pt": "mantido pela união", "yrl": ["uniãũ rupí asui"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'pela União'; falta 'mantido'; 'asui' espúrio"}
+{"pt": "vencimento dos agentes", "yrl": ["pagamentu"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "pagamentu='vencimento'; falta 'dos agentes'"}
+{"pt": "formação do patrimônio", "yrl": ["formação do patrimônio"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome de programa mantido em português no yrl"}
+{"pt": "mandou a fazer", "yrl": ["umundú aé umunhã"], "dice": 1.0, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umundú=mandou, aé=a, umunhã=fazer; literal"}
+{"pt": "contra a mãe", "yrl": ["pirá manha rupiára"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui pirá='peixe'; núcleo é manha rupiára"}
+{"pt": "contigo de tarde", "yrl": ["piri karuka ramé"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "piri=junto a ti, karuka ramé=de tarde"}
+{"pt": "me vingarão algum", "yrl": ["upé kurí peyupika"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "peyupika=vingarão; 'upé' pertence ao 'kwá upé' anterior"}
+{"pt": "caiu no fogo", "yrl": ["uwari tatá pe"], "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uwari=caiu, tatá-pe=no fogo"}
+{"pt": "eu vou vingar", "yrl": ["asú ayupika"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "asú=vou, ayupika=vingo; fiel"}
+{"pt": "pele de tupana", "yrl": ["tupana pirera"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pirera=pele; construção possessiva correta"}
+{"pt": "olhando na direção", "yrl": ["uwapika umaã"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "umaã='olha'; uwapika='senta' espúrio; falta direção"}
+{"pt": "rio com maria", "yrl": ["paranã upé maria"], "dice": 1.0, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "paranã upé=no rio, com Maria"}
+{"pt": "eu ver aquele", "yrl": ["ixé amaã arama"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'para eu ver'; falta 'aquele'=nhaã"}
+{"pt": "família de antônio", "yrl": ["antônio anama"], "dice": 1.0, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "anama=família; ordem possessiva correta"}
+{"pt": "mãe de maria", "yrl": ["maria manha"], "dice": 1.0, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "manha='mãe'; posse por justaposição"}
+{"pt": "compra uma camisa", "yrl": ["upiripana iepé kamixá"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "literal: compra uma camisa"}
+{"pt": "vara de pescar", "yrl": ["pindaíua"], "dice": 1.0, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pindá+íwa='vara de anzol'; consistente"}
+{"pt": "conforme o modelo", "yrl": ["sangaua rupi"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sangawa=modelo, rupi=conforme"}
+{"pt": "peixe com farinha", "yrl": ["pirá uí"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "núcleo correto; posposição irũmu segue no contexto"}
+{"pt": "familiares de maria", "yrl": ["maria anama itá"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "anama-itá=parentes/familiares de Maria"}
+{"pt": "juntas eleitorais", "yrl": ["junta eleyturau"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha o termo; plural tá separado"}
+{"pt": "gente boa", "yrl": ["mira katú"], "dice": 1.0, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mira katú=gente boa, literal"}
+{"pt": "está avisando", "yrl": ["umbeú uikú"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umbeú=conta/avisa + progressivo uikú"}
+{"pt": "ficou escuro", "yrl": ["upitá pitunawasú"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitá=ficou, pitunawasú=escuridão"}
+{"pt": "nossa roça", "yrl": ["yané kupixawa"], "dice": 1.0, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané='nossa', kupixawa='roça'"}
+{"pt": "meu caminho", "yrl": ["se rapé"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se rapé=meu caminho"}
+{"pt": "beija flor", "yrl": ["wainambí"], "dice": 1.0, "df": 11, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "termo nativo consistente"}
+{"pt": "nossa língua", "yrl": ["yané nheenga"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané=nossa, nheenga=língua"}
+{"pt": "meu rosto", "yrl": ["se ruá"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se='meu', ruá='rosto'"}
+{"pt": "meu corpo", "yrl": ["se pira"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se pira=meu corpo"}
+{"pt": "mandou imediatamente", "yrl": ["umundú yeperesé"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umundú=mandou, yeperesé=imediatamente"}
+{"pt": "minha faca", "yrl": ["se kisé"], "dice": 1.0, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se=minha, kisé=faca"}
+{"pt": "minha roça", "yrl": ["se kupixawa"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se='minha', kupixawa='roça'"}
+{"pt": "meu algodão", "yrl": ["se amaniú"], "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se amaniú=meu algodão"}
+{"pt": "nosso criador", "yrl": ["yané munhangara"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané=nosso, munhangara=fazedor/criador"}
+{"pt": "terceira vez", "yrl": ["musapirisawa"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "musapiri-sawa='terceira (vez)' nominalizado"}
+{"pt": "meio dia", "yrl": ["yandara"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yandara='meio-dia' nos três exemplos"}
+{"pt": "meu fogo", "yrl": ["se ratá"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se ratá=meu fogo"}
+{"pt": "senta olhando", "yrl": ["uwapika umaã"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uwapika=senta, umaã=olha"}
+{"pt": "cidade grande", "yrl": ["tauauasu"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tawa-wasu='cidade grande'"}
+{"pt": "camisa nova", "yrl": ["kamixá pisasu"], "dice": 1.0, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kamixá='camisa', pisasu='nova'"}
+{"pt": "maria comerá", "yrl": ["maria umbaú kuri"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umbaú kuri=comerá (futuro)"}
+{"pt": "dois reais", "yrl": ["mukũi real"], "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukũi=dois + real"}
+{"pt": "muitas canoas", "yrl": ["siía igara"], "dice": 1.0, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "siía=muitas, igara=canoa"}
+{"pt": "meu menino", "yrl": ["nhaã se kurumĩ"], "dice": 1.0, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui nhaã='aquele'; núcleo se kurumĩ"}
+{"pt": "moça disse", "yrl": ["cunhã mucú onhehẽ"], "dice": 1.0, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "moça disse, grafia antiga"}
+{"pt": "nascidos", "yrl": ["unaseriwa ita"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo naseri + plural; 'os nascidos'"}
+{"pt": "universidades", "yrl": ["universidade ta"], "dice": 1.0, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo + plural 'ta'"}
+{"pt": "piraíba", "yrl": ["piraíwa"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "tamanduá", "yrl": ["tamanduá"], "dice": 1.0, "df": 15, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma palavra"}
+{"pt": "simão", "yrl": ["simão"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "japurutus", "yrl": ["ta yapurutú"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "yapurutú correto; 'ta'=possessivo 'deles' espúrio"}
+{"pt": "chapéu", "yrl": ["xapewa"], "dice": 1.0, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "capoeira", "yrl": ["kukwera"], "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kukwera=capoeira (roça velha)"}
+{"pt": "santa", "yrl": ["santa"], "dice": 1.0, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "carajuru", "yrl": ["karayurú"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "cognato direto confirmado nos exemplos"}
+{"pt": "tucum", "yrl": ["tukũ"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "içana", "yrl": ["isana"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "topônimo Isana=Içana"}
+{"pt": "tapuias", "yrl": ["tapuya itá"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tapuya + plural itá"}
+{"pt": "loucura", "yrl": ["akangaiwasawa"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "akanga-aíwa-sawa='cabeça-ruim-dade'=loucura"}
+{"pt": "enxada", "yrl": ["pururé"], "dice": 1.0, "df": 9, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto nos três exemplos"}
+{"pt": "paxiúba", "yrl": ["paxiiwa"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "paxiiwa=paxiúba"}
+{"pt": "matapi", "yrl": ["matapí"], "dice": 1.0, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "purae", "yrl": ["puráe"], "dice": 1.0, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "afundou", "yrl": ["umutipí katú"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "umutipí='afundou'; katú='bem' excedente"}
+{"pt": "acutipuru", "yrl": ["akutipurú"], "dice": 1.0, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "akutipurú=acutipuru"}
+{"pt": "tamanduaí", "yrl": ["warirí"], "dice": 1.0, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente consistente nos exemplos"}
+{"pt": "brasa", "yrl": ["tatapunha"], "dice": 1.0, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tatapunha=brasa, confirmado nos exemplos"}
+{"pt": "madalena", "yrl": ["madalena"], "dice": 1.0, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "catarina", "yrl": ["catarina"], "dice": 1.0, "df": 13, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "vendedor", "yrl": ["meẽsara"], "dice": 1.0, "df": 9, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "meẽ=dar/vender + agentivo -sara"}
+{"pt": "lúcia", "yrl": ["lúcia"], "dice": 1.0, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "gabriel", "yrl": ["são gabriel"], "dice": 0.989, "df": 48, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "PT truncado; yrl inclui 'São'"}
+{"pt": "buopé", "yrl": ["buopé"], "dice": 0.982, "df": 28, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "marido de maria", "yrl": ["maria mena"], "dice": 0.974, "df": 19, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mena=marido; posse por justaposição"}
+{"pt": "minha terra", "yrl": ["se retama"], "dice": 0.971, "df": 18, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se retama=minha terra"}
+{"pt": "meu marido", "yrl": ["se mena"], "dice": 0.971, "df": 17, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se='meu', mena='marido'"}
+{"pt": "tribunal superior", "yrl": ["tribunau superiú"], "dice": 0.966, "df": 15, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "anzóis", "yrl": ["pindá itá"], "dice": 0.96, "df": 12, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pindá=anzol + plural"}
+{"pt": "caxiri", "yrl": ["kaxirí"], "dice": 0.957, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "cognato direto"}
+{"pt": "mãe do peixe", "yrl": ["pirá manha"], "dice": 0.952, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pirá='peixe', manha='mãe'"}
+{"pt": "caroço de tucumã", "yrl": ["tukumã raínha"], "dice": 0.947, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "raínha=semente/caroço de tucumã"}
+{"pt": "duas luas", "yrl": ["mukũi yasí"], "dice": 0.941, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukũi=duas, yasí=lua"}
+{"pt": "minha espingarda", "yrl": ["se mukawa"], "dice": 0.941, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se=minha, mukawa=espingarda"}
+{"pt": "raposa disse", "yrl": ["mɨcúra onhehẽ"], "dice": 0.941, "df": 8, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mɨcúra='raposa', onhehẽ='disse'"}
+{"pt": "panacu", "yrl": ["panakú"], "dice": 0.941, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panakú=panacu"}
+{"pt": "distrito federal", "yrl": ["distritu"], "dice": 0.935, "df": 148, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta 'federau'"}
+{"pt": "maria compra", "yrl": ["maria upiripana"], "dice": 0.933, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upiripana=compra"}
+{"pt": "maria fica", "yrl": ["maria upitá"], "dice": 0.933, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitá='fica'"}
+{"pt": "guariba", "yrl": ["wariwa"], "dice": 0.933, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "wariwa=guariba"}
+{"pt": "cavalo", "yrl": ["kawarú"], "dice": 0.933, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo consolidado"}
+{"pt": "pescamos", "yrl": ["iapinaitika"], "dice": 0.933, "df": 8, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-pinaitika=pescamos (1pl)"}
+{"pt": "senado federal", "yrl": ["senadu"], "dice": 0.931, "df": 49, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado: falta federau"}
+{"pt": "teu nome", "yrl": ["ne rera"], "dice": 0.923, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne rera=teu nome"}
+{"pt": "pedro fica", "yrl": ["pedro upitá"], "dice": 0.923, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitá=fica"}
+{"pt": "lágrimas", "yrl": ["resá yukisé"], "dice": 0.923, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "resá-yukisé='líquido do olho'=lágrima"}
+{"pt": "massaricado", "yrl": ["masarikado"], "dice": 0.923, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio adaptado"}
+{"pt": "camaradas", "yrl": ["se kamarara itá"], "dice": 0.923, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui possessivo se='meus'"}
+{"pt": "tua mãe", "yrl": ["ne manha"], "dice": 0.917, "df": 11, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne=tua, manha=mãe"}
+{"pt": "filho de maria", "yrl": ["maria mimbira"], "dice": 0.914, "df": 16, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mimbira=filho (de mulher); léxico confirma"}
+{"pt": "adana", "yrl": ["adana"], "dice": 0.914, "df": 16, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "minha mãe", "yrl": ["se manha"], "dice": 0.911, "df": 47, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se manha=minha mãe"}
+{"pt": "municípios com população", "yrl": ["supé mamẽ aikuéwa"], "dice": 0.909, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'mamẽ aikuéwa'≈'com população'; falta 'municípios'"}
+{"pt": "deputados estaduais", "yrl": ["deputadu istaduau"], "dice": 0.909, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha o termo; plural ita separado"}
+{"pt": "duas casas", "yrl": ["mukũi uka"], "dice": 0.909, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukũi uka=duas Casas"}
+{"pt": "marinha", "yrl": ["mariyã"], "dice": 0.909, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo 'Marinha'"}
+{"pt": "uananas", "yrl": ["wanana"], "dice": 0.909, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "etnônimo correto; plural itá separado"}
+{"pt": "maniuara", "yrl": ["maniwara"], "dice": 0.909, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "maniwara=maniuara"}
+{"pt": "cinzas", "yrl": ["tanimbuka"], "dice": 0.909, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "termo nativo consistente"}
+{"pt": "comerás", "yrl": ["reú kurí"], "dice": 0.909, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "reú=comes, kurí=futuro"}
+{"pt": "compadre", "yrl": ["compadre"], "dice": 0.909, "df": 18, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo mantido no yrl"}
+{"pt": "santarém", "yrl": ["tupayú pe"], "dice": 0.909, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui locativo -pe='em'; Tupayú=Santarém"}
+{"pt": "pescadores", "yrl": ["pinaitikasara supé"], "dice": 0.909, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo correto; 'supé'='para' espúrio"}
+{"pt": "inajé", "yrl": ["inaié"], "dice": 0.909, "df": 11, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma ave, grafia antiga"}
+{"pt": "buburi", "yrl": ["buburi"], "dice": 0.909, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "vento", "yrl": ["iwitú"], "dice": 0.906, "df": 24, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iwitú=vento"}
+{"pt": "minha canoa", "yrl": ["se igara"], "dice": 0.903, "df": 15, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se=minha, igara=canoa"}
+{"pt": "pedro quer", "yrl": ["pedro uputári"], "dice": 0.9, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uputári=quer"}
+{"pt": "pimenta", "yrl": ["kiinha"], "dice": 0.9, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "cahipora", "yrl": ["cahapóra"], "dice": 0.9, "df": 11, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo personagem, grafia antiga"}
+{"pt": "congresso nacional", "yrl": ["kũgresu"], "dice": 0.898, "df": 64, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta 'nasiunau'"}
+{"pt": "meu avô", "yrl": ["se ramunha"], "dice": 0.895, "df": 19, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se ramunha=meu avô"}
+{"pt": "tribunal superior eleitoral", "yrl": ["superiú eleyturau"], "dice": 0.889, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado: falta Tribunau"}
+{"pt": "jesus disse lhes", "yrl": ["jesus unheẽ aintá"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "unheẽ aintá (supé)='disse-lhes'; núcleo completo"}
+{"pt": "entrou no buraco", "yrl": ["mirá kwara kití"], "dice": 0.889, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "kwara=buraco; falta uwiké=entrou; mirá=pau extra"}
+{"pt": "eu te espero", "yrl": ["asarú indé"], "dice": 0.889, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "a-sarú='eu espero', indé='te'"}
+{"pt": "comunidade de maria", "yrl": ["maria rendaua"], "dice": 0.889, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rendaua=comunidade/lugar de Maria"}
+{"pt": "então a velha", "yrl": ["aramé uáimĩ"], "dice": 0.889, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aramé=então, uáimĩ=velha"}
+{"pt": "meu nome", "yrl": ["se rera"], "dice": 0.889, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se rera=meu nome"}
+{"pt": "moço bonito", "yrl": ["kurumiwasú puranga"], "dice": 0.889, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumiwasú='moço', puranga='bonito'"}
+{"pt": "lua nova", "yrl": ["yasí pisasú"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasí=lua, pisasú=nova"}
+{"pt": "vamos fazer", "yrl": ["yasú yamunhã"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasú yamunhã=vamos fazer"}
+{"pt": "vou contar", "yrl": ["asú ambeú"], "dice": 0.889, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "asú='vou', ambeú='conto'"}
+{"pt": "peixes fugiram", "yrl": ["pirá itá uiauau"], "dice": 0.889, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pirá-itá uiauau=peixes fugiram"}
+{"pt": "maria sai", "yrl": ["maria usému"], "dice": 0.889, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usemu=sai"}
+{"pt": "menino pesca", "yrl": ["kurumĩ upinaitika"], "dice": 0.889, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumĩ=menino, upinaitika=pesca"}
+{"pt": "anzóis bons", "yrl": ["pindá itá puranga"], "dice": 0.889, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pindá-itá='anzóis', puranga='bons'"}
+{"pt": "pajelança", "yrl": ["payesawa"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "payesawa=pajelança"}
+{"pt": "paulo", "yrl": ["paulo"], "dice": 0.889, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "verão", "yrl": ["kurasí ara"], "dice": 0.889, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurasí-ara='tempo de sol'=verão"}
+{"pt": "formiga", "yrl": ["tasiwa"], "dice": 0.889, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "anoiteceu", "yrl": ["uyumupituna"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyumupituna=anoiteceu"}
+{"pt": "letras", "yrl": ["pinimasá rupiára itá"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "composto consistente para 'letras'"}
+{"pt": "inajá", "yrl": ["inayá"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma palmeira"}
+{"pt": "cutia", "yrl": ["akutí"], "dice": 0.889, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "buriti", "yrl": ["mirití"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mirití=buriti"}
+{"pt": "templo", "yrl": ["templo"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "gafanhoto", "yrl": ["tukura"], "dice": 0.889, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tukura=gafanhoto"}
+{"pt": "curral", "yrl": ["kaisara"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "uatarampuá", "yrl": ["uatarampuá"], "dice": 0.889, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "remando", "yrl": ["uyapukúi"], "dice": 0.889, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyapukúi=rema"}
+{"pt": "peccado", "yrl": ["peccado"], "dice": 0.889, "df": 4, "grupo_dominante": "catecismo1944", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo idêntico no catecismo"}
+{"pt": "rasgadas", "yrl": ["xirura itá suruka"], "dice": 0.889, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui xirura-itá='calças'; núcleo suruka"}
+{"pt": "ministério público", "yrl": ["ministeriu"], "dice": 0.884, "df": 64, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'público' (publiku/payẽ)"}
+{"pt": "supremo tribunal federal", "yrl": ["tribunau federau"], "dice": 0.881, "df": 32, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'turusú piri waá'='supremo'"}
+{"pt": "fica no rio", "yrl": ["upitá paranã upé"], "dice": 0.875, "df": 9, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitá=fica, paranã upé=no rio"}
+{"pt": "curabi", "yrl": ["kurabí"], "dice": 0.875, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "tucunaré", "yrl": ["tukunaré"], "dice": 0.875, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tukunaré=tucunaré"}
+{"pt": "ontem", "yrl": ["kwesé"], "dice": 0.867, "df": 15, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "termo padrão"}
+{"pt": "fundamental e médio", "yrl": ["asui ensino medio"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'e (ensino) médio'; falta fundamental"}
+{"pt": "corpos de bombeiros", "yrl": ["asui bũberu"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "asui='e' espúrio; núcleo bũberu"}
+{"pt": "tribunais e juízes", "yrl": ["tribunau asui juiz"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "coordenação espelhada com empréstimos"}
+{"pt": "cento do produto", "yrl": ["pusẽtu uyumuatirisá"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pusẽtu=cento; uyumuatirisá=produto arrecadado"}
+{"pt": "ente federado beneficiado", "yrl": ["parti federasãu"], "dice": 0.857, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'ente federado'; falta 'beneficiado'"}
+{"pt": "meio do rio", "yrl": ["paraná pitérupi"], "dice": 0.857, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pitérupi=pelo meio do rio"}
+{"pt": "tenho um irmão", "yrl": ["arikú yepé se"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'irmão' (kiwira/mũ); 'se'=meu"}
+{"pt": "passou por cima", "yrl": ["garapé ara rupí"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "ara rupí=por cima; garapé=igarapé espúrio, falta verbo"}
+{"pt": "sangue de cristo", "yrl": ["kristu ruwí"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ruwí='sangue'; posse por justaposição"}
+{"pt": "cima da água", "yrl": ["ií ara rupí"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ií ara rupí=por cima da água"}
+{"pt": "fazer um cacuri", "yrl": ["yepé kakurí"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'fazer'=umunhã"}
+{"pt": "estava sua flauta", "yrl": ["oikộ cẹ"], "dice": 0.857, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "oikộ=estava, cẹ=sua; falta mẹmĩ=flauta"}
+{"pt": "justiça federal", "yrl": ["justisa federau"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "propostas orçamentárias", "yrl": ["ursamẽtária"], "dice": 0.857, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'prupusta'"}
+{"pt": "aí vem", "yrl": ["aikwé uri"], "dice": 0.857, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aikwé uri='eis que vem'"}
+{"pt": "podemos fazer", "yrl": ["yapuderi yamunhã"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-puderi='podemos', ya-munhã='fazemos'"}
+{"pt": "vamos passear", "yrl": ["yasú yawatá"], "dice": 0.857, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasú yawatá=vamos passear"}
+{"pt": "estava ainda", "yrl": ["uikú rẽ"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uikú=estava, rẽ=ainda"}
+{"pt": "agora sim", "yrl": ["kuíri supí"], "dice": 0.857, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuíri=agora, supí=de verdade"}
+{"pt": "há duas", "yrl": ["aikwé mukũi"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aikwé='há', mukũi='duas'"}
+{"pt": "tua cidade", "yrl": ["ne tawa"], "dice": 0.857, "df": 4, "grupo_dominante": "rm_navarro", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne tawa=tua cidade"}
+{"pt": "nossa mãe", "yrl": ["yané manha"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané=nossa, manha=mãe"}
+{"pt": "ficaram logo", "yrl": ["upitá yeperesé"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitá=ficaram, yeperesé=logo"}
+{"pt": "disse então", "yrl": ["unheẽ aramé"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "unheẽ='disse', aramé='então'"}
+{"pt": "esta cachoeira", "yrl": ["kwá kaxiwera"], "dice": 0.857, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwá kaxiwera=esta cachoeira"}
+{"pt": "qual mulher", "yrl": ["kunhã taá"], "dice": 0.857, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'auá'='qual'; taá é partícula interrogativa"}
+{"pt": "rio pequeno", "yrl": ["paraná mirĩ"], "dice": 0.857, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "paraná='rio', mirĩ='pequeno'"}
+{"pt": "nosso princípio", "yrl": ["yané yupirungawa"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yupirungawa=princípio/origem"}
+{"pt": "faz bem", "yrl": ["çupé omunhã catú"], "dice": 0.857, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'omunhã catú'; 'çupé'='a quem' espúrio"}
+{"pt": "velha saiu", "yrl": ["waimĩ usemu"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "waimĩ=velha, usemu=saiu"}
+{"pt": "está chegando", "yrl": ["usika uiku"], "dice": 0.857, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usika='chega' + uiku progressivo"}
+{"pt": "mulher vem", "yrl": ["kunhã úri"], "dice": 0.857, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kunhã úri=a mulher vem"}
+{"pt": "come peixe", "yrl": ["umbaú pirá"], "dice": 0.857, "df": 9, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umbaú=come, pirá=peixe"}
+{"pt": "muitas mulheres", "yrl": ["siía kunhã"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "siía=muitas, kunhã=mulher"}
+{"pt": "gavião disse", "yrl": ["wirawasú unheẽ"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "wirawasú='gavião' nesses textos, unheẽ='disse'"}
+{"pt": "ilhas", "yrl": ["kapuã"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "consistente na Constituição para 'ilhas'"}
+{"pt": "energia", "yrl": ["musẽdisá"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "musẽdisá usado para energia elétrica/hidráulica"}
+{"pt": "milhão", "yrl": ["yepé milhãu"], "dice": 0.857, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui yepé='um'; núcleo milhãu"}
+{"pt": "parlamentares", "yrl": ["parlamẽtaita"], "dice": 0.857, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo com plural -ita"}
+{"pt": "pisou", "yrl": ["upirú"], "dice": 0.857, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upirú=pisou"}
+{"pt": "espuma", "yrl": ["tié usemu"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "tié='espuma'; usemu='sai' excedente"}
+{"pt": "iauhixa", "yrl": ["iauhixa"], "dice": 0.857, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "moquém", "yrl": ["mukaẽtawa"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukaẽ+tawa='lugar do moquém'"}
+{"pt": "milho", "yrl": ["awatí"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "awatí=milho"}
+{"pt": "dabucuri", "yrl": ["dabukurí"], "dice": 0.857, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "ficarei", "yrl": ["apitá kurí"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apitá kurí=ficarei (futuro)"}
+{"pt": "cercaram", "yrl": ["itá umamana"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'umamana'; 'itá' é resíduo do sujeito"}
+{"pt": "jirau", "yrl": ["yurá"], "dice": 0.857, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yurá=jirau"}
+{"pt": "verdadeiro", "yrl": ["tupana reté"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "reté='verdadeiro'; tupana='Deus' espúrio"}
+{"pt": "trovão", "yrl": ["tupá"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tupá=trovão nos exemplos"}
+{"pt": "diarreia", "yrl": ["puruka"], "dice": 0.857, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "consistente nos exemplos"}
+{"pt": "acendeu", "yrl": ["umundeka"], "dice": 0.857, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umundeka=acendeu"}
+{"pt": "maguari", "yrl": ["manguarí"], "dice": 0.857, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "veados", "yrl": ["suasú itá"], "dice": 0.857, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "suasú-itá=veados"}
+{"pt": "produzir", "yrl": ["upuderi umusemu iyá"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'umusemu'; 'pode'+'fruto' espúrios"}
+{"pt": "adoçar", "yrl": ["umuseẽ kwáu"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "umuseẽ=adoçar; kwáu='saber' espúrio"}
+{"pt": "formosa", "yrl": ["purãnga rẹtệ"], "dice": 0.857, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "purãnga='formosa'; rẹtệ='muito' excedente"}
+{"pt": "pregas", "yrl": ["pixaĩ wã"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "pixaĩ='enrugado'; wã='já' é extra"}
+{"pt": "camisas", "yrl": ["kamixá itá"], "dice": 0.857, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo + plural"}
+{"pt": "violão", "yrl": ["ararapeua kuara upé"], "dice": 0.857, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "ararapeua=violão; 'kuara upé'=dentro espúrio"}
+{"pt": "batizar", "yrl": ["xasú xaseruka"], "dice": 0.857, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui xasú='vou'; seruka=batizar"}
+{"pt": "kurukuí", "yrl": ["kurukuí"], "dice": 0.857, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "calango", "yrl": ["teyú"], "dice": 0.846, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "teyú=lagarto/calango"}
+{"pt": "fumaça", "yrl": ["tatatinga"], "dice": 0.846, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "igarapé", "yrl": ["igarapé"], "dice": 0.844, "df": 35, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma palavra"}
+{"pt": "agora vamos", "yrl": ["kuíri yasú"], "dice": 0.842, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuíri=agora, yasú=vamos"}
+{"pt": "nossa casa", "yrl": ["yané ruka"], "dice": 0.842, "df": 11, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané ruka=nossa casa"}
+{"pt": "regionais do trabalho", "yrl": ["tribunau rejiunau do"], "dice": 0.833, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "janela deslocada; falta Murakí, sobra Tribunau"}
+{"pt": "buraco do pau", "yrl": ["mirá kwara"], "dice": 0.833, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mirá=pau, kwara=buraco"}
+{"pt": "sol se põe", "yrl": ["makití kurasí"], "dice": 0.833, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "makití='para onde'; falta uwapika='se põe/senta'"}
+{"pt": "está longe", "yrl": ["apekatú uikú"], "dice": 0.833, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apekatú='longe', uikú='está'"}
+{"pt": "eu trouxe", "yrl": ["aruri"], "dice": 0.833, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aruri=eu trouxe"}
+{"pt": "tua canoa", "yrl": ["ne igara"], "dice": 0.833, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne=tua, igara=canoa"}
+{"pt": "meus camaradas", "yrl": ["se kamarara itá"], "dice": 0.833, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se kamarara-itá=meus camaradas"}
+{"pt": "maria tem", "yrl": ["maria uriku"], "dice": 0.833, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uriku='tem'"}
+{"pt": "homem disse", "yrl": ["apgáua onhehẽ"], "dice": 0.833, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apgáua=homem, onhehẽ=disse"}
+{"pt": "pescoço", "yrl": ["ayura"], "dice": 0.833, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ayura=pescoço"}
+{"pt": "ferida", "yrl": ["perewa"], "dice": 0.833, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "sinimbú", "yrl": ["cinimũ"], "dice": 0.833, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "cinimũ=sinimbu, grafia antiga"}
+{"pt": "vamos ver", "yrl": ["yasú yamaã"], "dice": 0.824, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasú=vamos, yamaã=vemos"}
+{"pt": "dois dias", "yrl": ["mukũi ara"], "dice": 0.824, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukũi=dois, ara=dia"}
+{"pt": "muitos peixes", "yrl": ["siía pirá"], "dice": 0.824, "df": 8, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "siía='muitos', pirá='peixe'"}
+{"pt": "indicado", "yrl": ["mukameẽ"], "dice": 0.824, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukameẽ=indicado/mostrado"}
+{"pt": "tapurus", "yrl": ["tapurú"], "dice": 0.824, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "conosco", "yrl": ["yané irumu"], "dice": 0.824, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané irumu='com nós'=conosco"}
+{"pt": "minha avó", "yrl": ["se aría"], "dice": 0.818, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se='minha', aría='avó'"}
+{"pt": "tua terra", "yrl": ["ne retama"], "dice": 0.818, "df": 11, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne retama=tua terra"}
+{"pt": "pedro vai", "yrl": ["pedro usu"], "dice": 0.818, "df": 12, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usu=vai"}
+{"pt": "moças", "yrl": ["kunhamukú itá"], "dice": 0.818, "df": 26, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kunhamukú-itá=moças"}
+{"pt": "pobre", "yrl": ["pirasua"], "dice": 0.812, "df": 34, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "léxico curado confirma"}
+{"pt": "deputados e senadores", "yrl": ["itá asui senaduita"], "dice": 0.8, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'deputadu'; 'itá' é sufixo residual"}
+{"pt": "tribunais regionais federais", "yrl": ["rejiunau federau"], "dice": 0.8, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'regionais federais'; falta tribunau"}
+{"pt": "superior do trabalho", "yrl": ["tribunau superiú do"], "dice": 0.8, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "janela deslocada; falta Murakí, sobra Tribunau"}
+{"pt": "justiça do trabalho", "yrl": ["justisa do murakí"], "dice": 0.8, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "calco fiel; murakí=trabalho"}
+{"pt": "dois juízes dentre", "yrl": ["mukũi juiz"], "dice": 0.8, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "núcleo 'dois juízes'; 'dentre' é conectivo"}
+{"pt": "então o curupira", "yrl": ["aiwana kurupira"], "dice": 0.8, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aiwana='então', kurupira mantido"}
+{"pt": "chega à minha", "yrl": ["se ruka kiti"], "dice": 0.8, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'à minha casa'; falta 'chega' (usika)"}
+{"pt": "mãe do quente", "yrl": ["sakú manha"], "dice": 0.8, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sakú=quente, manha=mãe"}
+{"pt": "deus nosso senhor", "yrl": ["tupana yané"], "dice": 0.8, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; termo completo Tupana Yané Yara"}
+{"pt": "justiça eleitoral", "yrl": ["justisa eleyturau"], "dice": 0.8, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha o termo"}
+{"pt": "três milhões", "yrl": ["musapiri milhãu"], "dice": 0.8, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "musapiri=três + milhãu"}
+{"pt": "teu coração", "yrl": ["ne piá"], "dice": 0.8, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne piá=teu coração"}
+{"pt": "teu pai", "yrl": ["ne paya"], "dice": 0.8, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne='teu', paya='pai'; léxico confirma"}
+{"pt": "tua vida", "yrl": ["ne ara"], "dice": 0.8, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne ara='teu tempo/vida' nestes contextos"}
+{"pt": "vamos tirar", "yrl": ["yasú yayuuka"], "dice": 0.8, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasú=vamos, yayuuka=tiramos"}
+{"pt": "elas ficaram", "yrl": ["aintá upitá"], "dice": 0.8, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá upitá=elas ficaram"}
+{"pt": "meu senhor", "yrl": ["se ruixawa"], "dice": 0.8, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se='meu', ruixawa='senhor/chefe'"}
+{"pt": "jesus cristo", "yrl": ["jesus cristo"], "dice": 0.8, "df": 12, "grupo_dominante": "catecismo1944", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome idêntico"}
+{"pt": "então vá", "yrl": ["aramé resú"], "dice": 0.8, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aramé=então, resú=vá"}
+{"pt": "mãe ia", "yrl": ["manha usú"], "dice": 0.8, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "manha=mãe, usú=ia"}
+{"pt": "sol nasce", "yrl": ["kurasí usemu waá"], "dice": 0.8, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurasí='sol', usemu='nasce'; waá relativizador contextual"}
+{"pt": "meus olhos", "yrl": ["se resá"], "dice": 0.8, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se resá=meus olhos"}
+{"pt": "velha disse", "yrl": ["uáimĩ onhehẽ"], "dice": 0.8, "df": 6, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uáimĩ=velha, onhehẽ=disse"}
+{"pt": "suficiente", "yrl": ["ti usika"], "dice": 0.8, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "ti usika='não chega'; embute a negação"}
+{"pt": "aturá", "yrl": ["waturá"], "dice": 0.8, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "agouro", "yrl": ["maraúna"], "dice": 0.8, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "maraúna=agouro"}
+{"pt": "praia", "yrl": ["iwikuí"], "dice": 0.8, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iwikuí=areia/praia; consistente"}
+{"pt": "soldados", "yrl": ["surara itá"], "dice": 0.8, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "surara-itá=soldados"}
+{"pt": "encontramos", "yrl": ["yawasemu"], "dice": 0.8, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-wasemu='encontramos'"}
+{"pt": "espelho", "yrl": ["waruá"], "dice": 0.8, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "waruá=espelho"}
+{"pt": "moqueado", "yrl": ["mukaẽ"], "dice": 0.8, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukaẽ=moqueado"}
+{"pt": "depois de amanhã", "yrl": ["amú wirandé"], "dice": 0.778, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amú-wirandé='outro amanhã'"}
+{"pt": "dois terços", "yrl": ["mukũi tersu"], "dice": 0.778, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukũi='dois' + empréstimo tersu"}
+{"pt": "meus filhos", "yrl": ["se raíra itá"], "dice": 0.769, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se raíra-itá=meus filhos"}
+{"pt": "meus cabelos", "yrl": ["se awa"], "dice": 0.769, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se=meu, awa=cabelo"}
+{"pt": "advocacia", "yrl": ["adivukasia"], "dice": 0.769, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "escrevemos", "yrl": ["yampinima"], "dice": 0.769, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-mpinima='escrevemos'"}
+{"pt": "presidente", "yrl": ["prezidẽti"], "dice": 0.767, "df": 110, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "ministros", "yrl": ["ministru"], "dice": 0.754, "df": 29, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "cento e vinte", "yrl": ["sentu vinti"], "dice": 0.75, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sentu vinti=cento e vinte"}
+{"pt": "nacional de justiça", "yrl": ["kũseliu nasiunau justisa"], "dice": 0.75, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui kũseliu='conselho'; PT truncado"}
+{"pt": "autorização para decretar", "yrl": ["dekretu papéra"], "dice": 0.75, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'papel do decreto'; rendição consistente do termo"}
+{"pt": "tempo de paz", "yrl": ["mairamẽtu"], "dice": 0.75, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "mairamẽtu≈'quando/em tempo'; 'paz' fica fora"}
+{"pt": "aumento de despesa", "yrl": ["dispesa"], "dice": 0.75, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'despesa'; falta 'aumento'"}
+{"pt": "nosso senhor deus", "yrl": ["yané yara tupana"], "dice": 0.75, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "Yané Yara Tupana=Nosso Senhor Deus"}
+{"pt": "todos os animais", "yrl": ["panhẽ suú"], "dice": 0.75, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ=todos, suú=animal"}
+{"pt": "fazer minha casa", "yrl": ["xa munhã"], "dice": 0.75, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'eu faço'; falta cẹ rộca='minha casa'"}
+{"pt": "eu não sei", "yrl": ["ixé ti akwáu"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ixé ti akwáu=eu não sei"}
+{"pt": "vá ao rio", "yrl": ["resú wana paraná"], "dice": 0.75, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "resú=vá, paraná=rio; 'wana'=já inócuo"}
+{"pt": "todas as mulheres", "yrl": ["panhẽ kunhã"], "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ=todas, kunhã=mulher"}
+{"pt": "está no rio", "yrl": ["uikú paranã upé"], "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uikú='está', paranã upé='no rio'"}
+{"pt": "vice prefeito", "yrl": ["asui vise prefetu"], "dice": 0.75, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui conjunção asui='e'"}
+{"pt": "banco central", "yrl": ["diñeru ruka ta"], "dice": 0.75, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'paya'; termo pleno diñeru ruka ta paya"}
+{"pt": "público federal", "yrl": ["publiku federau"], "dice": 0.75, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha o termo"}
+{"pt": "juízes federais", "yrl": ["juiz federau ta"], "dice": 0.75, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimos + plural ta"}
+{"pt": "meus irmãos", "yrl": ["se mú itá"], "dice": 0.75, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se mú-itá='meus irmãos'"}
+{"pt": "meu pai", "yrl": ["se paya"], "dice": 0.75, "df": 39, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se paya=meu pai"}
+{"pt": "dia todo", "yrl": ["upurakí ara pukusawa"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'ara pukusawa'; 'upurakí'='trabalhava' espúrio"}
+{"pt": "está doente", "yrl": ["maasí uikú"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "maasí uikú=está doente"}
+{"pt": "jabuti riu", "yrl": ["yautí upuká"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yautí='jabuti', upuká='riu'"}
+{"pt": "esta cidade", "yrl": ["kuá taua"], "dice": 0.75, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuá taua=esta cidade"}
+{"pt": "amanhã eu", "yrl": ["wirandé asú"], "dice": 0.75, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "wirandé=amanhã; a-='eu' fundido no verbo"}
+{"pt": "bem devagar", "yrl": ["merupiára"], "dice": 0.75, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "merupiára=bem devagar"}
+{"pt": "tirar lenha", "yrl": ["yepeá"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'lenha'; falta uyuuka='tirar'"}
+{"pt": "este menino", "yrl": ["kuá kurumĩ"], "dice": 0.75, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuá kurumĩ=este menino"}
+{"pt": "onça morreu", "yrl": ["yawareté umanú ana"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yawareté=onça, umanú ana=morreu"}
+{"pt": "está vendo", "yrl": ["umaã uiku"], "dice": 0.75, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umaã uiku=está vendo"}
+{"pt": "esta camisa", "yrl": ["kuá kamixá"], "dice": 0.75, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuá='esta', kamixá='camisa'"}
+{"pt": "maria diz", "yrl": ["maria unheẽ"], "dice": 0.75, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "Maria unheẽ=Maria diz"}
+{"pt": "chão buraco", "yrl": ["ɨuɨ quára"], "dice": 0.75, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ɨuɨ=chão, quára=buraco"}
+{"pt": "vem cá", "yrl": ["eyuri"], "dice": 0.75, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "eyuri=vem! (imperativo)"}
+{"pt": "janeiro", "yrl": ["janeiro"], "dice": 0.75, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo mantido"}
+{"pt": "autorizar", "yrl": ["uwaturizai"], "dice": 0.75, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo verbal u+autorizar"}
+{"pt": "serra", "yrl": ["iwitera"], "dice": 0.75, "df": 17, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iwitera=serra/montanha"}
+{"pt": "veres", "yrl": ["remaã arama"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "remaã arama='para veres'"}
+{"pt": "começou", "yrl": ["uyupirú"], "dice": 0.75, "df": 29, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-yupirú='começou'"}
+{"pt": "terçado", "yrl": ["tesadu"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tesadu=terçado, empréstimo"}
+{"pt": "kukuhy", "yrl": ["kukuí"], "dice": 0.75, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio, grafia adaptada"}
+{"pt": "porominare", "yrl": ["porominare"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio idêntico"}
+{"pt": "rolaram", "yrl": ["aintá uyeréu"], "dice": 0.75, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá marca o plural de 'rolaram'"}
+{"pt": "damos", "yrl": ["asuí yameẽ"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui asuí='e'; yameẽ=damos"}
+{"pt": "cantiga", "yrl": ["nheengarisawa"], "dice": 0.75, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nheengari=cantar + -sawa"}
+{"pt": "brava", "yrl": ["míra puxí rẹtệ"], "dice": 0.75, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "puxí=brava; míra=gente e rẹtệ=muito espúrios"}
+{"pt": "corda", "yrl": ["tupasama"], "dice": 0.75, "df": 20, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "moles", "yrl": ["itá membeka"], "dice": 0.75, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "itá é plural do substantivo anterior; membeka=mole"}
+{"pt": "inambu", "yrl": ["inambú"], "dice": 0.75, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "costas", "yrl": ["kupé pe"], "dice": 0.75, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kupé='costas'; -pe locativo contextual"}
+{"pt": "sonhei", "yrl": ["se kiriaíwa"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "construção atestada: se kiriaíwa=sonhei"}
+{"pt": "jacamim", "yrl": ["yakamĩ"], "dice": 0.75, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "patrão", "yrl": ["se patrãu"], "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "patrãu correto; se='meu' espúrio"}
+{"pt": "estragou", "yrl": ["uyumuaíwa"], "dice": 0.75, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyumuaíwa='estragou-se'"}
+{"pt": "chover", "yrl": ["amana ukiri"], "dice": 0.75, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amana ukiri=chover, atestado 3x"}
+{"pt": "tocandiras", "yrl": ["tukandira"], "dice": 0.75, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "maridos", "yrl": ["mena itá"], "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mena-itá=maridos"}
+{"pt": "paraman", "yrl": ["paramã"], "dice": 0.75, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "diferente", "yrl": ["amurupí"], "dice": 0.75, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amurupí='de outro modo'=diferente"}
+{"pt": "remai", "yrl": ["peyapukúi"], "dice": 0.75, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pe-yapukúi='remai' imperativo plural"}
+{"pt": "piripiri", "yrl": ["piripiri"], "dice": 0.741, "df": 17, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "sessão legislativa", "yrl": ["legislativa"], "dice": 0.737, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'sessão' (sesãu/yaátirisá)"}
+{"pt": "minha cabeça", "yrl": ["se akanga"], "dice": 0.737, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se akanga=minha cabeça"}
+{"pt": "assim falou", "yrl": ["quaí"], "dice": 0.737, "df": 9, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'assim'; falta onhehẽ='falou'"}
+{"pt": "flautas", "yrl": ["membí itá"], "dice": 0.737, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "membí-itá=flautas"}
+{"pt": "beleza", "yrl": ["purangasawa"], "dice": 0.737, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "puranga=bonito + -sawa"}
+{"pt": "calças", "yrl": ["xirura itá"], "dice": 0.737, "df": 12, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "xirura-itá=calças"}
+{"pt": "mandioca", "yrl": ["maniáka"], "dice": 0.735, "df": 29, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "terços dos membros", "yrl": ["mukũi tersu"], "dice": 0.727, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='dois terços'; falta 'dos membros'"}
+{"pt": "correr esta cachoeira", "yrl": ["kwá kaxiwera"], "dice": 0.727, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'correr'=uyana"}
+{"pt": "eu também vou", "yrl": ["ixé yuíri"], "dice": 0.727, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta o verbo (xasú='vou')"}
+{"pt": "depois de duas", "yrl": ["mukũi yasí riré"], "dice": 0.727, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui yasí='luas'; PT truncado"}
+{"pt": "pescamos muitos peixes", "yrl": ["iapinaitika"], "dice": 0.727, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'pescamos'; falta 'siía pirá'"}
+{"pt": "deputados federais", "yrl": ["deputadu federau"], "dice": 0.727, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelhado"}
+{"pt": "casa respectiva", "yrl": ["uka puraita"], "dice": 0.727, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uka puraita usado consistentemente para 'Casa respectiva'"}
+{"pt": "boa tarde", "yrl": ["puranga karuka"], "dice": 0.727, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "atestado nos exemplos; alternativa yané karuka existe"}
+{"pt": "jabuti assim", "yrl": ["iáutí quaí"], "dice": 0.727, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iáutí quaí=jabuti assim"}
+{"pt": "maria vai", "yrl": ["maria usu"], "dice": 0.727, "df": 14, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usu=vai"}
+{"pt": "muitas coisas", "yrl": ["siía maã"], "dice": 0.727, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "siía maã=muitas coisas"}
+{"pt": "jabuti disse", "yrl": ["yautí unheẽ"], "dice": 0.727, "df": 18, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yautí='jabuti', unheẽ='disse'"}
+{"pt": "toda parte", "yrl": ["panhẽ rupí"], "dice": 0.727, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ rupí=por toda parte"}
+{"pt": "tua casa", "yrl": ["ne ruka"], "dice": 0.727, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne=tua, ruka=casa"}
+{"pt": "você vê", "yrl": ["indé remaã"], "dice": 0.727, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "indé remaã=você vê"}
+{"pt": "três vassalos", "yrl": ["musapiri miasúa"], "dice": 0.727, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "musapiri='três', miasúa='vassalo/servo'"}
+{"pt": "julgamento", "yrl": ["jugamẽtu"], "dice": 0.727, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "tinguijar", "yrl": ["yatimiári"], "dice": 0.727, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "verbo correto com prefixo 1pl dos contextos"}
+{"pt": "umari", "yrl": ["umarí"], "dice": 0.727, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma fruta"}
+{"pt": "donos", "yrl": ["yara itá"], "dice": 0.727, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yara-itá='donos'"}
+{"pt": "fogueira", "yrl": ["tatawasú"], "dice": 0.727, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tatawasú=fogo grande=fogueira"}
+{"pt": "baníuas", "yrl": ["baniwa"], "dice": 0.727, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "etnônimo"}
+{"pt": "crescendo", "yrl": ["uyumunhã usú uikú"], "dice": 0.727, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'vai se fazendo'=ia crescendo"}
+{"pt": "deixem", "yrl": ["pexari"], "dice": 0.727, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pe-xari='deixem'"}
+{"pt": "vieste", "yrl": ["indé reyuri"], "dice": 0.727, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "indé reyuri=tu vieste"}
+{"pt": "estrelas", "yrl": ["yasitatá"], "dice": 0.727, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasí+tatá=estrela"}
+{"pt": "segurou", "yrl": ["upitasuka"], "dice": 0.727, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitasuka=segurou"}
+{"pt": "piripirioca", "yrl": ["piripiriáka"], "dice": 0.727, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "gulosa", "yrl": ["tiára"], "dice": 0.727, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tiára=gulosa/comilona"}
+{"pt": "tribunal de justiça", "yrl": ["tribunau justisa"], "dice": 0.722, "df": 22, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelhado"}
+{"pt": "estamos", "yrl": ["yaikú"], "dice": 0.722, "df": 18, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-ikú='estamos'"}
+{"pt": "estado de sítio", "yrl": ["istadu tẽdá"], "dice": 0.72, "df": 16, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "termo consistente da Constituição yrl"}
+{"pt": "flechou", "yrl": ["uyumú"], "dice": 0.72, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyumú=flechar"}
+{"pt": "advogados do brasil", "yrl": ["adivugadu"], "dice": 0.714, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta Braziu (waára)"}
+{"pt": "rio abaixo", "yrl": ["tumasawa kití"], "dice": 0.714, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tumasawa kití='para jusante'"}
+{"pt": "enquanto isso", "yrl": ["nhaã pukusawa"], "dice": 0.714, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã pukusawa=durante isso"}
+{"pt": "eu mesmo", "yrl": ["ixé tẽ"], "dice": 0.714, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ixé=eu, tẽ=mesmo"}
+{"pt": "quinhentos", "yrl": ["kinhetu"], "dice": 0.714, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo kinhetu=quinhentos"}
+{"pt": "caixa", "yrl": ["patuá"], "dice": 0.714, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "notícia", "yrl": ["marandúa"], "dice": 0.714, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "marandúa=notícia"}
+{"pt": "pergunta", "yrl": ["upurandu"], "dice": 0.714, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upurandu=pergunta"}
+{"pt": "dentes", "yrl": ["ranha"], "dice": 0.71, "df": 18, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ranha=dente"}
+{"pt": "essa língua", "yrl": ["kwá nheenga"], "dice": 0.706, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwá='essa', nheenga='língua'"}
+{"pt": "adolescente", "yrl": ["kurumi wasú"], "dice": 0.706, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumĩwasú=rapaz/adolescente"}
+{"pt": "abraçou", "yrl": ["uyumana"], "dice": 0.706, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyumana=abraçou"}
+{"pt": "deixamos", "yrl": ["yaxari"], "dice": 0.706, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yaxari=deixamos"}
+{"pt": "nheengatu", "yrl": ["nheengatú"], "dice": 0.704, "df": 44, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "donde", "yrl": ["masuí"], "dice": 0.703, "df": 13, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "masuí=de onde"}
+{"pt": "meu cunhado", "yrl": ["ruái"], "dice": 0.7, "df": 13, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'cunhado'; falta 'se'='meu'"}
+{"pt": "calor", "yrl": ["sakusawa"], "dice": 0.7, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "saku-sawa='quentura'=calor"}
+{"pt": "maniva", "yrl": ["maniwa"], "dice": 0.696, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "difícil", "yrl": ["iwasú"], "dice": 0.696, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iwasú=difícil"}
+{"pt": "levou", "yrl": ["urasú"], "dice": 0.691, "df": 22, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "urasú=levou"}
+{"pt": "comprida", "yrl": ["puku"], "dice": 0.681, "df": 19, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "puku=comprido"}
+{"pt": "dispõem os arts", "yrl": ["kuá upé arts"], "dice": 0.667, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'arts'; dispõem=yũbeuwa ausente; kuá upé espúrio"}
+{"pt": "ministros do supremo", "yrl": ["ministru turusú piri"], "dice": 0.667, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'turusú piri'='supremo (maior)'"}
+{"pt": "decretar o estado", "yrl": ["dekretu papéra"], "dice": 0.667, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'decretar/decreto'; 'estado de sítio' fora"}
+{"pt": "juízes de direito", "yrl": ["de direito"], "dice": 0.667, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "mantém 'de direito'; falta 'juízes'"}
+{"pt": "todos os homens", "yrl": ["panhẽ apigawa"], "dice": 0.667, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ=todos, apigawa=homem"}
+{"pt": "dentro do rio", "yrl": ["paraná pupé"], "dice": 0.667, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pupé='dentro de'"}
+{"pt": "agora eu vou", "yrl": ["kuíri asú"], "dice": 0.667, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuíri asú=agora eu vou"}
+{"pt": "filho de deus", "yrl": ["tupana raíra"], "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "Tupana=Deus, raíra=filho"}
+{"pt": "pensa em voltar", "yrl": ["uieuíri"], "dice": 0.667, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'voltar'; falta manduári='pensa'"}
+{"pt": "esta mulher canta", "yrl": ["kunhã unheengári puranga"], "dice": 0.667, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta kuá='esta'; puranga='bem' excedente"}
+{"pt": "penso em voltar", "yrl": ["amanduári"], "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'penso'; falta 'voltar' (ayuíri)"}
+{"pt": "gás natural", "yrl": ["gás natural"], "dice": 0.667, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "termo mantido em português"}
+{"pt": "parágrafo único", "yrl": ["yepéyũtu"], "dice": 0.667, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "yepéyũtu='um só'=único; falta ũbeusá=parágrafo"}
+{"pt": "ensino fundamental", "yrl": ["fundamental"], "dice": 0.667, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta 'ensino'"}
+{"pt": "partido político", "yrl": ["partidu pulitiku"], "dice": 0.667, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "nesta seção", "yrl": ["kuá sesãu"], "dice": 0.667, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuá=esta + sesãu"}
+{"pt": "constituição federal", "yrl": ["mũdusáwa turusúwa federau"], "dice": 0.667, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'grande lei federal'; termo consagrado da tradução"}
+{"pt": "justiça militar", "yrl": ["militarir"], "dice": 0.667, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'militar'; falta 'justisa'"}
+{"pt": "eu queria", "yrl": ["aputari maã"], "dice": 0.667, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aputari=quero + maã desiderativo"}
+{"pt": "tua cabeça", "yrl": ["ne akanga"], "dice": 0.667, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne akanga=tua cabeça"}
+{"pt": "deu lhe", "yrl": ["umeẽ xupé"], "dice": 0.667, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umeẽ='deu', (i)xupé='lhe'; atestado em outras entradas"}
+{"pt": "matá lo", "yrl": ["uyuká arama aé"], "dice": 0.667, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyuká arama aé=para matá-lo"}
+{"pt": "jabuti voltou", "yrl": ["yautí uyuíri"], "dice": 0.667, "df": 6, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yautí=jabuti, uyuíri=voltou"}
+{"pt": "vamos apanhar", "yrl": ["yasú yapuú"], "dice": 0.667, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasú yapuú=vamos apanhar"}
+{"pt": "deus disse", "yrl": ["tupana unheẽ"], "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "Tupana='Deus', unheẽ='disse'"}
+{"pt": "tua gente", "yrl": ["ne mira"], "dice": 0.667, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne mira=tua gente"}
+{"pt": "aqueles dois", "yrl": ["nhaã mukũi"], "dice": 0.667, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã=aquele(s), mukũi=dois"}
+{"pt": "minha mulher", "yrl": ["se rimirikú"], "dice": 0.667, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se rimirikú=minha esposa"}
+{"pt": "deu lhes", "yrl": ["umeẽ aintá supé"], "dice": 0.667, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umeẽ='deu', aintá supé='a eles'"}
+{"pt": "nosso corpo", "yrl": ["yané pira"], "dice": 0.667, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané pira=nosso corpo"}
+{"pt": "ninguém sabe", "yrl": ["awá ukwáu"], "dice": 0.667, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta negação 'ti'; sem ela='alguém sabe'"}
+{"pt": "eu disse", "yrl": ["xa nhehẽ"], "dice": 0.667, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "xa='eu', nhehẽ='disse'"}
+{"pt": "você veio", "yrl": ["taá reyuri"], "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "taá é partícula interrogativa alheia; reyuri=vieste"}
+{"pt": "nossa cidade", "yrl": ["yané tawa"], "dice": 0.667, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané=nossa, tawa=cidade"}
+{"pt": "minha roupa", "yrl": ["se maã itá"], "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'minhas coisas'; uso consistente para roupa"}
+{"pt": "maria vê", "yrl": ["maria umaã"], "dice": 0.667, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umaã='vê'"}
+{"pt": "eu fico", "yrl": ["ixé apitá"], "dice": 0.667, "df": 11, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ixé apitá=eu fico"}
+{"pt": "eu trabalho", "yrl": ["ixé apuraki"], "dice": 0.667, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ixé=eu, apuraki=trabalho"}
+{"pt": "mulher vai", "yrl": ["kunhã usu"], "dice": 0.667, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kunhã usu=mulher vai"}
+{"pt": "ficou triste", "yrl": ["upitá sasiára"], "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upitá='ficou', sasiára='triste'"}
+{"pt": "políticos", "yrl": ["pulitiku"], "dice": 0.667, "df": 19, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "candidato", "yrl": ["kãdidatu"], "dice": 0.667, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "partidos", "yrl": ["partidu"], "dice": 0.667, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo partidu"}
+{"pt": "trezentos", "yrl": ["trezentu miu"], "dice": 0.667, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui miu='mil'"}
+{"pt": "urbana", "yrl": ["kuá tẽda"], "dice": 0.667, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "tẽda='cidade' aproxima 'urbana'; kuá espúrio"}
+{"pt": "leite", "yrl": ["kambí"], "dice": 0.667, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kambí=leite"}
+{"pt": "pediu", "yrl": ["uyururé"], "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyururé=pediu"}
+{"pt": "tuxaua", "yrl": ["tuixawa"], "dice": 0.667, "df": 28, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "âmago", "yrl": ["mirá rumitera"], "dice": 0.667, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='âmago de pau'; inclui mirá='pau'"}
+{"pt": "panela", "yrl": ["panera"], "dice": 0.667, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo consolidado"}
+{"pt": "soprou", "yrl": ["upeyú tĩ resé"], "dice": 0.667, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "upeyú=soprou; 'tĩ resé'=no nariz espúrio; sem exemplos"}
+{"pt": "sozinho", "yrl": ["ixé nhũ"], "dice": 0.667, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "nhũ='só' núcleo; ixé='eu' espúrio"}
+{"pt": "choro", "yrl": ["ayaxiú"], "dice": 0.667, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ayaxiú=eu choro"}
+{"pt": "veada", "yrl": ["suasú kunhã"], "dice": 0.667, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "suasú=veado + kunhã=fêmea"}
+{"pt": "ouvido", "yrl": ["apisá"], "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apisá=ouvido"}
+{"pt": "temos", "yrl": ["yarikú"], "dice": 0.667, "df": 26, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-rikú='temos'"}
+{"pt": "buliu", "yrl": ["uyuakí"], "dice": 0.667, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyuakí=buliu/mexeu"}
+{"pt": "sinto", "yrl": ["asaã"], "dice": 0.667, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "a-saã=eu sinto"}
+{"pt": "cupins", "yrl": ["cupií"], "dice": 0.667, "df": 6, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "cupií=cupim"}
+{"pt": "braços", "yrl": ["yuwá itá"], "dice": 0.667, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yuwá-itá='braços'"}
+{"pt": "morcego", "yrl": ["andirá"], "dice": 0.667, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "andirá=morcego"}
+{"pt": "nhampirikuli", "yrl": ["nhampirikuli"], "dice": 0.667, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "sucuriju", "yrl": ["sukuriú"], "dice": 0.667, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sukuriú=sucuriju"}
+{"pt": "redonda", "yrl": ["apuã"], "dice": 0.667, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apuã='redondo'"}
+{"pt": "português", "yrl": ["kariwa nheenga rupí"], "dice": 0.667, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui rupí='em'; núcleo kariwa nheenga"}
+{"pt": "peidou", "yrl": ["upinú"], "dice": 0.667, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upinú=peidou"}
+{"pt": "rastro", "yrl": ["pipura"], "dice": 0.667, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pipura=rastro/pegada"}
+{"pt": "espalharam", "yrl": ["umusãi"], "dice": 0.667, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-musãi='espalhou/espalharam'"}
+{"pt": "maldade", "yrl": ["puxiwerasawa"], "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "puxiwerasawa=maldade"}
+{"pt": "cupim", "yrl": ["kupĩ"], "dice": 0.667, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "tucano", "yrl": ["tukano"], "dice": 0.667, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "etnônimo/nome idêntico"}
+{"pt": "voltarei", "yrl": ["ayuíri kurí"], "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "a-yuíri + kurí futuro='voltarei'"}
+{"pt": "felizes", "yrl": ["aintá rurí"], "dice": 0.667, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui pronome aintá='eles'; rurí=feliz"}
+{"pt": "câmara dos deputados", "yrl": ["deputadu"], "dice": 0.66, "df": 35, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'kãmaára'"}
+{"pt": "presidente da república", "yrl": ["prezidẽti"], "dice": 0.658, "df": 85, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta 'da Republika/braziu yaára'"}
+{"pt": "comigo", "yrl": ["se irumu"], "dice": 0.65, "df": 25, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se irumu='comigo'"}
+{"pt": "acordou", "yrl": ["upaka"], "dice": 0.649, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upaka=acordou"}
+{"pt": "poder judiciário", "yrl": ["judisiariu"], "dice": 0.647, "df": 18, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'poder' (kirĩbasá)"}
+{"pt": "jurupari", "yrl": ["yuruparí"], "dice": 0.647, "df": 23, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome mítico idêntico"}
+{"pt": "dois anos", "yrl": ["mukũi akayu"], "dice": 0.645, "df": 18, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukũi='dois', akayu='ano'"}
+{"pt": "contas", "yrl": ["kũta"], "dice": 0.645, "df": 41, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel (Tribunau de Kũta)"}
+{"pt": "tarianas", "yrl": ["taria itá"], "dice": 0.643, "df": 18, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "etnônimo + plural"}
+{"pt": "plano plurianual", "yrl": ["akayu rupiáára"], "dice": 0.64, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'por anos'; falta 'plano' (muyã mãduarisá)"}
+{"pt": "navio", "yrl": ["marakatĩ"], "dice": 0.636, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "margem do rio", "yrl": ["rembiua"], "dice": 0.632, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "rembiua='margem'; falta 'rio' (paranã)"}
+{"pt": "cerrado", "yrl": ["iaɨtɨua"], "dice": 0.632, "df": 13, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yaitiwa=cerrado; consistente"}
+{"pt": "começaram", "yrl": ["itá uyupirú"], "dice": 0.632, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "uyupirú=começaram; 'itá' é plural do sujeito anterior"}
+{"pt": "barulho", "yrl": ["teapú"], "dice": 0.632, "df": 25, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "comunidades", "yrl": ["tendaua itá"], "dice": 0.625, "df": 11, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tendaua=povoado + plural"}
+{"pt": "falta", "yrl": ["uwatari"], "dice": 0.621, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uwatari=falta (verbo)"}
+{"pt": "federal e territórios", "yrl": ["asui teritúriu"], "dice": 0.615, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'e Territórios'; falta federau"}
+{"pt": "dali a pouco", "yrl": ["kupukú"], "dice": 0.615, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo temporal; falta 'xinga'"}
+{"pt": "partidos políticos", "yrl": ["partidu pulitiku itá"], "dice": 0.615, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelhado + plural"}
+{"pt": "tribunais superiores", "yrl": ["turusúpíriwa"], "dice": 0.615, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "turusúpíriwa='maiores'=superiores; falta tribunau-ita"}
+{"pt": "habeas corpus", "yrl": ["habeas"], "dice": 0.615, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta corpus"}
+{"pt": "língua geral", "yrl": ["tapuya nheenga"], "dice": 0.615, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tapuya nheenga=língua geral, atestado"}
+{"pt": "nosso coração", "yrl": ["yané piá"], "dice": 0.615, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yané=nosso, piá=coração"}
+{"pt": "meus parentes", "yrl": ["cẹ anãma"], "dice": 0.615, "df": 9, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "cẹ anãma=meus parentes/família"}
+{"pt": "me lembro", "yrl": ["se manduári"], "dice": 0.615, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "construção se manduári='me lembro'"}
+{"pt": "lá está", "yrl": ["mixukúi"], "dice": 0.615, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mixukúi=ei-lo lá, presentativo"}
+{"pt": "rio negro", "yrl": ["paranãuasu"], "dice": 0.615, "df": 9, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome consagrado ('rio grande') para Rio Negro"}
+{"pt": "empresta", "yrl": ["repurú"], "dice": 0.615, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "repurú=empresta (imperativo)"}
+{"pt": "vindo", "yrl": ["uri uikú"], "dice": 0.615, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uri uikú='está vindo', progressivo dos exemplos"}
+{"pt": "menininho", "yrl": ["kurumĩ mirĩ"], "dice": 0.615, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumĩ mirĩ=menininho"}
+{"pt": "encantado", "yrl": ["maíwa"], "dice": 0.615, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "maíwa=encantado; consistente"}
+{"pt": "cansado", "yrl": ["maraari"], "dice": 0.615, "df": 27, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "maraari=cansado"}
+{"pt": "queimamos", "yrl": ["yasapí"], "dice": 0.615, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ya-sapí='queimamos'"}
+{"pt": "cabeceira", "yrl": ["apira kití"], "dice": 0.615, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui kití='para/rumo'; apira=cabeceira"}
+{"pt": "terreiro", "yrl": ["usemu ukara kití"], "dice": 0.615, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'ukara'; 'usemu/kití' espúrios"}
+{"pt": "ensinou", "yrl": ["umbué"], "dice": 0.615, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umbué=ensinou"}
+{"pt": "jabuti respondeu", "yrl": ["yautí usuaxara"], "dice": 0.611, "df": 24, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usuaxara='respondeu'"}
+{"pt": "brancos", "yrl": ["kariwa itá"], "dice": 0.611, "df": 24, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kariwa-itá=os brancos"}
+{"pt": "moços", "yrl": ["kurumiwasú itá"], "dice": 0.609, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumiwasú=moço + plural"}
+{"pt": "podres", "yrl": ["yuka"], "dice": 0.609, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yuka=podre"}
+{"pt": "trinta por cento", "yrl": ["trinta"], "dice": 0.6, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta pursẽtu"}
+{"pt": "conselho de defesa", "yrl": ["kũseliu defẽderisa nasiunau"], "dice": 0.6, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "termo oficial completo, com 'nasiunau'"}
+{"pt": "notável saber jurídico", "yrl": ["míra ta riku"], "dice": 0.6, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "fragmento da paráfrase 'direitos das pessoas'"}
+{"pt": "jabuti assim falou", "yrl": ["iáutí quaí"], "dice": 0.6, "df": 6, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'falou' (onhehẽ)"}
+{"pt": "todas as coisas", "yrl": ["panhẽ maã"], "dice": 0.6, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ=todas, maã=coisa"}
+{"pt": "eu quero comer", "yrl": ["ambaú putari"], "dice": 0.6, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ambaú-putari=quero comer"}
+{"pt": "eu não quero", "yrl": ["ixé niti aputári"], "dice": 0.6, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ixé='eu', niti='não', aputári='quero'"}
+{"pt": "salário mínimo", "yrl": ["yepé salário"], "dice": 0.6, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'mínimo'; inclui yepé='um'"}
+{"pt": "defesa nacional", "yrl": ["kũseliu defẽderisa nasiunau"], "dice": 0.6, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui kũseliu='conselho'; PT truncado"}
+{"pt": "todo tipo", "yrl": ["panhẽ mayé waá"], "dice": 0.6, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ mayé waá='de todo jeito/tipo'"}
+{"pt": "meia noite", "yrl": ["pisayé"], "dice": 0.6, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pisayé='meia-noite'"}
+{"pt": "minha alma", "yrl": ["se anga"], "dice": 0.6, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se anga=minha alma"}
+{"pt": "aquela casa", "yrl": ["nhaã uka"], "dice": 0.6, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã=aquela, uka=casa"}
+{"pt": "segunda vez", "yrl": ["peyawáu mukũisawa"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "mukũisawa=segunda vez; peyawáu='fujam' espúrio"}
+{"pt": "teu senhor", "yrl": ["nẹ iára"], "dice": 0.6, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nẹ='teu', iára='senhor/dono'"}
+{"pt": "queres bem", "yrl": ["resaisú"], "dice": 0.6, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "resaisú=amas/queres bem"}
+{"pt": "velha gulosa", "yrl": ["tiára"], "dice": 0.6, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'gulosa'; falta 'waimĩ'='velha'"}
+{"pt": "estou alegre", "yrl": ["se rurí"], "dice": 0.6, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se rurí=estou alegre; léxico confirma"}
+{"pt": "onde maria", "yrl": ["makiti taá maria"], "dice": 0.6, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "makiti='para onde'; taá partícula interrogativa natural"}
+{"pt": "maria caminha", "yrl": ["maria uuatá"], "dice": 0.6, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "Maria uuatá=Maria caminha"}
+{"pt": "pedro está", "yrl": ["pedro uiku"], "dice": 0.6, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uiku=está"}
+{"pt": "até amanhã", "yrl": ["té uirandé"], "dice": 0.6, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "té uirandé=até amanhã"}
+{"pt": "eles perguntaram", "yrl": ["aintá upurandú"], "dice": 0.6, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá='eles', upurandú='perguntaram'"}
+{"pt": "homem pobre", "yrl": ["apigaua pirasua"], "dice": 0.6, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apigaua pirasua=homem pobre"}
+{"pt": "proibição", "yrl": ["saisú"], "dice": 0.6, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "slot consistente de 'proibição' na Constituição"}
+{"pt": "noventa", "yrl": ["nuvẽta"], "dice": 0.6, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo nuvẽta"}
+{"pt": "morte", "yrl": ["manusawa"], "dice": 0.6, "df": 20, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "manú+sawa='morte'"}
+{"pt": "alíquotas", "yrl": ["pusẽtaji"], "dice": 0.6, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pusẽtaji='porcentagem'; equivalente funcional consistente"}
+{"pt": "reposições", "yrl": ["tãbui ramẽ"], "dice": 0.6, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "paráfrase verbal 'quando repõem'; ramẽ gramatical"}
+{"pt": "aluno", "yrl": ["uyũbeu"], "dice": 0.6, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta agentivo 'saára' (uyũbeu saára=aluno)"}
+{"pt": "rairu", "yrl": ["rairú"], "dice": 0.6, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nome próprio"}
+{"pt": "resto", "yrl": ["rimirera"], "dice": 0.6, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rimirera=resto/sobra"}
+{"pt": "cadáver", "yrl": ["tiãwera"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto nos exemplos"}
+{"pt": "passarinhos", "yrl": ["kwá wirá mirĩ"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui demonstrativo kwá='este'"}
+{"pt": "pensar", "yrl": ["amaité"], "dice": 0.6, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "a-maité=penso; contextos 1sg"}
+{"pt": "raiva", "yrl": ["piaiwasawa"], "dice": 0.6, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "piá-aíwa-sawa=raiva"}
+{"pt": "procurá", "yrl": ["usikari arama aintá"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'para procurá-los' completo nos exemplos"}
+{"pt": "filhas", "yrl": ["tayera itá"], "dice": 0.6, "df": 14, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tayera-itá=filhas"}
+{"pt": "flores", "yrl": ["putira itá"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "putira=flor + plural"}
+{"pt": "caititu", "yrl": ["taititú"], "dice": 0.6, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "taititú=caititu"}
+{"pt": "buscá", "yrl": ["asú ayuuka aé"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui asú='vou' e aé='o/a'; núcleo ayuuka"}
+{"pt": "papai", "yrl": ["paíka"], "dice": 0.6, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "vocativo 'papai'"}
+{"pt": "sujeira", "yrl": ["kiasawa"], "dice": 0.6, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kiá-sawa=sujeira"}
+{"pt": "espírito", "yrl": ["espírito"], "dice": 0.6, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo mantido"}
+{"pt": "madrugada", "yrl": ["kuẽma piranga"], "dice": 0.6, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuẽma piranga=madrugada/alvorada"}
+{"pt": "casado", "yrl": ["mendasara"], "dice": 0.6, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "menda=casar + -sara"}
+{"pt": "tarrafa", "yrl": ["pɨçá"], "dice": 0.6, "df": 6, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pɨçá=puçá/tarrafa"}
+{"pt": "macaco", "yrl": ["makaka"], "dice": 0.6, "df": 17, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "barra", "yrl": ["barra upé"], "dice": 0.6, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui upé='em'"}
+{"pt": "orçamentária anual", "yrl": ["yepé akayu"], "dice": 0.593, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'anual'='um ano'; falta 'orçamentária'"}
+{"pt": "ministros de estado", "yrl": ["ministru de istadu"], "dice": 0.588, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha o termo"}
+{"pt": "ladrão", "yrl": ["mundawasú"], "dice": 0.588, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mundawasú=ladrão"}
+{"pt": "sabes", "yrl": ["rekwáu"], "dice": 0.588, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "re-kwáu=tu sabes"}
+{"pt": "faminto", "yrl": ["iumasi"], "dice": 0.588, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yumasí=fome/faminto"}
+{"pt": "este homem", "yrl": ["kwaá apigawa"], "dice": 0.583, "df": 16, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwaá='este', apigawa='homem'"}
+{"pt": "nós temos", "yrl": ["yarikú"], "dice": 0.583, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yarikú=nós temos"}
+{"pt": "escondeu", "yrl": ["uyumimi"], "dice": 0.583, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyumimi=escondeu(-se)"}
+{"pt": "carregou", "yrl": ["usupiri"], "dice": 0.583, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usupiri=carregou/ergueu"}
+{"pt": "livro", "yrl": ["papera"], "dice": 0.583, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "papera='papel/livro' nos exemplos"}
+{"pt": "porco", "yrl": ["tayasú"], "dice": 0.583, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tayasú=porco"}
+{"pt": "urubu", "yrl": ["urubu"], "dice": 0.581, "df": 21, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "projeto", "yrl": ["prujetu"], "dice": 0.579, "df": 19, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo prujetu"}
+{"pt": "tronco", "yrl": ["rupitá"], "dice": 0.578, "df": 21, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rupitá='tronco/base'"}
+{"pt": "carne", "yrl": ["rukwera"], "dice": 0.578, "df": 32, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rukwera=carne (forma possuída)"}
+{"pt": "sentença judicial transitada", "yrl": ["sẽtẽsa"], "dice": 0.571, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'sentença'; resto truncado"}
+{"pt": "três anos", "yrl": ["musapiri akayú"], "dice": 0.571, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "musapiri=três, akayú=ano"}
+{"pt": "exercício financeiro", "yrl": ["muraákí financeiro"], "dice": 0.571, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "muraákí='trabalho/exercício' + empréstimo"}
+{"pt": "esse moço", "yrl": ["nhaã kurumiwasú"], "dice": 0.571, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã kurumiwasú=esse moço"}
+{"pt": "nesse dia", "yrl": ["nhaã ara"], "dice": 0.571, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã=esse, ara=dia"}
+{"pt": "este meu", "yrl": ["kwá se"], "dice": 0.571, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwá=este, se=meu"}
+{"pt": "direto", "yrl": ["satambika"], "dice": 0.571, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "satambika='direto/reto'"}
+{"pt": "decreto", "yrl": ["dekretu"], "dice": 0.571, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "alunos", "yrl": ["yumbuesara itá"], "dice": 0.571, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yumbuesara-itá='aprendizes'=alunos"}
+{"pt": "frutas", "yrl": ["iwá itá"], "dice": 0.571, "df": 15, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iwá-itá='frutas'"}
+{"pt": "chocou", "yrl": ["uyutuká"], "dice": 0.571, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyutuká=chocou-se"}
+{"pt": "araras", "yrl": ["arara"], "dice": 0.571, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "presa", "yrl": ["ximiára"], "dice": 0.571, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ximiára=presa/caça"}
+{"pt": "valente", "yrl": ["auaeté"], "dice": 0.571, "df": 27, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "léxico curado confirma"}
+{"pt": "atravessaram", "yrl": ["uyasá"], "dice": 0.571, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyasá=atravessou/atravessaram"}
+{"pt": "velhos", "yrl": ["tuyué itá"], "dice": 0.571, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tuyué=velho + plural"}
+{"pt": "facho", "yrl": ["turí"], "dice": 0.571, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "turí=facho"}
+{"pt": "saltou", "yrl": ["opúri"], "dice": 0.571, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "o-púri='saltou'"}
+{"pt": "pesado", "yrl": ["pusé"], "dice": 0.565, "df": 16, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pusé=pesado"}
+{"pt": "aqui está", "yrl": ["xukúi"], "dice": 0.562, "df": 15, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apresentativo 'eis aqui'"}
+{"pt": "conselho da república", "yrl": ["kũseliu"], "dice": 0.56, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta Republika"}
+{"pt": "cortou", "yrl": ["umunuka"], "dice": 0.56, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-munuka='cortou'"}
+{"pt": "quantos anos", "yrl": ["muíri akayú"], "dice": 0.556, "df": 8, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "muíri=quantos, akayú=anos"}
+{"pt": "crianças", "yrl": ["taína itá"], "dice": 0.553, "df": 28, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "taína-itá=crianças"}
+{"pt": "estás", "yrl": ["reikú"], "dice": 0.549, "df": 23, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "re-ikú=tu estás"}
+{"pt": "antigamente", "yrl": ["kuxiima"], "dice": 0.548, "df": 35, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuxiima=antigamente"}
+{"pt": "cinquenta por cento", "yrl": ["sĩkuẽta pusẽtu"], "dice": 0.545, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha porcentagem corretamente"}
+{"pt": "tribunais de contas", "yrl": ["kũta yaára"], "dice": 0.545, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'de contas'; falta 'tribunau'"}
+{"pt": "ministros do tribunal", "yrl": ["kuá ministru"], "dice": 0.545, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'os ministros'; falta 'tribunau'"}
+{"pt": "órgãos do poder", "yrl": ["judisiariu kirĩbásá"], "dice": 0.545, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='Poder Judiciário'; 'órgãos' fica fora"}
+{"pt": "pessoas que falam", "yrl": ["mira itá upurungitá"], "dice": 0.545, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mira-itá upurungitá=pessoas que falam"}
+{"pt": "controle interno", "yrl": ["miakũtasa"], "dice": 0.545, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "miakũtasa=controle; falta 'interno' (ikuára upé)"}
+{"pt": "diretrizes orçamentárias", "yrl": ["diñeru rapé"], "dice": 0.545, "df": 24, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "diñeru rapé='orçamento'; falta mukamẽsá='diretrizes'"}
+{"pt": "conselho nacional", "yrl": ["kũseliu nasiunau justisa"], "dice": 0.545, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "yrl inclui 'justisa'; PT truncado"}
+{"pt": "infrações penais", "yrl": ["ĩfrasãu"], "dice": 0.545, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'penáu'"}
+{"pt": "criação ou", "yrl": ["mukirai"], "dice": 0.545, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mukirai=criação/criar; 'ou' é cauda do PT"}
+{"pt": "teu irmão", "yrl": ["ne kiwira"], "dice": 0.545, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ne='teu', kiwira='irmão'"}
+{"pt": "eles fizeram", "yrl": ["ta umunhã ta"], "dice": 0.545, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'ta' final pertence ao NP seguinte"}
+{"pt": "amanhã nós", "yrl": ["wirandé kurí"], "dice": 0.545, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'amanhã'; 'kurí'=futuro, não 'nós'"}
+{"pt": "minha perna", "yrl": ["se retimã"], "dice": 0.545, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se retimã=minha perna"}
+{"pt": "jabuti saiu", "yrl": ["yautí usemu"], "dice": 0.545, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usemu='saiu'"}
+{"pt": "estou cansado", "yrl": ["se maraari"], "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se maraari=estou cansado"}
+{"pt": "me ir", "yrl": ["xasú ranhẽ"], "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "idiomático 'deixa-me ir' nos contextos"}
+{"pt": "aí ficou", "yrl": ["ape upitá"], "dice": 0.545, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ape=aí, upitá=ficou"}
+{"pt": "minha flauta", "yrl": ["cẹrẹmemɨ"], "dice": 0.545, "df": 8, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "cẹ='minha', rẹmemɨ='flauta'"}
+{"pt": "mulher chegou", "yrl": ["cunhã ocɨka ramé"], "dice": 0.545, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui ramé='quando'"}
+{"pt": "urbano", "yrl": ["tẽda wasú"], "dice": 0.545, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tẽda wasú='da cidade'; equivalente funcional de urbano"}
+{"pt": "parecer", "yrl": ["tamusẽmu sesewára"], "dice": 0.545, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui tamusẽmu='emitem'; sesewára aproxima 'parecer'"}
+{"pt": "desembargadores", "yrl": ["deseũbárcador"], "dice": 0.545, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "interestaduais", "yrl": ["istadu ita rupí"], "dice": 0.545, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "istadu-ita rupí=entre/pelos estados, atestado"}
+{"pt": "costumes", "yrl": ["rikusawa itá"], "dice": 0.545, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rikusawa-itá=costumes"}
+{"pt": "plantas", "yrl": ["yutima"], "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yutima(-itá)='plantas' nos exemplos"}
+{"pt": "trouxeram", "yrl": ["aintá ururi"], "dice": 0.545, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "plural exige aintá; ururi=trouxe"}
+{"pt": "gruta", "yrl": ["itakwara"], "dice": 0.545, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "itá+kwara='buraco de pedra'"}
+{"pt": "resina", "yrl": ["isika"], "dice": 0.545, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "isika=resina"}
+{"pt": "morrerá", "yrl": ["umanú kurí"], "dice": 0.545, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umanú + kurí futuro='morrerá'"}
+{"pt": "virgem", "yrl": ["virgem"], "dice": 0.545, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma palavra"}
+{"pt": "transformou", "yrl": ["aé umuyeréu"], "dice": 0.545, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'umuyeréu'; 'aé'='ele' extra"}
+{"pt": "escutar", "yrl": ["uyapisaka"], "dice": 0.545, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyapisaka=escutar"}
+{"pt": "vieram", "yrl": ["aintá uri"], "dice": 0.545, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá='eles', uri='vieram'"}
+{"pt": "pedir", "yrl": ["usú upurandú"], "dice": 0.545, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui usú='foi'; upurandú=pedir"}
+{"pt": "cauda", "yrl": ["ruáia"], "dice": 0.545, "df": 8, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ruáia=cauda (forma possuída)"}
+{"pt": "faziam", "yrl": ["umunhã xupé"], "dice": 0.545, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "umunhã=fazia(m); xupé='para ele' espúrio; sem exemplos"}
+{"pt": "baniwa", "yrl": ["baniwa"], "dice": 0.545, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "etnônimo idêntico"}
+{"pt": "pensava", "yrl": ["sesewara umaité"], "dice": 0.545, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui sesewara='por isso'; umaité=pensava"}
+{"pt": "tocando", "yrl": ["opeiú"], "dice": 0.545, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "opeiú=sopra/toca flauta"}
+{"pt": "bananas", "yrl": ["pakúa"], "dice": 0.545, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pakúa=banana"}
+{"pt": "faremos", "yrl": ["kurí yamunhã"], "dice": 0.545, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurí futuro + yamunhã='faremos'"}
+{"pt": "inciso do caput", "yrl": ["pedasu"], "dice": 0.543, "df": 41, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "pedasu='inciso'; 'do caput' não traduzido"}
+{"pt": "aquele homem", "yrl": ["nhaã apigawa"], "dice": 0.542, "df": 22, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã=aquele, apigawa=homem"}
+{"pt": "fugiu", "yrl": ["uyawáu"], "dice": 0.542, "df": 23, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyawáu=fugiu"}
+{"pt": "embaixo", "yrl": ["wírupi"], "dice": 0.541, "df": 20, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "wírupi='embaixo/por baixo'"}
+{"pt": "daqui", "yrl": ["kwá suí"], "dice": 0.538, "df": 37, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwá suí=daqui"}
+{"pt": "puçanga", "yrl": ["pusanga"], "dice": 0.536, "df": 15, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "vermelha", "yrl": ["piranga"], "dice": 0.536, "df": 15, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "piranga=vermelho"}
+{"pt": "operações de crédito", "yrl": ["creditu"], "dice": 0.533, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'crédito'; falta 'operações'"}
+{"pt": "vice governador", "yrl": ["vise"], "dice": 0.533, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'guvernadu(r)'"}
+{"pt": "três vezes", "yrl": ["musapiri viáji"], "dice": 0.533, "df": 11, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "musapiri viáji=três vezes"}
+{"pt": "aquelas pessoas", "yrl": ["nhaã mira itá"], "dice": 0.533, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã='aquelas', mira-itá='pessoas'"}
+{"pt": "responda", "yrl": ["resuaxara"], "dice": 0.533, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "imperativo 2sg de responder"}
+{"pt": "precatórios", "yrl": ["sekuyaára"], "dice": 0.533, "df": 14, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sekuyaára usado 1:1 para precatório nesta tradução"}
+{"pt": "seringa", "yrl": ["siringa"], "dice": 0.533, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "equivalente direto"}
+{"pt": "atirar", "yrl": ["ayapí"], "dice": 0.533, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ayapí=atiro/jogo"}
+{"pt": "nariz", "yrl": ["tĩ resé"], "dice": 0.533, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'tĩ'; 'resé'='no' espúrio"}
+{"pt": "sabemos", "yrl": ["yandé será yakwáu"], "dice": 0.533, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "yakwáu=sabemos; 'será' interrogativo espúrio"}
+{"pt": "flechas", "yrl": ["uíwa itá"], "dice": 0.533, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uíwa-itá='flechas'"}
+{"pt": "estava vindo", "yrl": ["uri uikú"], "dice": 0.526, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uri=vem + progressivo uikú"}
+{"pt": "quarenta", "yrl": ["irũdí papaisá"], "dice": 0.526, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "irũdí papaisá='quatro dezenas'; consistente em 41/43/45"}
+{"pt": "brasileiro", "yrl": ["braziupúra"], "dice": 0.526, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "braziu+púra='habitante do Brasil'"}
+{"pt": "folha", "yrl": ["rawa"], "dice": 0.526, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rawa=folha (forma possuída)"}
+{"pt": "verde", "yrl": ["suikiri"], "dice": 0.526, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "suikiri=verde"}
+{"pt": "esperamos", "yrl": ["yasarú"], "dice": 0.526, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yasarú=esperamos"}
+{"pt": "gosta", "yrl": ["ugustari"], "dice": 0.526, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-gustari='gosta', empréstimo"}
+{"pt": "ouviu", "yrl": ["usendú"], "dice": 0.525, "df": 36, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usendú=ouviu"}
+{"pt": "puxou", "yrl": ["usikí"], "dice": 0.524, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "usikí=puxou"}
+{"pt": "onça disse", "yrl": ["iauaraté onhehẽ"], "dice": 0.522, "df": 17, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iauaraté=onça, onhehẽ=disse"}
+{"pt": "eleição", "yrl": ["itáãu"], "dice": 0.522, "df": 16, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "fragmento da grafia eley-itáãu='eleição'"}
+{"pt": "pedaço", "yrl": ["pisãwera"], "dice": 0.522, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pisãwera=pedaço"}
+{"pt": "dorme", "yrl": ["ukíri"], "dice": 0.522, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ukíri=dorme"}
+{"pt": "eu venho", "yrl": ["ayuri"], "dice": 0.519, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ayuri=venho"}
+{"pt": "deixe estar", "yrl": ["tenupá"], "dice": 0.519, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tenupá='deixa estar'"}
+{"pt": "meninos", "yrl": ["kurumĩ itá"], "dice": 0.519, "df": 20, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumĩ-itá=meninos"}
+{"pt": "preto", "yrl": ["pixuna"], "dice": 0.517, "df": 20, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pixuna=preto"}
+{"pt": "tirou", "yrl": ["uyuuka"], "dice": 0.516, "df": 19, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyuuka=tirou"}
+{"pt": "buscar", "yrl": ["piamu"], "dice": 0.508, "df": 44, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "piamu='ir buscar'"}
+{"pt": "empregos e funções", "yrl": ["muraákíta"], "dice": 0.5, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'trabalhos' colapsa cargos/empregos/funções"}
+{"pt": "entidades da administração", "yrl": ["ẽtidadi ita"], "dice": 0.5, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'administração'"}
+{"pt": "refere o inciso", "yrl": ["ũbeusaáramiri"], "dice": 0.5, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "ũbeusaáramiri=inciso; 'refere' fica fora"}
+{"pt": "todos os dias", "yrl": ["muíri ara"], "dice": 0.5, "df": 18, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "muíri ara=todos os dias"}
+{"pt": "nesta constituição", "yrl": ["mũdusáwa turusúwa upé"], "dice": 0.5, "df": 21, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'lei grande'+upé='na Constituição'"}
+{"pt": "instituições financeiras", "yrl": ["asui tẽdawá ita"], "dice": 0.5, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "asui espúrio; tẽdawá aproxima 'instituições'; falta 'financeiras'"}
+{"pt": "todo dia", "yrl": ["panhẽ ara"], "dice": 0.5, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ='todo', ara='dia'"}
+{"pt": "aí mesmo", "yrl": ["ape ana tẽ"], "dice": 0.5, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ape ana tẽ=aí mesmo"}
+{"pt": "perto dele", "yrl": ["suakí"], "dice": 0.5, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "s-uakí='perto dele' (3sg)"}
+{"pt": "casa deles", "yrl": ["aintá ruka"], "dice": 0.5, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá ruka=casa deles"}
+{"pt": "toda gente", "yrl": ["panhẽ mira umaã"], "dice": 0.5, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui umaã='ver'; núcleo panhẽ mira"}
+{"pt": "estava olhando", "yrl": ["umaã uikú"], "dice": 0.5, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umaã uikú=estava olhando (progressivo)"}
+{"pt": "canoa está", "yrl": ["igara uikú"], "dice": 0.5, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "igara=canoa, uikú=está"}
+{"pt": "jabuti falou", "yrl": ["iáutí onhehẽ"], "dice": 0.5, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "iáutí=jabuti, onhehẽ=falou"}
+{"pt": "este pau", "yrl": ["kwaá imirá"], "dice": 0.5, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwaá='este', imirá='pau/árvore'"}
+{"pt": "contrário", "yrl": ["aãmurupí"], "dice": 0.5, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aãmurupí=ao contrário/de outro modo"}
+{"pt": "sessenta", "yrl": ["sesẽta"], "dice": 0.5, "df": 15, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "contratos", "yrl": ["kũtratu"], "dice": 0.5, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "jovem", "yrl": ["kurumi wasú"], "dice": 0.5, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurumi wasú=moço/jovem"}
+{"pt": "prestes", "yrl": ["putari ramé"], "dice": 0.5, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "construção -putari ramé='prestes a'"}
+{"pt": "ficamos", "yrl": ["yapitá"], "dice": 0.5, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yapitá=ficamos"}
+{"pt": "puxaram", "yrl": ["aintá usikí"], "dice": 0.5, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá=eles marca o plural de 'puxaram'"}
+{"pt": "fazermos", "yrl": ["yamunhã arama"], "dice": 0.5, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yamunhã arama='para fazermos'"}
+{"pt": "esposas", "yrl": ["rimirikú itá"], "dice": 0.5, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rimirikú-itá='esposas'"}
+{"pt": "secou", "yrl": ["utikanga"], "dice": 0.5, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "utikanga=secou"}
+{"pt": "manaus", "yrl": ["barra"], "dice": 0.5, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'Barra', nome tradicional de Manaus"}
+{"pt": "deixaram", "yrl": ["aintá uxari"], "dice": 0.5, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá uxari=eles deixaram"}
+{"pt": "subiram", "yrl": ["aintá uyupiri"], "dice": 0.5, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá='eles', uyupiri='subiram'"}
+{"pt": "fazemos", "yrl": ["irumu yamunhã"], "dice": 0.5, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui irumu='com'; yamunhã=fazemos"}
+{"pt": "roubar", "yrl": ["umundá"], "dice": 0.5, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umundá=rouba(r)"}
+{"pt": "sentiram", "yrl": ["aintá usaã"], "dice": 0.5, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá usaã=sentiram"}
+{"pt": "cheirosa", "yrl": ["sakwena"], "dice": 0.5, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sakwena='cheirosa'"}
+{"pt": "matamos", "yrl": ["yayuká"], "dice": 0.5, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yayuká=matamos"}
+{"pt": "cambota", "yrl": ["apara"], "dice": 0.5, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "apara=torto/cambota; consistente"}
+{"pt": "diabo", "yrl": ["yuruparí"], "dice": 0.492, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "Yuruparí traduz 'diabo' nestes textos"}
+{"pt": "pegou", "yrl": ["upisika"], "dice": 0.488, "df": 48, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-pisika='pegou'"}
+{"pt": "exterior", "yrl": ["ukaára"], "dice": 0.485, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ukaára=fora/exterior"}
+{"pt": "onde está", "yrl": ["mamé taá"], "dice": 0.484, "df": 26, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='onde?'; falta 'uikú'='está'"}
+{"pt": "aquele moço", "yrl": ["nhaã kurumiwasú"], "dice": 0.48, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã=aquele, kurumiwasú=moço"}
+{"pt": "eles chegaram", "yrl": ["aintá usika"], "dice": 0.48, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá='eles', usika='chegaram'"}
+{"pt": "preta", "yrl": ["pixuna"], "dice": 0.48, "df": 12, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pixuna=preta"}
+{"pt": "casa de compras", "yrl": ["piripanasaua ruka"], "dice": 0.476, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "compra+casa='loja'"}
+{"pt": "defensoria pública", "yrl": ["publika"], "dice": 0.476, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'pública'; falta defẽsuria"}
+{"pt": "minha esposa", "yrl": ["se rimirikú"], "dice": 0.476, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se='minha', rimirikú='esposa'"}
+{"pt": "direitos", "yrl": ["direitu"], "dice": 0.476, "df": 59, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "tempo de contribuição", "yrl": ["asui kupukusá"], "dice": 0.471, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'kupukusá'='duração'; falta 'contribuição'; 'asui' espúrio"}
+{"pt": "geral da república", "yrl": ["gerau da republika"], "dice": 0.471, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "decalque exato do fragmento"}
+{"pt": "atrás dele", "yrl": ["sakwera"], "dice": 0.471, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "s-akwera='atrás dele'"}
+{"pt": "corpo deles", "yrl": ["aintá pira"], "dice": 0.471, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá pira=corpo deles"}
+{"pt": "mesas", "yrl": ["meza"], "dice": 0.471, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "recado", "yrl": ["kwekatú"], "dice": 0.471, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwekatú=recado/lembranças"}
+{"pt": "amarrou", "yrl": ["upukwari"], "dice": 0.471, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-pukwari='amarrou'"}
+{"pt": "dormindo", "yrl": ["ukiri uikú"], "dice": 0.471, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ukiri uikú=está dormindo"}
+{"pt": "finada", "yrl": ["ambira"], "dice": 0.471, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ambira=finado/defunto"}
+{"pt": "igreja", "yrl": ["tupauku"], "dice": 0.471, "df": 8, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tupã-uka='casa de Deus'=igreja"}
+{"pt": "faminta", "yrl": ["iumasi"], "dice": 0.471, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yumasí='fome/faminta' predicativo"}
+{"pt": "coitada", "yrl": ["taité"], "dice": 0.471, "df": 4, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "taité=coitada"}
+{"pt": "câmara municipal", "yrl": ["kãmaára"], "dice": 0.467, "df": 8, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'municipal'"}
+{"pt": "trata o art", "yrl": ["uikú kuá art"], "dice": 0.462, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "fórmula fixa 'de que trata o art.'"}
+{"pt": "público do trabalho", "yrl": ["ministeriu payẽ awá"], "dice": 0.462, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='Ministério Público'; falta '(do) Murakí'=Trabalho"}
+{"pt": "nacional de cultura", "yrl": ["rikusá resé waára"], "dice": 0.462, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'sobre a cultura'; falta 'nacional'"}
+{"pt": "promulgação desta constituição", "yrl": ["kuá constituição"], "dice": 0.462, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'desta Constituição'; falta 'promulgação'"}
+{"pt": "você quer ir", "yrl": ["resú putari"], "dice": 0.462, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "resú-putari=queres ir"}
+{"pt": "economia mista", "yrl": ["mista"], "dice": 0.462, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "truncado; falta ekunumia"}
+{"pt": "meu filho", "yrl": ["se mimbira"], "dice": 0.462, "df": 39, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se mimbira=meu filho (de mulher)"}
+{"pt": "cujo nome", "yrl": ["sera waá"], "dice": 0.462, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sera=nome dele + relativizador waá"}
+{"pt": "nós estamos", "yrl": ["yaikú"], "dice": 0.462, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yaikú=estamos (1pl)"}
+{"pt": "outras línguas", "yrl": ["amú nheenga"], "dice": 0.462, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amú='outra', nheenga='língua'; itá segue"}
+{"pt": "onça ouviu", "yrl": ["ocenõ"], "dice": 0.462, "df": 6, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'ouviu'; falta 'onça' (iauaraté)"}
+{"pt": "todos nós", "yrl": ["panhẽ yandé"], "dice": 0.462, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ=todos, yandé=nós"}
+{"pt": "escolas", "yrl": ["yumbuesara ruka"], "dice": 0.462, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'casa de aprender'='escola'; itá segue"}
+{"pt": "desporto", "yrl": ["yumusaáraitá"], "dice": 0.462, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "calque 'brincadeiras/jogos' usado consistentemente"}
+{"pt": "autarquias", "yrl": ["autarquia"], "dice": 0.462, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "exportação", "yrl": ["ukaára kití"], "dice": 0.462, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "ukaára kití='para fora'; falta umũdú=enviar"}
+{"pt": "mandei", "yrl": ["kari"], "dice": 0.462, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "causativo '-kari'='mandar fazer'; consistente"}
+{"pt": "cortar", "yrl": ["amunuka"], "dice": 0.462, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "munuka=cortar (prefixo 1sg inerente)"}
+{"pt": "verdes", "yrl": ["yakira"], "dice": 0.462, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yakira='verde/imaturo'"}
+{"pt": "criou", "yrl": ["tupana umunhã"], "dice": 0.462, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui sujeito Tupana='Deus'; umunhã=criou"}
+{"pt": "esquecido", "yrl": ["resarái"], "dice": 0.462, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "(se) resarái='esquecer'; consistente"}
+{"pt": "virou", "yrl": ["uyeréu"], "dice": 0.456, "df": 17, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyeréu=virou(-se)"}
+{"pt": "vermelho", "yrl": ["piranga"], "dice": 0.456, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "léxico curado confirma"}
+{"pt": "comprido", "yrl": ["puku"], "dice": 0.455, "df": 16, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "puku=comprido"}
+{"pt": "arrancar", "yrl": ["umusaka"], "dice": 0.455, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umusaka=arranca/tira"}
+{"pt": "casar", "yrl": ["umendari"], "dice": 0.45, "df": 24, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umendari=casar"}
+{"pt": "unidades da federação", "yrl": ["federasãu"], "dice": 0.444, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'federação'; falta 'unidades'"}
+{"pt": "forças armadas", "yrl": ["mukawá"], "dice": 0.444, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "mukawá='armas'; falta 'força' (kirĩbasawa)"}
+{"pt": "calamidade pública", "yrl": ["payẽ mãnũgá"], "dice": 0.444, "df": 14, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'toda coisa'; falta puxuwera='ruim' que dá calamidade"}
+{"pt": "procurador geral", "yrl": ["gerau da republika"], "dice": 0.444, "df": 14, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "janela deslocada; falta Prukuradu"}
+{"pt": "meu neto", "yrl": ["se rimiarirú"], "dice": 0.444, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "se rimiarirú=meu neto"}
+{"pt": "tinha feito", "yrl": ["umunhã waá"], "dice": 0.444, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'que fez', relativo equivalente nos contextos"}
+{"pt": "votos", "yrl": ["vutu"], "dice": 0.444, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "havemos", "yrl": ["kurí yandé"], "dice": 0.444, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurí=futuro + yandé=nós ≈ 'havemos'"}
+{"pt": "vontade", "yrl": ["rimutara"], "dice": 0.444, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rimutara='vontade/desejo'"}
+{"pt": "coitado", "yrl": ["taité"], "dice": 0.444, "df": 14, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "taité=coitado"}
+{"pt": "mataram", "yrl": ["uyuká yepé"], "dice": 0.444, "df": 13, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "uyuká=mataram; yepé='um' (objeto) espúrio"}
+{"pt": "abriu", "yrl": ["upirari"], "dice": 0.435, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-pirari='abriu'"}
+{"pt": "pássaro", "yrl": ["uirá"], "dice": 0.435, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uirá=pássaro"}
+{"pt": "cansada", "yrl": ["kuere"], "dice": 0.435, "df": 7, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuere=cansado(a)"}
+{"pt": "trinta e cinco", "yrl": ["trĩta sĩku akayu"], "dice": 0.429, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "trĩta sĩku=35; akayu='anos' espúrio; sem exemplos"}
+{"pt": "deliberação dos estados", "yrl": ["istadu ita asui"], "dice": 0.429, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "cobre 'os Estados'; falta 'deliberação'; 'asui' espúrio"}
+{"pt": "eles já estavam", "yrl": ["aintá uikú"], "dice": 0.429, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'eles estavam'; ana='já' segue no contexto"}
+{"pt": "cinco décimos", "yrl": ["cinco"], "dice": 0.429, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'décimos'"}
+{"pt": "juiz federal", "yrl": ["juiz federau"], "dice": 0.429, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo espelha o termo"}
+{"pt": "ordem econômica", "yrl": ["economia"], "dice": 0.429, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "núcleo 'economia'; 'ordem' só parafraseado"}
+{"pt": "estava prestes", "yrl": ["putari ramé"], "dice": 0.429, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "V-putari ramé='quando estava prestes a'"}
+{"pt": "essas mulheres", "yrl": ["nhaã kunhã itá"], "dice": 0.429, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã kunhã-itá=essas mulheres"}
+{"pt": "eu acho", "yrl": ["akwá"], "dice": 0.429, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "akwá parentético='eu acho'"}
+{"pt": "eu irei", "yrl": ["asú kurí"], "dice": 0.429, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "asú kurí=irei"}
+{"pt": "todos eles", "yrl": ["panhẽ aintá"], "dice": 0.429, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ=todos, aintá=eles"}
+{"pt": "você chegou", "yrl": ["resika"], "dice": 0.429, "df": 4, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "re-sika='tu chegaste'"}
+{"pt": "distrital", "yrl": ["distritau"], "dice": 0.429, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "casamento", "yrl": ["menda sawá"], "dice": 0.429, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mendasawa='casamento'"}
+{"pt": "preguiça", "yrl": ["nhaã aí"], "dice": 0.429, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui nhaã='aquela'; aí=preguiça"}
+{"pt": "ferver", "yrl": ["upupuri"], "dice": 0.429, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upupuri=ferve"}
+{"pt": "pássaros", "yrl": ["wirá itá"], "dice": 0.429, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "wirá-itá=pássaros"}
+{"pt": "sentiu", "yrl": ["usaã"], "dice": 0.429, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-saã='sentiu'"}
+{"pt": "soube", "yrl": ["aé ukwáu"], "dice": 0.429, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui pronome aé='ele'; ukwáu=soube"}
+{"pt": "pegue", "yrl": ["repisika"], "dice": 0.429, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "imperativo 2sg de pegar"}
+{"pt": "esperar", "yrl": ["yasarú"], "dice": 0.429, "df": 15, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sarú=esperar (prefixo 1pl inerente)"}
+{"pt": "netos", "yrl": ["rimiarirú"], "dice": 0.429, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rimiarirú=neto(s)"}
+{"pt": "quarto", "yrl": ["ukapi"], "dice": 0.429, "df": 6, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uka+pi=cômodo/quarto"}
+{"pt": "aquela mulher", "yrl": ["nhaã kunhã"], "dice": 0.424, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã kunhã=aquela mulher"}
+{"pt": "superior tribunal", "yrl": ["tribunau de justisa"], "dice": 0.421, "df": 15, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "janela deslocada; falta Superiú"}
+{"pt": "tu estás", "yrl": ["reikú"], "dice": 0.421, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "reikú=tu estás"}
+{"pt": "longe daqui", "yrl": ["kwá suí"], "dice": 0.421, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='daqui'; falta 'apekatú'='longe'"}
+{"pt": "está fazendo", "yrl": ["umunhã uikú"], "dice": 0.421, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umunhã uikú=está fazendo"}
+{"pt": "eleições", "yrl": ["parawaákasá"], "dice": 0.421, "df": 7, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nominalização de parawaáka='escolher'"}
+{"pt": "pequenas", "yrl": ["itá mirĩ"], "dice": 0.421, "df": 13, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "itá é plural do substantivo anterior; mirĩ=pequeno"}
+{"pt": "desceu", "yrl": ["uwiyé"], "dice": 0.421, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uwiyé=desceu"}
+{"pt": "morreram", "yrl": ["umanũ"], "dice": 0.421, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "umanũ=morreram"}
+{"pt": "quebrou", "yrl": ["umpena"], "dice": 0.421, "df": 13, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "u-mpena='quebrou'"}
+{"pt": "mostrar", "yrl": ["amukameẽ"], "dice": 0.421, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amukameẽ=mostro/mostrar"}
+{"pt": "membros do ministério", "yrl": ["ministeriu publiku pura"], "dice": 0.417, "df": 18, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "'pura'='membros de'; termo completo"}
+{"pt": "perigoso", "yrl": ["yawaité"], "dice": 0.417, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yawaité=perigoso"}
+{"pt": "senão", "yrl": ["kurũ"], "dice": 0.417, "df": 19, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurũ='senão' nos três exemplos"}
+{"pt": "vice presidente", "yrl": ["asui sumuaára"], "dice": 0.414, "df": 23, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui asui='e'; sumuaára=vice"}
+{"pt": "figura", "yrl": ["rangawa"], "dice": 0.414, "df": 6, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "rangawa=imagem/figura"}
+{"pt": "toda a gente", "yrl": ["panhẽ mira"], "dice": 0.41, "df": 13, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "panhẽ mira=toda a gente"}
+{"pt": "venha", "yrl": ["reyuri"], "dice": 0.41, "df": 16, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "re-yuri='venha'"}
+{"pt": "anos de idade", "yrl": ["waitá akayu"], "dice": 0.4, "df": 16, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "akayu='anos'; waitá é relativizador extra"}
+{"pt": "geral de previdência", "yrl": ["payẽ miírata"], "dice": 0.4, "df": 19, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='todas as pessoas'≈'geral'; falta 'previdência'"}
+{"pt": "próprio de previdência", "yrl": ["previdẽsia"], "dice": 0.4, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'previdência'; 'regime próprio' fora"}
+{"pt": "regime de previdência", "yrl": ["satãbikasá"], "dice": 0.4, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "aproxima 'regime'; falta presidẽsia='previdência'"}
+{"pt": "tribunal regional federal", "yrl": ["rejiunau federau"], "dice": 0.4, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'tribunau'"}
+{"pt": "tratam os arts", "yrl": ["asui ũbeu"], "dice": 0.4, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'ũbeu'='tratam/dizem'; falta 'arts'; 'asui' espúrio"}
+{"pt": "regime geral", "yrl": ["payẽ miírata"], "dice": 0.4, "df": 19, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'todas as pessoas' aproxima 'geral'; falta 'regime'"}
+{"pt": "esta terra", "yrl": ["kwá tetama"], "dice": 0.4, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kwá='esta', tetama='terra'"}
+{"pt": "eu mando", "yrl": ["amundú"], "dice": 0.4, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amundú=eu mando"}
+{"pt": "deixa estar", "yrl": ["tenupá"], "dice": 0.4, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tenupá='deixa estar'"}
+{"pt": "salários", "yrl": ["salário"], "dice": 0.4, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "autoridade", "yrl": ["autoridade"], "dice": 0.4, "df": 20, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesma palavra"}
+{"pt": "índios", "yrl": ["makú itá"], "dice": 0.4, "df": 11, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "makú-itá usado para 'índios' nesses textos"}
+{"pt": "couber", "yrl": ["mamẽ umeẽ"], "dice": 0.4, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "fórmula consistente de 'no que couber'"}
+{"pt": "projetos", "yrl": ["prujetu"], "dice": 0.4, "df": 21, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo prujetu"}
+{"pt": "votação", "yrl": ["vutasãu"], "dice": 0.4, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo fiel"}
+{"pt": "feita", "yrl": ["suiuara"], "dice": 0.4, "df": 10, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "suiuara='feito de/proveniente de'"}
+{"pt": "vinho", "yrl": ["yukisé"], "dice": 0.4, "df": 7, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yukisé='suco/caldo'; equivale a vinho de fruta"}
+{"pt": "acharam", "yrl": ["aintá uwasemu"], "dice": 0.4, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aintá='eles', uwasemu='acharam'"}
+{"pt": "encontraram", "yrl": ["uyusuantí"], "dice": 0.4, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyusuantí=encontraram-se"}
+{"pt": "depressa", "yrl": ["kurutẽi"], "dice": 0.4, "df": 17, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kurutẽi=depressa"}
+{"pt": "amarela", "yrl": ["tawá"], "dice": 0.4, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "tawá=amarelo"}
+{"pt": "chamado", "yrl": ["sera waá"], "dice": 0.4, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sera waá='cujo nome é'"}
+{"pt": "plantar", "yrl": ["uyutima"], "dice": 0.4, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyutima=plantar"}
+{"pt": "chorou", "yrl": ["uyaxiú"], "dice": 0.4, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyaxiú=chorou"}
+{"pt": "cheguei", "yrl": ["asika"], "dice": 0.4, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "asika=cheguei"}
+{"pt": "parceiro", "yrl": ["sumuára"], "dice": 0.4, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sumuára='companheiro'"}
+{"pt": "completamente", "yrl": ["usú retana"], "dice": 0.4, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui usú='foi'; retana=intensificador"}
+{"pt": "sombra", "yrl": ["anga"], "dice": 0.4, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "anga=alma/sombra nos contextos"}
+{"pt": "levantou", "yrl": ["upuãmu"], "dice": 0.4, "df": 9, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upuãmu=levantou-se"}
+{"pt": "colega", "yrl": ["sumuára"], "dice": 0.4, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sumuára='companheiro/colega'"}
+{"pt": "juntos", "yrl": ["yepewasú"], "dice": 0.4, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yepewasú=juntos/unidos"}
+{"pt": "outros", "yrl": ["amú itá"], "dice": 0.396, "df": 72, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "amú-itá=outros"}
+{"pt": "nesse momento", "yrl": ["ape ana"], "dice": 0.389, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ape ana='aí então'"}
+{"pt": "então eles", "yrl": ["aiwana aintá"], "dice": 0.387, "df": 22, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aiwana='então', aintá='eles'"}
+{"pt": "havia", "yrl": ["aikwé"], "dice": 0.387, "df": 47, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "aikwé=há/havia"}
+{"pt": "assembleia legislativa", "yrl": ["yaátirisá"], "dice": 0.381, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "='assembleia/reunião'; falta 'legislativa'"}
+{"pt": "estrangeiros", "yrl": ["aãmu tetãma"], "dice": 0.381, "df": 9, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'outra terra'; falta suiwaára='vindo de'"}
+{"pt": "quinze", "yrl": ["kinze"], "dice": 0.381, "df": 17, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "impostos", "yrl": ["kubrarisá"], "dice": 0.381, "df": 29, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kubrarisá='cobrança', equivalente consistente"}
+{"pt": "taiaçu", "yrl": ["tayasú"], "dice": 0.381, "df": 4, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mesmo termo"}
+{"pt": "companheiros", "yrl": ["irumuára"], "dice": 0.381, "df": 12, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "irumuára=companheiro"}
+{"pt": "porção", "yrl": ["riiya"], "dice": 0.381, "df": 10, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "riiya='porção/bando'"}
+{"pt": "acabou", "yrl": ["upaua"], "dice": 0.381, "df": 17, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upaua=acabou"}
+{"pt": "caput do art", "yrl": ["caput"], "dice": 0.378, "df": 17, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta 'do art'"}
+{"pt": "direta e indireta", "yrl": ["aãmuramẽ"], "dice": 0.375, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "aãmuramẽ≈'de outro modo'=indireta; 'direta'=satãbika fora"}
+{"pt": "está vivo", "yrl": ["sikwé"], "dice": 0.375, "df": 5, "grupo_dominante": "gurgel", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sikwé=vivo"}
+{"pt": "eu comer", "yrl": ["aú arama"], "dice": 0.375, "df": 11, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "a-ú arama='para eu comer'"}
+{"pt": "nossa terra", "yrl": ["retama kití"], "dice": 0.375, "df": 6, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "falta yané='nossa'; kití='para' espúrio"}
+{"pt": "domingos", "yrl": ["mituú"], "dice": 0.375, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "mituú=domingo/dia de guarda"}
+{"pt": "difusão", "yrl": ["ta mukamé"], "dice": 0.375, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "'mukamé'='mostrar/divulgar'; 'ta' espúrio"}
+{"pt": "informações", "yrl": ["marãduwa"], "dice": 0.375, "df": 13, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "marãduwa=notícia/informação"}
+{"pt": "especialmente", "yrl": ["piri kuá"], "dice": 0.375, "df": 12, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "piri='mais'≈especialmente; kuá pertence ao NP seguinte"}
+{"pt": "menina", "yrl": ["kunhatai"], "dice": 0.375, "df": 13, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kunhataĩ=menina"}
+{"pt": "agarrou", "yrl": ["opɨcɨka"], "dice": 0.375, "df": 7, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "o-pɨcɨka='pegou/agarrou'"}
+{"pt": "achamos", "yrl": ["yawasemu"], "dice": 0.375, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yawasemu=achamos"}
+{"pt": "tristes", "yrl": ["sasiára"], "dice": 0.375, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sasiára=triste"}
+{"pt": "essa gente", "yrl": ["nhaã mira"], "dice": 0.37, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "nhaã='essa', mira='gente'"}
+{"pt": "caçar", "yrl": ["usú ukamundú"], "dice": 0.37, "df": 22, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui usú='foi'; ukamundú=caçar"}
+{"pt": "chorar", "yrl": ["uyaxiú"], "dice": 0.368, "df": 10, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uyaxiú=chora(r)"}
+{"pt": "outrora", "yrl": ["kuxiima"], "dice": 0.367, "df": 11, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "kuxiima=outrora/antigamente"}
+{"pt": "dez dias", "yrl": ["mukũi pu"], "dice": 0.364, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "mukũi pu='dez' (duas mãos); falta aára='dias'"}
+{"pt": "perto dela", "yrl": ["suakí"], "dice": 0.364, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "suakí=perto dele/dela"}
+{"pt": "pernas", "yrl": ["setimã"], "dice": 0.364, "df": 9, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "setimã=perna(s) dele"}
+{"pt": "cheio", "yrl": ["teresemu"], "dice": 0.364, "df": 16, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "teresemu='cheio'"}
+{"pt": "desceram", "yrl": ["uwiyé"], "dice": 0.364, "df": 7, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "uwiyé=desceu/desceram"}
+{"pt": "disseram", "yrl": ["taunheẽ"], "dice": 0.364, "df": 16, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "ta-u-nheẽ=eles disseram"}
+{"pt": "corvo", "yrl": ["urubú"], "dice": 0.364, "df": 5, "grupo_dominante": "rm_tycho", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "urubú traduz 'corvo' neste texto"}
+{"pt": "meio ambiente", "yrl": ["yaiku"], "dice": 0.357, "df": 17, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "paráfrase 'onde vivemos' truncada; falta mamẽ"}
+{"pt": "procurar", "yrl": ["usú usikari"], "dice": 0.356, "df": 33, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "inclui usú='foi'; usikari=procurar"}
+{"pt": "disposto nos arts", "yrl": ["arts"], "dice": 0.353, "df": 4, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'arts'; falta 'disposto'"}
+{"pt": "aquele barulho", "yrl": ["teapú"], "dice": 0.353, "df": 4, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'barulho'; falta nhaã='aquele'"}
+{"pt": "autonomia", "yrl": ["autunumia"], "dice": 0.353, "df": 14, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "artístico", "yrl": ["kuásá"], "dice": 0.353, "df": 6, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "posição consistente nas enumerações; kuásá='saber/arte'"}
+{"pt": "grave", "yrl": ["kaátu"], "dice": 0.353, "df": 5, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "intensificador pareado consistentemente com 'grave'"}
+{"pt": "pensões", "yrl": ["pẽsãu"], "dice": 0.353, "df": 10, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "empréstimo direto"}
+{"pt": "encaminhamento", "yrl": ["yumũdu"], "dice": 0.353, "df": 3, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "yumũdu='envio/mandar adiante'"}
+{"pt": "comprar", "yrl": ["upiripana"], "dice": 0.353, "df": 19, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "upiripana=compra(r)"}
+{"pt": "vejam", "yrl": ["pemaã"], "dice": 0.353, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "pemaã=vejam (2pl imperativo)"}
+{"pt": "melhor", "yrl": ["katú piri"], "dice": 0.353, "df": 14, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "katú='bom' + piri='mais'"}
+{"pt": "entrar", "yrl": ["awiké"], "dice": 0.353, "df": 12, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "awiké=entro/entrar"}
+{"pt": "morro", "yrl": ["amanú"], "dice": 0.353, "df": 5, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "a-manú=eu morro"}
+{"pt": "cheira", "yrl": ["sakwena"], "dice": 0.353, "df": 5, "grupo_dominante": "treebank_ud", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "sakwena='cheiroso/cheira bem'"}
+{"pt": "estado de defesa", "yrl": ["kuá istadu"], "dice": 0.35, "df": 18, "grupo_dominante": "constituicao", "fontes": ["mineracao_dice"], "veredicto": "parcial", "motivo": "só 'estado'; falta musúãtisá='defesa'; kuá espúrio"}
+{"pt": "alguma coisa", "yrl": ["manungara"], "dice": 0.35, "df": 8, "grupo_dominante": "avila2021", "fontes": ["mineracao_dice"], "veredicto": "aprovado", "motivo": "manungara=alguma coisa"}

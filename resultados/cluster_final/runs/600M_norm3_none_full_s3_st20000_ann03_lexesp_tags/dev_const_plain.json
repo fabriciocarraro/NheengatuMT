@@ -1,0 +1,12 @@
+{
+ "dev_const.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 29.28,
+  "spBLEU": 13.19,
+  "n": 233
+ },
+ "dev_const.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 34.83,
+  "spBLEU": 15.8,
+  "n": 233
+ }
+}

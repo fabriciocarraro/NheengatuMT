@@ -1,0 +1,32 @@
+{
+ "dev_extra.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 64.58,
+  "spBLEU": 54.5,
+  "n": 372
+ },
+ "dev_extra.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 61.24,
+  "spBLEU": 46.28,
+  "n": 372
+ },
+ "dev_const.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 28.81,
+  "spBLEU": 12.63,
+  "n": 233
+ },
+ "dev_const.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 36.31,
+  "spBLEU": 17.37,
+  "n": 233
+ },
+ "dev_fala.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 46.71,
+  "spBLEU": 27.89,
+  "n": 116
+ },
+ "dev_fala.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 51.0,
+  "spBLEU": 31.68,
+  "n": 116
+ }
+}

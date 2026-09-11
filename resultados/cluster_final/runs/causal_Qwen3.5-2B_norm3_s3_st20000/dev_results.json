@@ -1,0 +1,50 @@
+{
+ "dev_const.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 26.1,
+  "spBLEU": 10.52,
+  "n": 233,
+  "vazias": 0,
+  "emendas": 0,
+  "pensou": 0
+ },
+ "dev_const.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 27.91,
+  "spBLEU": 8.1,
+  "n": 233,
+  "vazias": 0,
+  "emendas": 0,
+  "pensou": 0
+ },
+ "dev_extra.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 52.25,
+  "spBLEU": 39.93,
+  "n": 372,
+  "vazias": 0,
+  "emendas": 0,
+  "pensou": 0
+ },
+ "dev_extra.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 48.36,
+  "spBLEU": 31.62,
+  "n": 372,
+  "vazias": 0,
+  "emendas": 0,
+  "pensou": 0
+ },
+ "dev_fala.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 41.21,
+  "spBLEU": 20.01,
+  "n": 116,
+  "vazias": 0,
+  "emendas": 0,
+  "pensou": 0
+ },
+ "dev_fala.por-yrl.jsonl|yrl_Latn->por_Latn": {
+  "chrF++": 47.46,
+  "spBLEU": 29.86,
+  "n": 116,
+  "vazias": 0,
+  "emendas": 0,
+  "pensou": 0
+ }
+}

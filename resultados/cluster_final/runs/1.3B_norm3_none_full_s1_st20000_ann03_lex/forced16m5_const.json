@@ -1,0 +1,11 @@
+{
+ "dev_const.por-yrl.jsonl|por_Latn->yrl_Latn": {
+  "chrF++": 29.37,
+  "spBLEU": 11.18,
+  "n": 233,
+  "com_restricao": 110,
+  "sem_dica": 123,
+  "falhas_restricao": 0,
+  "alvos_cumpridos": "164/165"
+ }
+}
